@@ -72,5 +72,5 @@ crashlytics-build.properties
 
 
 *.cache
-*.log
-.Library/
+Logs/
+Library/
