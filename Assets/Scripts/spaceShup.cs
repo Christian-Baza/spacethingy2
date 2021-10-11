@@ -38,35 +38,35 @@ public class spaceShup : MonoBehaviour
                 if (Input.GetKeyUp(KeyCode.Space) && vapen == 0)
                 {
                     print("bang");
-                    Instantiate(prefabs[0], transform.position, Quaternion.identity).GetComponent<Rigidbody>().AddForce(0, 0, 500);
+                    Instantiate(prefabs[0], transform.position, Quaternion.identity).GetComponent<Rigidbody>().AddForce(0, 500, 0);
                 }
                 if (Input.GetKeyUp(KeyCode.Space) && vapen == 2)
                 {
                     print("bang");
-                    Instantiate(prefabs[1], transform.position, Quaternion.identity).GetComponent<Rigidbody>().AddForce(0, 0, 500);
+                    Instantiate(prefabs[1], transform.position, Quaternion.identity).GetComponent<Rigidbody>().AddForce(0, 500, 0);
                 }
                 int rng = Random.Range(0, 3);
                 if (timer > 5)
                 {
                     print("Ahh");
                     timer = 0;
-                    Instantiate(prefabs[2], punkteer[rng].transform.position, Quaternion.identity).GetComponent<Rigidbody>().AddForce(0, 0, -250);
+                    Instantiate(prefabs[2], punkteer[rng].transform.position, Quaternion.identity).GetComponent<Rigidbody>().AddForce(0, -250, 0);
                 }
                 if (Input.GetKey(KeyCode.D))
                 {
-                    GetComponent<Rigidbody>().AddForce(5, 0, 0);
+                    GetComponent<Rigidbody>().AddForce(500 * Time.deltaTime, 0, 0);
                 }
-                if (Input.GetKeyDown(KeyCode.A))
+                if (Input.GetKey(KeyCode.A))
                 {
-                    GetComponent<Rigidbody>().AddForce(-50, 0, 0);
+                    GetComponent<Rigidbody>().AddForce(-500 * Time.deltaTime, 0, 0);
                 }
                 if (transform.position.x > max)
                 {
-                    transform.position = new Vector3(-max, 0, 0);
+                    transform.position = new Vector3(-max, transform.position.y, 0);
                 }
                 if (transform.position.x < -max)
                 {
-                    transform.position = new Vector3(max, 0, 0);
+                    transform.position = new Vector3(max, transform.position.y, 0);
                 }
                 timer += Time.deltaTime;
                 break;
