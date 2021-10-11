@@ -1061,15 +1061,15 @@ MonoBehaviour:
   ScoreText: {fileID: 915920500}
   typ: 0
   prefabs:
-  - {fileID: 1412935631395823060, guid: c06afc54502e99346a1066bbe80cc553, type: 3}
   - {fileID: 1264981537913649701, guid: 7b79e28a13c2c994abd03146b2634a48, type: 3}
+  - {fileID: 1412935631395823060, guid: c06afc54502e99346a1066bbe80cc553, type: 3}
   - {fileID: 8290028675732975335, guid: f33c91ce2b51a324f8aa142e3e58ba8e, type: 3}
   punkteer:
   - {fileID: 43331976}
   - {fileID: 1713897007}
   - {fileID: 1749109495}
   vapen: 0
-  max: 15
+  max: 20
   timer: 0
 --- !u!65 &762615853
 BoxCollider:
