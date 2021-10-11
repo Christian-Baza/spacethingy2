@@ -1,21 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-// detta är scriptet för fiende typ ett -Lucy
+// detta är scriptet för enemy1 -Lucy
 public class EnemyOne : Enemy
 {
-    private void Start()
-    {
-        StartCoroutine(Move());
-    }
     public override void CityDameag()
     {
         cityCode.cityHealth--;
     }
-    IEnumerator Move()
+    public override IEnumerator Move()// flytar enemy1 ett steg åt häger -Lucy
     {
         yield return new WaitForSeconds(1);
         transform.position = transform.position + new Vector3(2, 0, 0);
-        StartCoroutine(Move());
+        StartCoroutine(Move());// starta om Move -Lucy
     }
 }

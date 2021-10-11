@@ -6,15 +6,33 @@ public class Enemy : MonoBehaviour
 {
     //baskoden för fienderna -Lucy
     public CityCode cityCode;
-    private void OnTriggerEnter(Collider other)
-    {
-        if( other.tag == "City")
-        {
-            CityDameag();
-        }
+    public Vector3 lineStart;
+     public void Start()
+     {
+        cityCode = FindObjectOfType<CityCode>();// plockar City för CityCode -Lucy
+        lineStart = transform.position;
+        StartCoroutine(Move());// startar Move coroutinen - Lucy
     }
-    public virtual void CityDameag()
+    public virtual void CityHit()// metoden för när fienden träffar staden -Lucy
+    {
+        CityDameag();
+        Destroy(gameObject);
+    }
+    public virtual void CityDameag()// tom metod för att sätta in mängden skad i -Lucy
     {
 
+    }
+    public virtual IEnumerator Move()// tom move coroutine för senare specifikation -Lucy
+    {
+        return null;
+    }
+    private void OnTriggerEnter(Collider other)// här finns interaktioner med de olicka kanterna -Lucy
+    {
+        if (other.tag == "Wall")
+        {
+            transform.position = new Vector3(0, -2, 0) + lineStart;
+            lineStart = transform.position;// Här så flyttas objectet ner en rad -Lucy
+        }
+        else if (other.tag == "City") { CityHit(); }// här så triggas CityHit metoden -Lucy
     }
 }
