@@ -4,7 +4,7 @@ using UnityEngine;
 // detta är scriptet för enemy1 -Lucy
 public class EnemyOne : Enemy
 {
-    public override void CityDameag()
+    public override void CityDamage()
     {
         cityCode.cityHealth--;
     }
@@ -13,5 +13,9 @@ public class EnemyOne : Enemy
         yield return new WaitForSeconds(1);
         transform.position = transform.position + new Vector3(2, 0, 0);
         StartCoroutine(Move());// starta om Move -Lucy
+    }
+    public override void EnemyAtack()
+    {
+        
     }
 }

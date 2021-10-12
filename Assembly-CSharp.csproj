@@ -59,10 +59,11 @@
     <Compile Include="Assets\Scripts\LucyCode\CityCode.cs" />
     <Compile Include="Assets\Scripts\LucyCode\Enemy.cs" />
     <Compile Include="Assets\Scripts\spaceShup.cs" />
-    <Compile Include="Assets\Scripts\LucyCode\EnemyOne.cs" />
-    <Compile Include="Assets\Scripts\LucyCode\Spawner.cs" />
     <Compile Include="Assets\Scripts\LucyCode\EnemyTwo.cs" />
+    <Compile Include="Assets\Scripts\LucyCode\Spawner.cs" />
+    <Compile Include="Assets\Scripts\LucyCode\EnemyOne.cs" />
     <Compile Include="Assets\Scripts\LucyCode\EnemyThree.cs" />
+    <Compile Include="Assets\Scripts\LucyCode\Bullet.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -15,10 +15,18 @@ public class Enemy : MonoBehaviour
     }
     public virtual void CityHit()// metoden för när fienden träffar staden -Lucy
     {
-        CityDameag();
+        CityDamage();
         Destroy(gameObject);
     }
-    public virtual void CityDameag()// tom metod för att sätta in mängden skad i -Lucy
+    public virtual void EnemyAtack()
+    {
+
+    }
+    public virtual void CityDamage()// tom metod för att sätta in mängden skad i -Lucy
+    {
+
+    }
+    public virtual void EnemyDamage()
     {
 
     }

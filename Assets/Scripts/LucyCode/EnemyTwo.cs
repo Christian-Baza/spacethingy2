@@ -6,7 +6,7 @@ public class EnemyTwo : Enemy
 { 
     [SerializeField]
     private Rigidbody rb;
-    public override void CityDameag()
+    public override void CityDamage()
     {
         cityCode.cityHealth = cityCode.cityHealth - 5;// tar bort hp från staden;
     }
