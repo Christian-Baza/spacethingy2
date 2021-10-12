@@ -111,6 +111,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cityCode: {fileID: 0}
   lineStart: {x: 0, y: 0, z: 0}
+  billet: {fileID: 261285088296152646, guid: d0d26ff6a242a804e9e60f74a4c6b892, type: 3}
 --- !u!54 &5916007233856617564
 Rigidbody:
   m_ObjectHideFlags: 0

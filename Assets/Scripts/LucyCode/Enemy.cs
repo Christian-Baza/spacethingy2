@@ -12,13 +12,14 @@ public class Enemy : MonoBehaviour
         cityCode = FindObjectOfType<CityCode>();// plockar City för CityCode -Lucy
         lineStart = transform.position;
         StartCoroutine(Move());// startar Move coroutinen - Lucy
+        StartCoroutine(EnemyAtackTimer());
     }
     public virtual void CityHit()// metoden för när fienden träffar staden -Lucy
     {
         CityDamage();
         Destroy(gameObject);
     }
-    public virtual void EnemyAtack()
+    public virtual void EnemyAtack()// för när fienden släpper bomber -Lucy
     {
 
     }
@@ -26,13 +27,20 @@ public class Enemy : MonoBehaviour
     {
 
     }
-    public virtual void EnemyDamage()
+    public virtual void EnemyDamage()//För när spelaren skadar fienden -Lucy
     {
-
+        Destroy(gameObject);
     }
     public virtual IEnumerator Move()// tom move coroutine för senare specifikation -Lucy
     {
         return null;
+    }
+    public virtual IEnumerator EnemyAtackTimer()// en timer som bestämer när fienden ska atakera -Lucy
+    {
+        int r = Random.Range(1, 4);
+        yield return new WaitForSeconds(r);
+        EnemyAtack();
+        StartCoroutine(EnemyAtackTimer());
     }
     private void OnTriggerEnter(Collider other)// här finns interaktioner med de olicka kanterna -Lucy
     {

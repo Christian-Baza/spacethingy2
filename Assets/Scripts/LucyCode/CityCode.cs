@@ -9,4 +9,11 @@ public class CityCode : MonoBehaviour
     {
         cityHealth = 100;  
     }
+    private void Update()
+    {
+        if( cityHealth == 0)
+        {
+            print("Game Over");
+        }
+    }
 }

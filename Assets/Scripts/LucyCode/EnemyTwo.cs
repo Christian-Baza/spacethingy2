@@ -14,9 +14,9 @@ public class EnemyTwo : Enemy
     {
         int i = 0;
         int rCompare = Random.Range(1, 6);// en random sifra mellan 1 & 6 sätt spm timer inann fiunde två droppar och faller ner på staden -Lucy
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(1);// denna moddade variation av Move fungerar också som atack kåd för Fiende två -Lucy
         i++;
-        if (i>= rCompare)//här jämförs i och rCompare för att som enemy 2ska droppa -Lucy
+        if (i>= rCompare)//här jämförs i och rCompare för att som enemy ska droppa -Lucy
         {
             rb.useGravity = true;
         }
