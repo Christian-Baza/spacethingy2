@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using MilkShake;
 
 public class spaceShup : MonoBehaviour
 {
@@ -14,10 +15,12 @@ public class spaceShup : MonoBehaviour
     public static int score;
     public float max;
     public float timer = 0;
+    Shaker shaker;
+    public ShakePreset shakePreset;
     // Start is called before the first frame update
     void Start()
     {
-        
+        shaker.Shake(shakePreset);
     }
 
     // Update is called once per frame

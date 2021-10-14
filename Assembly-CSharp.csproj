@@ -61,6 +61,24 @@
     <Compile Include="Assets\Scripts\LucyCode\Bullet.cs" />
     <Compile Include="Assets\Scripts\spaceShup.cs" />
     <Compile Include="Assets\Scripts\LucyCode\EnemyOne.cs" />
+    <Compile Include="Assets\MilkShake\Scripts\ShakeParameters.cs" />
+    <Compile Include="Assets\MilkShake\Demo\Scripts\ToggleAudio.cs" />
+    <Compile Include="Assets\MilkShake\Scripts\ShakeState.cs" />
+    <Compile Include="Assets\MilkShake\Demo\Scripts\CameraSwitcher.cs" />
+    <Compile Include="Assets\MilkShake\Scripts\ShakeInstance.cs" />
+    <Compile Include="Assets\MilkShake\Scripts\ShakePreset.cs" />
+    <Compile Include="Assets\MilkShake\Demo\Scripts\ShakeButton.cs" />
+    <Compile Include="Assets\MilkShake\Scripts\Shaker.cs" />
+    <Compile Include="Assets\MilkShake\Scripts\ShakeType.cs" />
+    <Compile Include="Assets\MilkShake\Scripts\ShakeResult.cs" />
+    <Compile Include="Assets\MilkShake\Demo\Scripts\CameraDistance.cs" />
+    <Compile Include="Assets\MilkShake\Demo\Scripts\ShakeClicker.cs" />
+    <Compile Include="Assets\MilkShake\Scripts\IShakeParameters.cs" />
+    <Compile Include="Assets\MilkShake\Demo\Scripts\CustomShake.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\MilkShake\Documentation\Readme.txt" />
+    <None Include="Assets\MilkShake\Documentation\Simple Setup.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
