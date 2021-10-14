@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/MilkShake/Demo/Scenes/MilkShake Demo.unity
+=======
+- path: Assets/Scenes/New Scene.unity
+>>>>>>> ce633baa2c4ebb6912f281e07b8af647798d210e
   isLoaded: 1
   isActive: 1
   isSubScene: 0

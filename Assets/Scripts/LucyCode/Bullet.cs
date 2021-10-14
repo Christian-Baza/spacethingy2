@@ -8,4 +8,8 @@ public class Bullet : Enemy
     {
         cityCode.cityHealth--;
     }
+    public override IEnumerator Move()
+    {
+        yield return new WaitForEndOfFrame();
+    }
 }
