@@ -12,7 +12,7 @@ public class spaceShup : MonoBehaviour
     public GameObject[] prefabs;
     public GameObject[] punkteer;
     public int vapen = 0;
-    public static int score;
+    public static int score = 0;
     public float max;
     public float timer = 0;
     Shaker shaker;
