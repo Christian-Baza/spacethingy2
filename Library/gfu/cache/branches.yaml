@@ -13,14 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-10-16T15:56:46.780+02:00
-  initializedAtString: 2021-10-16T15:56:46.636+02:00
+  lastUpdatedAtString: 2021-10-21T10:35:28.187+02:00
+  initializedAtString: 2021-10-21T10:03:22.201+02:00
   localBranches:
   - name: main
     tracking: origin/main
   remoteBranches:
-  - name: origin/HEAD
-    tracking: '[None]'
   - name: origin/main
     tracking: '[None]'
   remotes:
@@ -45,15 +43,9 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
-      - HEAD
       - main
     subKeyValues:
     - Values:
-      - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/Christian-Baza/spacethingy2.git
-        trackingBranch: 
       - name: main
         remote:
           name: origin
