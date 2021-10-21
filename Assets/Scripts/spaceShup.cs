@@ -87,7 +87,7 @@ public class spaceShup : MonoBehaviour
                 if (timer > 3)
                 {
                     GetComponent<SphereCollider>().radius = 4;
-                    Destroy(gameObject, 1);
+                    Destroy(gameObject);
                 }
                 break;
             default:

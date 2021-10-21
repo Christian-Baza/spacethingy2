@@ -13,6 +13,267 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 0001-01-01T00:00:00.000+00:00
-  initializedAtString: 0001-01-01T00:00:00.000+00:00
-  entries: []
+  lastUpdatedAtString: 2021-10-21T10:00:37.906+02:00
+  initializedAtString: 2021-10-21T09:37:06.494+02:00
+  entries:
+  - path: .vs\spacethingy2\v16\.suo
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\.vs\spacethingy2\v16\.suo
+    projectPath: .vs\spacethingy2\v16\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\New Scene.unity
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Scenes\New
+      Scene.unity
+    projectPath: Assets\Scenes\New Scene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\spaceShup.cs
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Scripts\spaceShup.cs
+    projectPath: Assets\Scripts\spaceShup.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\Untitled_Artwork 1.png
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Untitled_Artwork
+      1.png
+    projectPath: Assets\Sprites\Untitled_Artwork 1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Untitled_Artwork 1.png.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Untitled_Artwork
+      1.png.meta
+    projectPath: Assets\Sprites\Untitled_Artwork 1.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\01\0194d68dbcdb9a669894e89a3dbdd904
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\01\0194d68dbcdb9a669894e89a3dbdd904
+    projectPath: Library\Artifacts\01\0194d68dbcdb9a669894e89a3dbdd904
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\02\02917567248d5a1a5ad9539315f0847b
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\02\02917567248d5a1a5ad9539315f0847b
+    projectPath: Library\Artifacts\02\02917567248d5a1a5ad9539315f0847b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\16\1618fd913044207a8ac40866613d4500
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\16\1618fd913044207a8ac40866613d4500
+    projectPath: Library\Artifacts\16\1618fd913044207a8ac40866613d4500
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\18\189782aecdf4ec7fb64c6ce1b23c8da3
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\18\189782aecdf4ec7fb64c6ce1b23c8da3
+    projectPath: Library\Artifacts\18\189782aecdf4ec7fb64c6ce1b23c8da3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\24\243ec7f501ed3b3c5ff9ef7dc93166a2
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\24\243ec7f501ed3b3c5ff9ef7dc93166a2
+    projectPath: Library\Artifacts\24\243ec7f501ed3b3c5ff9ef7dc93166a2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\29\2974502dfab13c759bdb007eb7bd7818
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\29\2974502dfab13c759bdb007eb7bd7818
+    projectPath: Library\Artifacts\29\2974502dfab13c759bdb007eb7bd7818
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\33\33084e8c65bf9616d5af20ac391b6090
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\33\33084e8c65bf9616d5af20ac391b6090
+    projectPath: Library\Artifacts\33\33084e8c65bf9616d5af20ac391b6090
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\46\465739d1d857dcf3c9156eee47b9283d
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\46\465739d1d857dcf3c9156eee47b9283d
+    projectPath: Library\Artifacts\46\465739d1d857dcf3c9156eee47b9283d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\57\5714dc949f2861918e14f48bd3054385
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\57\5714dc949f2861918e14f48bd3054385
+    projectPath: Library\Artifacts\57\5714dc949f2861918e14f48bd3054385
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\62\62092cf4fcd14bbc5c3a7f0d92ba10c9
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\62\62092cf4fcd14bbc5c3a7f0d92ba10c9
+    projectPath: Library\Artifacts\62\62092cf4fcd14bbc5c3a7f0d92ba10c9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\7d\7d7e79ecf65c7d317954de9b50922dd8
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\7d\7d7e79ecf65c7d317954de9b50922dd8
+    projectPath: Library\Artifacts\7d\7d7e79ecf65c7d317954de9b50922dd8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\87\87d53c0cec277e1acf0a8478fdfe2de9
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\87\87d53c0cec277e1acf0a8478fdfe2de9
+    projectPath: Library\Artifacts\87\87d53c0cec277e1acf0a8478fdfe2de9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\87\87fa08cf85ae60109b7c8ef0af98aa56
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\87\87fa08cf85ae60109b7c8ef0af98aa56
+    projectPath: Library\Artifacts\87\87fa08cf85ae60109b7c8ef0af98aa56
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\95\95ae5c152e46c4d984260cd502903221
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\95\95ae5c152e46c4d984260cd502903221
+    projectPath: Library\Artifacts\95\95ae5c152e46c4d984260cd502903221
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\a6\a6bbdc26c369bc4d51ffb57b27ce0a84
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\a6\a6bbdc26c369bc4d51ffb57b27ce0a84
+    projectPath: Library\Artifacts\a6\a6bbdc26c369bc4d51ffb57b27ce0a84
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ab\abe49a206fed9a901ca4da856ac40efb
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\ab\abe49a206fed9a901ca4da856ac40efb
+    projectPath: Library\Artifacts\ab\abe49a206fed9a901ca4da856ac40efb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b5\b5a8d2fcedba61fd5a2bacc5657026b0
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\b5\b5a8d2fcedba61fd5a2bacc5657026b0
+    projectPath: Library\Artifacts\b5\b5a8d2fcedba61fd5a2bacc5657026b0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e0\e07cf8141eb0159de3e40c9ff4b9000e
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\e0\e07cf8141eb0159de3e40c9ff4b9000e
+    projectPath: Library\Artifacts\e0\e07cf8141eb0159de3e40c9ff4b9000e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e6\e61a94003c2f6aa6347c223d4526e8b8
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\e6\e61a94003c2f6aa6347c223d4526e8b8
+    projectPath: Library\Artifacts\e6\e61a94003c2f6aa6347c223d4526e8b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f4\f457d1c8a3df8a1d72d5738242924413
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\f4\f457d1c8a3df8a1d72d5738242924413
+    projectPath: Library\Artifacts\f4\f457d1c8a3df8a1d72d5738242924413
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PackageManager\ProjectCache
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\PackageManager\ProjectCache
+    projectPath: Library\PackageManager\ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\AssetImportWorker0.log
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UserSettings\EditorUserSettings.asset
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
