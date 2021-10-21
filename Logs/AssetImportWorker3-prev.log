@@ -1,0 +1,232 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 18363.1801; Version 1909; 64bit' Language: 'sv' Physical Memory: 16221 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/christian.baza/Documents/GitHub/spacethingy2
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+58012
+Successfully changed project path to: C:/Users/christian.baza/Documents/GitHub/spacethingy2
+C:/Users/christian.baza/Documents/GitHub/spacethingy2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 707.61 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/christian.baza/Documents/GitHub/spacethingy2/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics (ID=0x9b41)
+    Vendor:   
+    VRAM:     8110 MB
+    Driver:   27.20.100.8853
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56548
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003045 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 58.14 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.426 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.024318 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.284 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 1.06 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1505 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.3 MB.
+System memory in use after: 140.4 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 1969.
+Total: 8.890400 ms (FindLiveObjects: 0.483800 ms CreateObjectMapping: 0.213600 ms MarkObjects: 7.840400 ms  DeleteObjects: 0.348400 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 25.60 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 110.9 MB.
+System memory in use after: 111.0 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 1969.
+Total: 8.513400 ms (FindLiveObjects: 0.609900 ms CreateObjectMapping: 0.245700 ms MarkObjects: 7.534700 ms  DeleteObjects: 0.118400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/MilkShake/Demo/Scenes/MilkShake Demo.unity
+  artifactKey: Guid(70b371795f5179e428600de9517116d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Scenes/MilkShake Demo.unity using Guid(70b371795f5179e428600de9517116d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a54dd1e6daafb2f33d058240398b401e') in 0.078877 seconds
+  Import took 0.090791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.017380 seconds.
+  path: Assets/MilkShake/Demo/Materials
+  artifactKey: Guid(da2b7349acd38ab4da0a32cc2cfbc8e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Materials using Guid(da2b7349acd38ab4da0a32cc2cfbc8e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '036445b58c21271787e79ec5bc355950') in 0.049799 seconds
+  Import took 0.059145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009428 seconds.
+  path: Assets/MilkShake/Demo/Materials/Base 1.mat
+  artifactKey: Guid(9030263c49bcffe4cb08af070948678f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Materials/Base 1.mat using Guid(9030263c49bcffe4cb08af070948678f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd42800b24698dd9e3393196f35477b8') in 1.296617 seconds
+  Import took 1.314078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000584 seconds.
+  path: Assets/MilkShake/Demo/Materials/Spark.png
+  artifactKey: Guid(eee866163720c8547bdad1cae0327786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Materials/Spark.png using Guid(eee866163720c8547bdad1cae0327786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcba8e1f6a2e56848694674026ecdf1f') in 0.325439 seconds
+  Import took 0.346773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000730 seconds.
+  path: Assets/MilkShake/Demo/Materials/Spark.mat
+  artifactKey: Guid(245710fb4b7cf894aa1e5bd5bba2f7df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Materials/Spark.mat using Guid(245710fb4b7cf894aa1e5bd5bba2f7df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28fe784a9f28ed42e793ffdd9bb95713') in 16.928638 seconds
+  Import took 16.980694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006036 seconds.
+  path: Assets/MilkShake/Demo/Presets/Explosion.asset
+  artifactKey: Guid(d7a93a3c6c2182b4ab29c6ca2f5c77d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Presets/Explosion.asset using Guid(d7a93a3c6c2182b4ab29c6ca2f5c77d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2e9508ae0b9f71896dea56b23a08d7') in 0.055330 seconds
+  Import took 0.079633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000873 seconds.
+  path: Assets/MilkShake/Demo/Presets/Earthquake.asset
+  artifactKey: Guid(4681852fa25049f429edac80ac05d903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Presets/Earthquake.asset using Guid(4681852fa25049f429edac80ac05d903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1951e3d58252ba82417adc1ae41b265') in 0.050341 seconds
+  Import took 0.064943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000896 seconds.
+  path: Assets/MilkShake/Demo/Presets/Punch.asset
+  artifactKey: Guid(527de9a5cc3d6de449cdbf6ce627be63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Presets/Punch.asset using Guid(527de9a5cc3d6de449cdbf6ce627be63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c015eb52db85a40fbe199afcde39cd3') in 0.034068 seconds
+  Import took 0.046041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000661 seconds.
+  path: Assets/MilkShake/Demo/Presets/Shock.asset
+  artifactKey: Guid(bd4328bd5427ab74383676e7049ce3d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Presets/Shock.asset using Guid(bd4328bd5427ab74383676e7049ce3d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6113d7b6f74bbd796059b720a38d297c') in 0.033305 seconds
+  Import took 0.041796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/MilkShake/Demo/Materials/Cube.mat
+  artifactKey: Guid(3b0209442f9792c44bba401052176067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Materials/Cube.mat using Guid(3b0209442f9792c44bba401052176067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6427f8f16cdc6dc5358a61ff9e3d26b') in 0.054194 seconds
+  Import took 0.070469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001032 seconds.
+  path: Assets/MilkShake/Demo/Presets/Offroad.asset
+  artifactKey: Guid(ed22e00702a128848946e75261efb966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Presets/Offroad.asset using Guid(ed22e00702a128848946e75261efb966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37173f90dab8ce76e45d95774ddaa91d') in 0.029005 seconds
+  Import took 0.038031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/MilkShake/Demo/Materials/Charred.png
+  artifactKey: Guid(6af0f8b456476ed4594917573fe43048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Materials/Charred.png using Guid(6af0f8b456476ed4594917573fe43048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3328b1a733a707513d4b99b0b0be452') in 0.044996 seconds
+  Import took 0.059597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001913 seconds.
+  path: Assets/MilkShake/Demo/Materials/Charred.mat
+  artifactKey: Guid(194a56d3289aa7d4ba238bb744698d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Materials/Charred.mat using Guid(194a56d3289aa7d4ba238bb744698d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40fd0862e4ef0a04d0b6befb78f64dde') in 0.069257 seconds
+  Import took 0.082596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/MilkShake/Demo/Presets
+  artifactKey: Guid(ed6577590495eb34ba4f3b2a86ec3fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Presets using Guid(ed6577590495eb34ba4f3b2a86ec3fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b1a5223cc6e50c9ef435ad81f3e9a12') in 0.031680 seconds
+  Import took 0.039310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/MilkShake/Demo/Presets/Electrocute.asset
+  artifactKey: Guid(d370f110be4f2c0459246da0ea38a762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Presets/Electrocute.asset using Guid(d370f110be4f2c0459246da0ea38a762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '272a4033cab3591edfe88193618f57f3') in 0.022821 seconds
+  Import took 0.030957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000962 seconds.
+  path: Assets/MilkShake/Demo/Presets/Drunk.asset
+  artifactKey: Guid(1ea2647b43095674bba86d2a9c1820b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Presets/Drunk.asset using Guid(1ea2647b43095674bba86d2a9c1820b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eedc8331286c9b56fc3b18296b3d744e') in 0.032603 seconds
+  Import took 0.047657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000702 seconds.
+  path: Assets/MilkShake/Demo/Materials/Base.mat
+  artifactKey: Guid(dbe901a02c3160b448641ae1c8791fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Materials/Base.mat using Guid(dbe901a02c3160b448641ae1c8791fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '068914dcc9519c59621edc86bb7923de') in 0.107717 seconds
+  Import took 0.123888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 235.426825 seconds.
+  path: Assets/MilkShake/Demo/Scenes
+  artifactKey: Guid(731eeb4f2ad80cd458b6abd89e0d39f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Scenes using Guid(731eeb4f2ad80cd458b6abd89e0d39f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be84494d87aa8426b2f56a9a99094e05') in 0.060869 seconds
+  Import took 0.080735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013681 seconds.
+  path: Assets/MilkShake/Demo/Scenes
+  artifactKey: Guid(731eeb4f2ad80cd458b6abd89e0d39f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MilkShake/Demo/Scenes using Guid(731eeb4f2ad80cd458b6abd89e0d39f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be84494d87aa8426b2f56a9a99094e05') in 0.022940 seconds
+  Import took 0.046539 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
