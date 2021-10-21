@@ -648,3 +648,451 @@ Start importing Assets/Sprites/Stad 10 health/10_health_layer1.png using Guid(6f
   Import took 0.020489 seconds .
 >>>>>>> Stashed changes
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017750 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000161E74E2DC0 doesn't match image C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.658 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.10 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1456 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.8 MB.
+System memory in use after: 141.9 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 1949.
+Total: 4.736300 ms (FindLiveObjects: 0.267300 ms CreateObjectMapping: 0.106200 ms MarkObjects: 4.311800 ms  DeleteObjects: 0.048200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016889 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000161E74E16F0 doesn't match image C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.722 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1456 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.8 MB.
+System memory in use after: 141.9 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 1952.
+Total: 4.472000 ms (FindLiveObjects: 0.239500 ms CreateObjectMapping: 0.091500 ms MarkObjects: 4.050100 ms  DeleteObjects: 0.088400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1230.229819 seconds.
+  path: Assets/Scripts/LucyCode/Enemy.cs
+  artifactKey: Guid(7ff8ebf60b9bc4941b61cbe15067617f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LucyCode/Enemy.cs using Guid(7ff8ebf60b9bc4941b61cbe15067617f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '314c10152c3820ebefc4df14d2efa236') in 0.017135 seconds
+  Import took 0.022330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.035538 seconds.
+  path: Assets/Scripts/LucyCode/EnemyOne.cs
+  artifactKey: Guid(9626817739e5cf44499ce82010f49e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LucyCode/EnemyOne.cs using Guid(9626817739e5cf44499ce82010f49e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9afd41d7a5430dbfd3cd5c62512afbb4') in 0.015379 seconds
+  Import took 0.020480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005903 seconds.
+  path: Assets/Scripts/LucyCode/EnemyOne.cs
+  artifactKey: Guid(9626817739e5cf44499ce82010f49e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LucyCode/EnemyOne.cs using Guid(9626817739e5cf44499ce82010f49e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9afd41d7a5430dbfd3cd5c62512afbb4') in 0.005376 seconds
+  Import took 0.010790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.136433 seconds.
+  path: Assets/Scripts/LucyCode/EnemyThree.cs
+  artifactKey: Guid(c34f11d31daef8241a701d79590272bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LucyCode/EnemyThree.cs using Guid(c34f11d31daef8241a701d79590272bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3d4686694a347f475303e3546fd81da') in 0.016429 seconds
+  Import took 0.022159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001246 seconds.
+  path: Assets/Scripts/LucyCode/EnemyThree.cs
+  artifactKey: Guid(c34f11d31daef8241a701d79590272bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LucyCode/EnemyThree.cs using Guid(c34f11d31daef8241a701d79590272bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3d4686694a347f475303e3546fd81da') in 0.005752 seconds
+  Import took 0.019657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.445862 seconds.
+  path: Assets/Scripts/LucyCode/EnemyTwo.cs
+  artifactKey: Guid(650a29e917a350341b868c9744cdd48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LucyCode/EnemyTwo.cs using Guid(650a29e917a350341b868c9744cdd48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bab7a3e4a69105a204a8f8bb3eb42c4c') in 0.024943 seconds
+  Import took 0.033240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006299 seconds.
+  path: Assets/Scripts/LucyCode/EnemyTwo.cs
+  artifactKey: Guid(650a29e917a350341b868c9744cdd48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LucyCode/EnemyTwo.cs using Guid(650a29e917a350341b868c9744cdd48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bab7a3e4a69105a204a8f8bb3eb42c4c') in 0.018057 seconds
+  Import took 0.030143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 140.149021 seconds.
+  path: Assets/Prefabs/Alien.prefab
+  artifactKey: Guid(f33c91ce2b51a324f8aa142e3e58ba8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Alien.prefab using Guid(f33c91ce2b51a324f8aa142e3e58ba8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e08eda9ea987db45107d3ce4272acae') in 0.220852 seconds
+  Import took 0.228249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.721857 seconds.
+  path: Assets/Prefabs/Billet.prefab
+  artifactKey: Guid(c06afc54502e99346a1066bbe80cc553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Billet.prefab using Guid(c06afc54502e99346a1066bbe80cc553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd1e95f1856a50749e43a05c758fc23') in 0.035779 seconds
+  Import took 0.041073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.152379 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75d48ee6e8476222c35c4c1aa9b5b900') in 0.031140 seconds
+  Import took 0.037995 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.018462 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000015FC0FA0700 doesn't match image C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.835 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.96 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1456 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.0 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 1962.
+Total: 4.550900 ms (FindLiveObjects: 0.322900 ms CreateObjectMapping: 0.111600 ms MarkObjects: 4.060400 ms  DeleteObjects: 0.053400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.114182 seconds.
+  path: Assets/Prefabs/Billet.prefab
+  artifactKey: Guid(c06afc54502e99346a1066bbe80cc553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Billet.prefab using Guid(c06afc54502e99346a1066bbe80cc553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83556ff532f6aeee30341275c7b3c634') in 0.174552 seconds
+  Import took 0.180993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.010725 seconds.
+  path: Assets/Scripts/LucyCode/Bullet.cs
+  artifactKey: Guid(f1e326824ec484c4ea4e96156db13fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LucyCode/Bullet.cs using Guid(f1e326824ec484c4ea4e96156db13fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dc9bab2f48f8c877d8383ffb0746fb9') in 0.020573 seconds
+  Import took 0.026891 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.022641 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000161A2AA0730 doesn't match image C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.122 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.26 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1456 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.0 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 1966.
+Total: 6.531700 ms (FindLiveObjects: 0.709000 ms CreateObjectMapping: 0.185400 ms MarkObjects: 5.552300 ms  DeleteObjects: 0.080100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 162.516487 seconds.
+  path: Assets/Scripts/LucyCode/Bullet.cs
+  artifactKey: Guid(f1e326824ec484c4ea4e96156db13fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LucyCode/Bullet.cs using Guid(f1e326824ec484c4ea4e96156db13fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae92df8901d612ee06d13d9dbbaf1a08') in 0.014131 seconds
+  Import took 0.021090 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013344 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000015FC0FA0700 doesn't match image C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.46 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.141 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.17 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1456 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.0 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 1969.
+Total: 5.444400 ms (FindLiveObjects: 0.315700 ms CreateObjectMapping: 0.168700 ms MarkObjects: 4.885200 ms  DeleteObjects: 0.071500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.023033 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000161E7BB1FF0 doesn't match image C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.748 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.22 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1456 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.0 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 1972.
+Total: 4.770200 ms (FindLiveObjects: 0.545900 ms CreateObjectMapping: 0.313700 ms MarkObjects: 3.846900 ms  DeleteObjects: 0.061100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 190.777287 seconds.
+  path: Assets/Prefabs/Billet.prefab
+  artifactKey: Guid(c06afc54502e99346a1066bbe80cc553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Billet.prefab using Guid(c06afc54502e99346a1066bbe80cc553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '876f2d3435379780eb89183f2220b6e7') in 0.234145 seconds
+  Import took 0.240674 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.021676 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000015FC0F9D960 doesn't match image C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.127 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.85 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1456 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.0 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 1976.
+Total: 7.518300 ms (FindLiveObjects: 0.630500 ms CreateObjectMapping: 0.424100 ms MarkObjects: 6.406400 ms  DeleteObjects: 0.054100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.030783 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000015FC0F9E280 doesn't match image C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.815 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.49 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1456 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.0 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 1979.
+Total: 8.096200 ms (FindLiveObjects: 1.178900 ms CreateObjectMapping: 0.492100 ms MarkObjects: 6.284500 ms  DeleteObjects: 0.136800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.028592 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000161E8BAB270 doesn't match image C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.47 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.462 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.32 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1456 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.0 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 1982.
+Total: 5.942700 ms (FindLiveObjects: 0.335000 ms CreateObjectMapping: 0.138600 ms MarkObjects: 5.418700 ms  DeleteObjects: 0.047600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.021805 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000161E8BAEDC0 doesn't match image C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.800 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.81 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1456 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.0 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 1985.
+Total: 5.989200 ms (FindLiveObjects: 0.488000 ms CreateObjectMapping: 0.187500 ms MarkObjects: 5.256000 ms  DeleteObjects: 0.054700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.044657 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000161A5D51750 doesn't match image C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.377 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.66 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1456 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.0 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 1988.
+Total: 5.447100 ms (FindLiveObjects: 0.379700 ms CreateObjectMapping: 0.250800 ms MarkObjects: 4.759500 ms  DeleteObjects: 0.054200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017086 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000015FC0F9DDF0 doesn't match image C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.091 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.16 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1456 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.0 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 1991.
+Total: 3.650100 ms (FindLiveObjects: 0.441000 ms CreateObjectMapping: 0.186000 ms MarkObjects: 2.985700 ms  DeleteObjects: 0.035100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 776.537447 seconds.
+  path: Assets/Prefabs/EnemyPrefabs/Billet2.prefab
+  artifactKey: Guid(d0d26ff6a242a804e9e60f74a4c6b892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnemyPrefabs/Billet2.prefab using Guid(d0d26ff6a242a804e9e60f74a4c6b892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f0a2d75c70e46faad2232a3c2e84c58') in 0.168280 seconds
+  Import took 0.173882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.053390 seconds.
+  path: Assets/Prefabs/Billet.prefab
+  artifactKey: Guid(c06afc54502e99346a1066bbe80cc553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Billet.prefab using Guid(c06afc54502e99346a1066bbe80cc553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd10989eef30ba5d5f1e6cb3defeaced') in 0.036047 seconds
+  Import took 0.042307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.950386 seconds.
+  path: Assets/Prefabs/Billet.prefab
+  artifactKey: Guid(c06afc54502e99346a1066bbe80cc553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Billet.prefab using Guid(c06afc54502e99346a1066bbe80cc553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '323e69fcbea3bbd93ca035de8d895afc') in 0.028469 seconds
+  Import took 0.034762 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.056752 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000015FC0F9A2A0 doesn't match image C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.478 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.30 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1456 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.0 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 1995.
+Total: 4.738700 ms (FindLiveObjects: 0.799300 ms CreateObjectMapping: 0.152500 ms MarkObjects: 3.733900 ms  DeleteObjects: 0.049100 ms)
+

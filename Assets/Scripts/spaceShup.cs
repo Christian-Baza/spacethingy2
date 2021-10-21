@@ -23,6 +23,7 @@ public class spaceShup : MonoBehaviour
     void Start()
     {
         shaker.Shake(shakePreset);
+        cooldown = 2f;
     }
 
     // Update is called once per frame
@@ -107,11 +108,6 @@ public class spaceShup : MonoBehaviour
                 }
                 break;
             case Typ.Alien:
-                if (collision.transform.gameObject.layer == 7)
-                {
-                    score++;
-                    Destroy(gameObject);
-                }
                 break;
             case Typ.Skott:
                 break;
