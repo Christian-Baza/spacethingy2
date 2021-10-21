@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 //kåden för enemy2 -Lucy
 public class EnemyTwo : Enemy
-{ 
+{
     [SerializeField]
     private Rigidbody rb;
+
     public override void CityDamage()
     {
         cityCode.cityHealth = cityCode.cityHealth - 5;// tar bort hp från staden;

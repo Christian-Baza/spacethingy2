@@ -127,4 +127,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cityCode: {fileID: 0}
   lineStart: {x: 0, y: 0, z: 0}
+  deathEffect: {fileID: 704665330716297815, guid: 3d44b6f9c1c3bd644af3a91927bbe338, type: 3}
   rb: {fileID: 9196108157380058110}

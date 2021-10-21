@@ -93,7 +93,7 @@ CapsuleCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1412935631395823060}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   m_Radius: 0.5
   m_Height: 2
@@ -129,6 +129,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cityCode: {fileID: 0}
   lineStart: {x: 0, y: 0, z: 0}
+  deathEffect: {fileID: 0}
 --- !u!1001 &6696870071953137758
 PrefabInstance:
   m_ObjectHideFlags: 0

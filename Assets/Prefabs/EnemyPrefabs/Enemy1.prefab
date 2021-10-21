@@ -111,6 +111,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cityCode: {fileID: 0}
   lineStart: {x: 0, y: 0, z: 0}
+  deathEffect: {fileID: 704665330716297815, guid: 3d44b6f9c1c3bd644af3a91927bbe338, type: 3}
   billet: {fileID: 261285088296152646, guid: d0d26ff6a242a804e9e60f74a4c6b892, type: 3}
 --- !u!54 &5916007233856617564
 Rigidbody:

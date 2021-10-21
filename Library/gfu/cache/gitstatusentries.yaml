@@ -13,9 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-<<<<<<< HEAD
-  lastUpdatedAtString: 2021-10-21T10:40:23.478+02:00
-  initializedAtString: 2021-10-21T09:31:49.808+02:00
+  lastUpdatedAtString: 2021-10-21T13:25:02.502+02:00
+  initializedAtString: 2021-10-21T12:45:26.418+02:00
   entries:
   - path: .vs\spacethingy2\v16\.suo
     fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\.vs\spacethingy2\v16\.suo
@@ -23,1305 +22,179 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Prefabs\christestprefabs\cityDam.asset
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\cityDam.asset
-    projectPath: Assets\Prefabs\christestprefabs\cityDam.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\christestprefabs\cityDam.asset.meta
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\cityDam.asset.meta
-    projectPath: Assets\Prefabs\christestprefabs\cityDam.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\christestprefabs\playerDam.asset
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\playerDam.asset
-    projectPath: Assets\Prefabs\christestprefabs\playerDam.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\christestprefabs\playerDam.asset.meta
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\playerDam.asset.meta
-    projectPath: Assets\Prefabs\christestprefabs\playerDam.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\christestprefabs\shipShot.asset
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\shipShot.asset
-    projectPath: Assets\Prefabs\christestprefabs\shipShot.asset
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\christestprefabs\shipShot.asset.meta
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\shipShot.asset.meta
-    projectPath: Assets\Prefabs\christestprefabs\shipShot.asset.meta
+    workTreeStatus: 3
+  - path: Assets\Prefabs\Billet.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\Billet.prefab
+    projectPath: Assets\Prefabs\Billet.prefab
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\christestprefabs\Square.png
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Square.png
-    projectPath: Assets\Prefabs\christestprefabs\Square.png
+    workTreeStatus: 3
+  - path: Assets\Prefabs\christestprefabs\Particle System.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Particle
+      System.prefab
+    projectPath: Assets\Prefabs\christestprefabs\Particle System.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs\christestprefabs\Square.png.meta
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Square.png.meta
-    projectPath: Assets\Prefabs\christestprefabs\Square.png.meta
+  - path: Assets\Prefabs\christestprefabs\Particle System.prefab.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Particle
+      System.prefab.meta
+    projectPath: Assets\Prefabs\christestprefabs\Particle System.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Assets\Prefabs\EnemyPrefabs\Enemy1.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\EnemyPrefabs\Enemy1.prefab
+    projectPath: Assets\Prefabs\EnemyPrefabs\Enemy1.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\EnemyPrefabs\Enemy2.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\EnemyPrefabs\Enemy2.prefab
+    projectPath: Assets\Prefabs\EnemyPrefabs\Enemy2.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\EnemyPrefabs\Enemy3.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\EnemyPrefabs\Enemy3.prefab
+    projectPath: Assets\Prefabs\EnemyPrefabs\Enemy3.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\ChrisTestScene.unity
     fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scenes\ChrisTestScene.unity
     projectPath: Assets\Scenes\ChrisTestScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\spaceShup.cs
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\spaceShup.cs
-    projectPath: Assets\Scripts\spaceShup.cs
-=======
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  lastUpdatedAtString: 2021-10-21T10:00:37.906+02:00
-=======
-  lastUpdatedAtString: 2021-10-21T10:31:32.324+02:00
->>>>>>> Stashed changes
-  initializedAtString: 2021-10-21T09:37:06.494+02:00
-  entries:
-  - path: Assets\Prefabs\Billet.prefab
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Prefabs\Billet.prefab
-    projectPath: Assets\Prefabs\Billet.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\New Scene.unity
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Scenes\New
-      Scene.unity
-    projectPath: Assets\Scenes\New Scene.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\LucyCode\Bullet.cs
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\Bullet.cs
-    projectPath: Assets\Scripts\LucyCode\Bullet.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assets\Scripts\LucyCode\Enemy.cs
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\Enemy.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\Enemy.cs
     projectPath: Assets\Scripts\LucyCode\Enemy.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\spaceShup.cs
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Scripts\spaceShup.cs
-    projectPath: Assets\Scripts\spaceShup.cs
+  - path: Assets\Scripts\LucyCode\Enemy.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\Enemy.cs.meta
+    projectPath: Assets\Scripts\LucyCode\Enemy.cs.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
+  - path: Assets\Scripts\LucyCode\EnemyTwo.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\EnemyTwo.cs
+    projectPath: Assets\Scripts\LucyCode\EnemyTwo.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
+  - path: Assets\Scripts\LucyCode\EnemyTwo.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\EnemyTwo.cs.meta
+    projectPath: Assets\Scripts\LucyCode\EnemyTwo.cs.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\SceneVisibilityState.asset
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-<<<<<<< Updated upstream
-  - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-=======
-  lastUpdatedAtString: 2021-10-21T09:10:08.510+02:00
-  initializedAtString: 2021-10-21T09:09:04.674+02:00
-  entries:
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Sprites\Untitled_Artwork 1.png
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\Untitled_Artwork
-      1.png
-    projectPath: Assets\Sprites\Untitled_Artwork 1.png
+  - path: Assets\Sprites\Stad 10 health.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      10 health.meta
+    projectPath: Assets\Sprites\Stad 10 health.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Sprites\Untitled_Artwork 1.png.meta
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\Untitled_Artwork
-      1.png.meta
-    projectPath: Assets\Sprites\Untitled_Artwork 1.png.meta
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
+  - path: Assets\Sprites\Stad 10 health\10_health_layer_3.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      10 health\10_health_layer_3.png.meta
+    projectPath: Assets\Sprites\Stad 10 health\10_health_layer_3.png.meta
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Assets\Sprites\Stad 10 health\10_health_layer1.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      10 health\10_health_layer1.png.meta
+    projectPath: Assets\Sprites\Stad 10 health\10_health_layer1.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Stad 100 health.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      100 health.meta
+    projectPath: Assets\Sprites\Stad 100 health.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Stad 100 health\untilted_artwork.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      100 health\untilted_artwork.png.meta
+    projectPath: Assets\Sprites\Stad 100 health\untilted_artwork.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Stad 100 health\Untitled_Artwork (2).png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      100 health\Untitled_Artwork (2).png.meta
+    projectPath: Assets\Sprites\Stad 100 health\Untitled_Artwork (2).png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Stad 100 health\Untitled_Artwork (3).png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      100 health\Untitled_Artwork (3).png.meta
+    projectPath: Assets\Sprites\Stad 100 health\Untitled_Artwork (3).png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\ArtifactDB
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ArtifactDB
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-<<<<<<< HEAD
-  - path: Library\Artifacts\02\02917567248d5a1a5ad9539315f0847b
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\02\02917567248d5a1a5ad9539315f0847b
-    projectPath: Library\Artifacts\02\02917567248d5a1a5ad9539315f0847b
+  - path: Library\Artifacts\08\08d3b4d0c8af32ee5d01bb8c34c94cb9
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\08\08d3b4d0c8af32ee5d01bb8c34c94cb9
+    projectPath: Library\Artifacts\08\08d3b4d0c8af32ee5d01bb8c34c94cb9
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\04\041785984a80e45bc7fe3769f06e430b
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\04\041785984a80e45bc7fe3769f06e430b
-    projectPath: Library\Artifacts\04\041785984a80e45bc7fe3769f06e430b
+  - path: Library\Artifacts\16\1684ca2331e77b442f7a4bc16fc2c388
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\16\1684ca2331e77b442f7a4bc16fc2c388
+    projectPath: Library\Artifacts\16\1684ca2331e77b442f7a4bc16fc2c388
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\09\09c0f6d2fcf39e07a83a946a11ab2563
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\09\09c0f6d2fcf39e07a83a946a11ab2563
-    projectPath: Library\Artifacts\09\09c0f6d2fcf39e07a83a946a11ab2563
+  - path: Library\Artifacts\46\462c01c461a23057abbd523da06324b9
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\46\462c01c461a23057abbd523da06324b9
+    projectPath: Library\Artifacts\46\462c01c461a23057abbd523da06324b9
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\0a\0a356f647ee29b63a7eed3c462b3a170
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\0a\0a356f647ee29b63a7eed3c462b3a170
-    projectPath: Library\Artifacts\0a\0a356f647ee29b63a7eed3c462b3a170
+  - path: Library\Artifacts\58\58433165dfd099a0e31660f6d2625697
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\58\58433165dfd099a0e31660f6d2625697
+    projectPath: Library\Artifacts\58\58433165dfd099a0e31660f6d2625697
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\0e\0eb04591cd661589dddf39a7d49557cb
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\0e\0eb04591cd661589dddf39a7d49557cb
-    projectPath: Library\Artifacts\0e\0eb04591cd661589dddf39a7d49557cb
+  - path: Library\Artifacts\6a\6aa4787834a41adc74c6bc0401217784
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\6a\6aa4787834a41adc74c6bc0401217784
+    projectPath: Library\Artifacts\6a\6aa4787834a41adc74c6bc0401217784
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\12\129658e8d2acddc6d7050210525ca981
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\12\129658e8d2acddc6d7050210525ca981
-    projectPath: Library\Artifacts\12\129658e8d2acddc6d7050210525ca981
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\16\16b1528b82ee21bb542fb6db4049cd47
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\16\16b1528b82ee21bb542fb6db4049cd47
-    projectPath: Library\Artifacts\16\16b1528b82ee21bb542fb6db4049cd47
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\19\195454e88391b5a1892733e495cf6343
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\19\195454e88391b5a1892733e495cf6343
-    projectPath: Library\Artifacts\19\195454e88391b5a1892733e495cf6343
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\19\19a5701fc8b6c140a22255b993e4580a
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\19\19a5701fc8b6c140a22255b993e4580a
-    projectPath: Library\Artifacts\19\19a5701fc8b6c140a22255b993e4580a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\1f\1f3e4c05ec3caab128c7e0e03a09b9a1
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\1f\1f3e4c05ec3caab128c7e0e03a09b9a1
-    projectPath: Library\Artifacts\1f\1f3e4c05ec3caab128c7e0e03a09b9a1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\22\2251f194fe18d4b49dfb2cec740e18b5
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\22\2251f194fe18d4b49dfb2cec740e18b5
-    projectPath: Library\Artifacts\22\2251f194fe18d4b49dfb2cec740e18b5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\26\26d218b20fdd306eb37483a322974b06
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\26\26d218b20fdd306eb37483a322974b06
-    projectPath: Library\Artifacts\26\26d218b20fdd306eb37483a322974b06
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\28\285f2c229007909159948a333574bb43
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\28\285f2c229007909159948a333574bb43
-    projectPath: Library\Artifacts\28\285f2c229007909159948a333574bb43
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2c\2c3fd8c668cef303e38f75fa958d65e0
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\2c\2c3fd8c668cef303e38f75fa958d65e0
-    projectPath: Library\Artifacts\2c\2c3fd8c668cef303e38f75fa958d65e0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2e\2e198b357969b007d418f4e8510aa413
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\2e\2e198b357969b007d418f4e8510aa413
-    projectPath: Library\Artifacts\2e\2e198b357969b007d418f4e8510aa413
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2e\2ea3ceb22105c358f39b36700df9f8ac
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\2e\2ea3ceb22105c358f39b36700df9f8ac
-    projectPath: Library\Artifacts\2e\2ea3ceb22105c358f39b36700df9f8ac
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\33\33db1ca1ceb669a8255f04baccb0050e
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\33\33db1ca1ceb669a8255f04baccb0050e
-    projectPath: Library\Artifacts\33\33db1ca1ceb669a8255f04baccb0050e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\35\35a5098a94e3fb7a4ef0f2498c49d827
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\35\35a5098a94e3fb7a4ef0f2498c49d827
-    projectPath: Library\Artifacts\35\35a5098a94e3fb7a4ef0f2498c49d827
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\35\35d1e8a96041febb19acf33b9326d0a3
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\35\35d1e8a96041febb19acf33b9326d0a3
-    projectPath: Library\Artifacts\35\35d1e8a96041febb19acf33b9326d0a3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\37\37b9c01a025a407783109d31a0a6a5ea
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\37\37b9c01a025a407783109d31a0a6a5ea
-    projectPath: Library\Artifacts\37\37b9c01a025a407783109d31a0a6a5ea
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\3a\3abdd0cd63446329ad236e9c3f0f0def
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\3a\3abdd0cd63446329ad236e9c3f0f0def
-    projectPath: Library\Artifacts\3a\3abdd0cd63446329ad236e9c3f0f0def
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\3e\3e9dbd195be4e4ce83e1ad93ffbd5a3b
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\3e\3e9dbd195be4e4ce83e1ad93ffbd5a3b
-    projectPath: Library\Artifacts\3e\3e9dbd195be4e4ce83e1ad93ffbd5a3b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
-=======
-  - path: Library\Artifacts\09\09c0f6d2fcf39e07a83a946a11ab2563
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\09\09c0f6d2fcf39e07a83a946a11ab2563
-    projectPath: Library\Artifacts\09\09c0f6d2fcf39e07a83a946a11ab2563
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\0a\0a356f647ee29b63a7eed3c462b3a170
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\0a\0a356f647ee29b63a7eed3c462b3a170
-    projectPath: Library\Artifacts\0a\0a356f647ee29b63a7eed3c462b3a170
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\0e\0eb04591cd661589dddf39a7d49557cb
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\0e\0eb04591cd661589dddf39a7d49557cb
-    projectPath: Library\Artifacts\0e\0eb04591cd661589dddf39a7d49557cb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\12\129658e8d2acddc6d7050210525ca981
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\12\129658e8d2acddc6d7050210525ca981
-    projectPath: Library\Artifacts\12\129658e8d2acddc6d7050210525ca981
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\16\16b1528b82ee21bb542fb6db4049cd47
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\16\16b1528b82ee21bb542fb6db4049cd47
-    projectPath: Library\Artifacts\16\16b1528b82ee21bb542fb6db4049cd47
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\19\195454e88391b5a1892733e495cf6343
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\19\195454e88391b5a1892733e495cf6343
-    projectPath: Library\Artifacts\19\195454e88391b5a1892733e495cf6343
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\19\19a5701fc8b6c140a22255b993e4580a
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\19\19a5701fc8b6c140a22255b993e4580a
-    projectPath: Library\Artifacts\19\19a5701fc8b6c140a22255b993e4580a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\1f\1f3e4c05ec3caab128c7e0e03a09b9a1
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\1f\1f3e4c05ec3caab128c7e0e03a09b9a1
-    projectPath: Library\Artifacts\1f\1f3e4c05ec3caab128c7e0e03a09b9a1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
-    projectPath: Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\22\2251f194fe18d4b49dfb2cec740e18b5
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\22\2251f194fe18d4b49dfb2cec740e18b5
-    projectPath: Library\Artifacts\22\2251f194fe18d4b49dfb2cec740e18b5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\26\26d218b20fdd306eb37483a322974b06
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\26\26d218b20fdd306eb37483a322974b06
-    projectPath: Library\Artifacts\26\26d218b20fdd306eb37483a322974b06
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\28\285f2c229007909159948a333574bb43
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\28\285f2c229007909159948a333574bb43
-    projectPath: Library\Artifacts\28\285f2c229007909159948a333574bb43
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2c\2c3fd8c668cef303e38f75fa958d65e0
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\2c\2c3fd8c668cef303e38f75fa958d65e0
-    projectPath: Library\Artifacts\2c\2c3fd8c668cef303e38f75fa958d65e0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2e\2e198b357969b007d418f4e8510aa413
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\2e\2e198b357969b007d418f4e8510aa413
-    projectPath: Library\Artifacts\2e\2e198b357969b007d418f4e8510aa413
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2e\2ea3ceb22105c358f39b36700df9f8ac
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\2e\2ea3ceb22105c358f39b36700df9f8ac
-    projectPath: Library\Artifacts\2e\2ea3ceb22105c358f39b36700df9f8ac
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\33\33db1ca1ceb669a8255f04baccb0050e
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\33\33db1ca1ceb669a8255f04baccb0050e
-    projectPath: Library\Artifacts\33\33db1ca1ceb669a8255f04baccb0050e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\35\35a5098a94e3fb7a4ef0f2498c49d827
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\35\35a5098a94e3fb7a4ef0f2498c49d827
-    projectPath: Library\Artifacts\35\35a5098a94e3fb7a4ef0f2498c49d827
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\35\35d1e8a96041febb19acf33b9326d0a3
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\35\35d1e8a96041febb19acf33b9326d0a3
-    projectPath: Library\Artifacts\35\35d1e8a96041febb19acf33b9326d0a3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\37\37b9c01a025a407783109d31a0a6a5ea
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\37\37b9c01a025a407783109d31a0a6a5ea
-    projectPath: Library\Artifacts\37\37b9c01a025a407783109d31a0a6a5ea
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\3a\3abdd0cd63446329ad236e9c3f0f0def
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\3a\3abdd0cd63446329ad236e9c3f0f0def
-    projectPath: Library\Artifacts\3a\3abdd0cd63446329ad236e9c3f0f0def
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\3e\3e9dbd195be4e4ce83e1ad93ffbd5a3b
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\3e\3e9dbd195be4e4ce83e1ad93ffbd5a3b
-    projectPath: Library\Artifacts\3e\3e9dbd195be4e4ce83e1ad93ffbd5a3b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\41\41cb5f12c0180812866e50ab2072d0d4
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\41\41cb5f12c0180812866e50ab2072d0d4
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\41\41cb5f12c0180812866e50ab2072d0d4
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\41\41cb5f12c0180812866e50ab2072d0d4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\43\43152e69090f798dfd177e2702d41421
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\43\43152e69090f798dfd177e2702d41421
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\43\43152e69090f798dfd177e2702d41421
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\43\43152e69090f798dfd177e2702d41421
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\43\438c990397491a15fea40894a84723cc
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\43\438c990397491a15fea40894a84723cc
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\43\438c990397491a15fea40894a84723cc
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\43\438c990397491a15fea40894a84723cc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\45\45b80af8ee280a51c4154f79ac9ed5f6
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\45\45b80af8ee280a51c4154f79ac9ed5f6
-    projectPath: Library\Artifacts\45\45b80af8ee280a51c4154f79ac9ed5f6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\48\4846daa066c6e2b09d50199b115cc6eb
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\48\4846daa066c6e2b09d50199b115cc6eb
-    projectPath: Library\Artifacts\48\4846daa066c6e2b09d50199b115cc6eb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\49\493b36b6459c03d4ad222d17d0fbca65
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\49\493b36b6459c03d4ad222d17d0fbca65
-    projectPath: Library\Artifacts\49\493b36b6459c03d4ad222d17d0fbca65
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\4b\4b2b7f0effa78b752e07da7ecd56a6d7
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\4b\4b2b7f0effa78b752e07da7ecd56a6d7
-    projectPath: Library\Artifacts\4b\4b2b7f0effa78b752e07da7ecd56a6d7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\50\506774d2d3a966dbd32095d3b3b98a48
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\50\506774d2d3a966dbd32095d3b3b98a48
-    projectPath: Library\Artifacts\50\506774d2d3a966dbd32095d3b3b98a48
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\52\52845043816565819560258d990af90f
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\52\52845043816565819560258d990af90f
-    projectPath: Library\Artifacts\52\52845043816565819560258d990af90f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\52\52ee9232df3832386734bef6db65a7a7
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\52\52ee9232df3832386734bef6db65a7a7
-    projectPath: Library\Artifacts\52\52ee9232df3832386734bef6db65a7a7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\57\57818b58d4d6e6b9395716ef3288d709
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\57\57818b58d4d6e6b9395716ef3288d709
-    projectPath: Library\Artifacts\57\57818b58d4d6e6b9395716ef3288d709
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\57\57e7554cf9e3f10eff9067ec6fa5d1fb
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\57\57e7554cf9e3f10eff9067ec6fa5d1fb
-    projectPath: Library\Artifacts\57\57e7554cf9e3f10eff9067ec6fa5d1fb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\58\5872e7aa9e7d5b05a0546b35e35a9a8e
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\58\5872e7aa9e7d5b05a0546b35e35a9a8e
-    projectPath: Library\Artifacts\58\5872e7aa9e7d5b05a0546b35e35a9a8e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\58\58f09ca4b829c3c8c3ef4c43fc6d4e41
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\58\58f09ca4b829c3c8c3ef4c43fc6d4e41
-    projectPath: Library\Artifacts\58\58f09ca4b829c3c8c3ef4c43fc6d4e41
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\59\59b16933bbf19c8b3af3059d1a27e604
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\59\59b16933bbf19c8b3af3059d1a27e604
-    projectPath: Library\Artifacts\59\59b16933bbf19c8b3af3059d1a27e604
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5e\5ea6a9c5091266963b605df59cee651d
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\5e\5ea6a9c5091266963b605df59cee651d
-    projectPath: Library\Artifacts\5e\5ea6a9c5091266963b605df59cee651d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5f\5fd25812421767cbcaedbe35e9af442f
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\5f\5fd25812421767cbcaedbe35e9af442f
-    projectPath: Library\Artifacts\5f\5fd25812421767cbcaedbe35e9af442f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\63\63956962ba30baea3fd56e2490a18283
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\63\63956962ba30baea3fd56e2490a18283
-    projectPath: Library\Artifacts\63\63956962ba30baea3fd56e2490a18283
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\64\64ed3c93994dca43931b9a48c1b3eb08
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\64\64ed3c93994dca43931b9a48c1b3eb08
-    projectPath: Library\Artifacts\64\64ed3c93994dca43931b9a48c1b3eb08
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\67\67e3aed1ff4d473dc610ae7e0a011403
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\67\67e3aed1ff4d473dc610ae7e0a011403
-    projectPath: Library\Artifacts\67\67e3aed1ff4d473dc610ae7e0a011403
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\6a\6ac80b139a69c6af70d813db1acfddf4
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\6a\6ac80b139a69c6af70d813db1acfddf4
-    projectPath: Library\Artifacts\6a\6ac80b139a69c6af70d813db1acfddf4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\71\711cb6781383e402912144b005d7693e
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\71\711cb6781383e402912144b005d7693e
-    projectPath: Library\Artifacts\71\711cb6781383e402912144b005d7693e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\72\72303a82e10b7bf9a6d01a7596c02e42
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\72\72303a82e10b7bf9a6d01a7596c02e42
-    projectPath: Library\Artifacts\72\72303a82e10b7bf9a6d01a7596c02e42
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\73\73ae7d50c05adda94672fa00e2441599
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\73\73ae7d50c05adda94672fa00e2441599
-    projectPath: Library\Artifacts\73\73ae7d50c05adda94672fa00e2441599
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\78\785a0a467c37719fe9891f12dc47e3a3
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\78\785a0a467c37719fe9891f12dc47e3a3
-    projectPath: Library\Artifacts\78\785a0a467c37719fe9891f12dc47e3a3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\7a\7a946e2733f39e76eaba97f48ff5704a
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\7a\7a946e2733f39e76eaba97f48ff5704a
-    projectPath: Library\Artifacts\7a\7a946e2733f39e76eaba97f48ff5704a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\7d\7dde4fb126761e91a0c64fafc4a9d2a6
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\7d\7dde4fb126761e91a0c64fafc4a9d2a6
-    projectPath: Library\Artifacts\7d\7dde4fb126761e91a0c64fafc4a9d2a6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\80\80b8433f610532f2ffbff2c7cc6a9410
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\80\80b8433f610532f2ffbff2c7cc6a9410
-    projectPath: Library\Artifacts\80\80b8433f610532f2ffbff2c7cc6a9410
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\82\824d20eac22b475fba40260f8ca832d7
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\82\824d20eac22b475fba40260f8ca832d7
-    projectPath: Library\Artifacts\82\824d20eac22b475fba40260f8ca832d7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\87\877dc2274ee5c6ad0d4ebbe53d0475dd
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\87\877dc2274ee5c6ad0d4ebbe53d0475dd
-    projectPath: Library\Artifacts\87\877dc2274ee5c6ad0d4ebbe53d0475dd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\88\888c015e4452be76ff4f1d3a61a3157e
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\88\888c015e4452be76ff4f1d3a61a3157e
-    projectPath: Library\Artifacts\88\888c015e4452be76ff4f1d3a61a3157e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\8b\8be782a64fba93ed674dcf0eedd4a28f
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\8b\8be782a64fba93ed674dcf0eedd4a28f
-    projectPath: Library\Artifacts\8b\8be782a64fba93ed674dcf0eedd4a28f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\8d\8dc91162ddc85a24928d0368e6f32a3a
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\8d\8dc91162ddc85a24928d0368e6f32a3a
-    projectPath: Library\Artifacts\8d\8dc91162ddc85a24928d0368e6f32a3a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\93\931d83e596fd211496df85c37bf4b3d3
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\93\931d83e596fd211496df85c37bf4b3d3
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\45\45b80af8ee280a51c4154f79ac9ed5f6
-    projectPath: Library\Artifacts\45\45b80af8ee280a51c4154f79ac9ed5f6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\48\4846daa066c6e2b09d50199b115cc6eb
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\48\4846daa066c6e2b09d50199b115cc6eb
-    projectPath: Library\Artifacts\48\4846daa066c6e2b09d50199b115cc6eb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\49\493b36b6459c03d4ad222d17d0fbca65
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\49\493b36b6459c03d4ad222d17d0fbca65
-    projectPath: Library\Artifacts\49\493b36b6459c03d4ad222d17d0fbca65
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\4b\4b2b7f0effa78b752e07da7ecd56a6d7
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\4b\4b2b7f0effa78b752e07da7ecd56a6d7
-    projectPath: Library\Artifacts\4b\4b2b7f0effa78b752e07da7ecd56a6d7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\50\506774d2d3a966dbd32095d3b3b98a48
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\50\506774d2d3a966dbd32095d3b3b98a48
-    projectPath: Library\Artifacts\50\506774d2d3a966dbd32095d3b3b98a48
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\52\52845043816565819560258d990af90f
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\52\52845043816565819560258d990af90f
-    projectPath: Library\Artifacts\52\52845043816565819560258d990af90f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\52\52ee9232df3832386734bef6db65a7a7
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\52\52ee9232df3832386734bef6db65a7a7
-    projectPath: Library\Artifacts\52\52ee9232df3832386734bef6db65a7a7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\57\57818b58d4d6e6b9395716ef3288d709
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\57\57818b58d4d6e6b9395716ef3288d709
-    projectPath: Library\Artifacts\57\57818b58d4d6e6b9395716ef3288d709
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\57\57e7554cf9e3f10eff9067ec6fa5d1fb
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\57\57e7554cf9e3f10eff9067ec6fa5d1fb
-    projectPath: Library\Artifacts\57\57e7554cf9e3f10eff9067ec6fa5d1fb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\58\5872e7aa9e7d5b05a0546b35e35a9a8e
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\58\5872e7aa9e7d5b05a0546b35e35a9a8e
-    projectPath: Library\Artifacts\58\5872e7aa9e7d5b05a0546b35e35a9a8e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\58\58f09ca4b829c3c8c3ef4c43fc6d4e41
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\58\58f09ca4b829c3c8c3ef4c43fc6d4e41
-    projectPath: Library\Artifacts\58\58f09ca4b829c3c8c3ef4c43fc6d4e41
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\59\59b16933bbf19c8b3af3059d1a27e604
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\59\59b16933bbf19c8b3af3059d1a27e604
-    projectPath: Library\Artifacts\59\59b16933bbf19c8b3af3059d1a27e604
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5e\5ea6a9c5091266963b605df59cee651d
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\5e\5ea6a9c5091266963b605df59cee651d
-    projectPath: Library\Artifacts\5e\5ea6a9c5091266963b605df59cee651d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5f\5fd25812421767cbcaedbe35e9af442f
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\5f\5fd25812421767cbcaedbe35e9af442f
-    projectPath: Library\Artifacts\5f\5fd25812421767cbcaedbe35e9af442f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\62\62092cf4fcd14bbc5c3a7f0d92ba10c9
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\62\62092cf4fcd14bbc5c3a7f0d92ba10c9
-    projectPath: Library\Artifacts\62\62092cf4fcd14bbc5c3a7f0d92ba10c9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\63\63956962ba30baea3fd56e2490a18283
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\63\63956962ba30baea3fd56e2490a18283
-    projectPath: Library\Artifacts\63\63956962ba30baea3fd56e2490a18283
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\64\64ed3c93994dca43931b9a48c1b3eb08
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\64\64ed3c93994dca43931b9a48c1b3eb08
-    projectPath: Library\Artifacts\64\64ed3c93994dca43931b9a48c1b3eb08
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\67\67e3aed1ff4d473dc610ae7e0a011403
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\67\67e3aed1ff4d473dc610ae7e0a011403
-    projectPath: Library\Artifacts\67\67e3aed1ff4d473dc610ae7e0a011403
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\6a\6ac80b139a69c6af70d813db1acfddf4
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\6a\6ac80b139a69c6af70d813db1acfddf4
-    projectPath: Library\Artifacts\6a\6ac80b139a69c6af70d813db1acfddf4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\71\711cb6781383e402912144b005d7693e
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\71\711cb6781383e402912144b005d7693e
-    projectPath: Library\Artifacts\71\711cb6781383e402912144b005d7693e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\72\72303a82e10b7bf9a6d01a7596c02e42
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\72\72303a82e10b7bf9a6d01a7596c02e42
-    projectPath: Library\Artifacts\72\72303a82e10b7bf9a6d01a7596c02e42
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\73\73ae7d50c05adda94672fa00e2441599
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\73\73ae7d50c05adda94672fa00e2441599
-    projectPath: Library\Artifacts\73\73ae7d50c05adda94672fa00e2441599
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\78\785a0a467c37719fe9891f12dc47e3a3
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\78\785a0a467c37719fe9891f12dc47e3a3
-    projectPath: Library\Artifacts\78\785a0a467c37719fe9891f12dc47e3a3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\7a\7a946e2733f39e76eaba97f48ff5704a
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\7a\7a946e2733f39e76eaba97f48ff5704a
-    projectPath: Library\Artifacts\7a\7a946e2733f39e76eaba97f48ff5704a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\7d\7dde4fb126761e91a0c64fafc4a9d2a6
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\7d\7dde4fb126761e91a0c64fafc4a9d2a6
-    projectPath: Library\Artifacts\7d\7dde4fb126761e91a0c64fafc4a9d2a6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\80\80b8433f610532f2ffbff2c7cc6a9410
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\80\80b8433f610532f2ffbff2c7cc6a9410
-    projectPath: Library\Artifacts\80\80b8433f610532f2ffbff2c7cc6a9410
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\82\824d20eac22b475fba40260f8ca832d7
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\82\824d20eac22b475fba40260f8ca832d7
-    projectPath: Library\Artifacts\82\824d20eac22b475fba40260f8ca832d7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\87\877dc2274ee5c6ad0d4ebbe53d0475dd
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\87\877dc2274ee5c6ad0d4ebbe53d0475dd
-    projectPath: Library\Artifacts\87\877dc2274ee5c6ad0d4ebbe53d0475dd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\8b\8be782a64fba93ed674dcf0eedd4a28f
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\8b\8be782a64fba93ed674dcf0eedd4a28f
-    projectPath: Library\Artifacts\8b\8be782a64fba93ed674dcf0eedd4a28f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\8c\8c44648ba5cf9b2f9bb8e42f9599780b
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\8c\8c44648ba5cf9b2f9bb8e42f9599780b
-    projectPath: Library\Artifacts\8c\8c44648ba5cf9b2f9bb8e42f9599780b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\8d\8dc91162ddc85a24928d0368e6f32a3a
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\8d\8dc91162ddc85a24928d0368e6f32a3a
-    projectPath: Library\Artifacts\8d\8dc91162ddc85a24928d0368e6f32a3a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\93\931d83e596fd211496df85c37bf4b3d3
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\93\931d83e596fd211496df85c37bf4b3d3
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\93\931d83e596fd211496df85c37bf4b3d3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\9e\9eabd1cda448b308244f44aae917479d
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\9e\9eabd1cda448b308244f44aae917479d
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\9e\9eabd1cda448b308244f44aae917479d
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\9e\9eabd1cda448b308244f44aae917479d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\9f\9f960f1aea29d2be2b7ec8f67ab9e377
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\9f\9f960f1aea29d2be2b7ec8f67ab9e377
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\9f\9f960f1aea29d2be2b7ec8f67ab9e377
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\9f\9f960f1aea29d2be2b7ec8f67ab9e377
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\9f\9fa3eb669571d06ab90c92b0f8496a38
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\9f\9fa3eb669571d06ab90c92b0f8496a38
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\9f\9fa3eb669571d06ab90c92b0f8496a38
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\9f\9fa3eb669571d06ab90c92b0f8496a38
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a0\a0ed89cb1ca5497cd2e83baa9114da9e
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\a0\a0ed89cb1ca5497cd2e83baa9114da9e
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\a0\a0ed89cb1ca5497cd2e83baa9114da9e
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\a0\a0ed89cb1ca5497cd2e83baa9114da9e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a3\a3a43b937e3d32655ea35c2ba3aed3f7
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\a3\a3a43b937e3d32655ea35c2ba3aed3f7
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\a3\a3a43b937e3d32655ea35c2ba3aed3f7
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\a3\a3a43b937e3d32655ea35c2ba3aed3f7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a7\a78d50cbf65acc8b6b45545e930f7366
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\a7\a78d50cbf65acc8b6b45545e930f7366
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\a7\a78d50cbf65acc8b6b45545e930f7366
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\a7\a78d50cbf65acc8b6b45545e930f7366
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a8\a808adb0d2ad49f09f9543bc6f4c85da
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\a8\a808adb0d2ad49f09f9543bc6f4c85da
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\a8\a808adb0d2ad49f09f9543bc6f4c85da
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\a8\a808adb0d2ad49f09f9543bc6f4c85da
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a9\a947510852be70bdf6bb50f18a98dacc
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\a9\a947510852be70bdf6bb50f18a98dacc
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\a9\a947510852be70bdf6bb50f18a98dacc
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\a9\a947510852be70bdf6bb50f18a98dacc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ab\ab3b4db3e6cfe26ff8d8212dc960328b
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\ab\ab3b4db3e6cfe26ff8d8212dc960328b
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\ab\ab3b4db3e6cfe26ff8d8212dc960328b
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\ab\ab3b4db3e6cfe26ff8d8212dc960328b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ab\abe49d71adb1827f35aa5f5d0cab91ee
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\ab\abe49d71adb1827f35aa5f5d0cab91ee
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\ab\abe49d71adb1827f35aa5f5d0cab91ee
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\ab\abe49d71adb1827f35aa5f5d0cab91ee
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\af\af4521588f95f5749dcc4466bc33ca5e
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\af\af4521588f95f5749dcc4466bc33ca5e
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\af\af4521588f95f5749dcc4466bc33ca5e
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\af\af4521588f95f5749dcc4466bc33ca5e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\b4\b48ca4208ab43066240032ebde2c7d8f
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\b4\b48ca4208ab43066240032ebde2c7d8f
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\b4\b48ca4208ab43066240032ebde2c7d8f
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\b4\b48ca4208ab43066240032ebde2c7d8f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\b4\b49fa05bf0df54dd9b10c54b9e850d88
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\b4\b49fa05bf0df54dd9b10c54b9e850d88
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\b4\b49fa05bf0df54dd9b10c54b9e850d88
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\b4\b49fa05bf0df54dd9b10c54b9e850d88
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\b6\b617f821b3d24cbc7842d10ec75bf582
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\b6\b617f821b3d24cbc7842d10ec75bf582
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\b6\b617f821b3d24cbc7842d10ec75bf582
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\b6\b617f821b3d24cbc7842d10ec75bf582
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-<<<<<<< HEAD
-  - path: Library\Artifacts\bb\bb629debce7962aa94d9eb342bc0d90a
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\bb\bb629debce7962aa94d9eb342bc0d90a
-=======
-  - path: Library\Artifacts\b7\b75a55c19da312d4bedcd5364d607ddf
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\b7\b75a55c19da312d4bedcd5364d607ddf
-    projectPath: Library\Artifacts\b7\b75a55c19da312d4bedcd5364d607ddf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\b9\b96241140631ff23e6f3c7239e63fe00
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\b9\b96241140631ff23e6f3c7239e63fe00
-    projectPath: Library\Artifacts\b9\b96241140631ff23e6f3c7239e63fe00
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\bb\bb629debce7962aa94d9eb342bc0d90a
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\bb\bb629debce7962aa94d9eb342bc0d90a
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\bb\bb629debce7962aa94d9eb342bc0d90a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-<<<<<<< HEAD
-  - path: Library\Artifacts\c1\c148f92e2bb2067940d669b47d858955
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\c1\c148f92e2bb2067940d669b47d858955
-=======
-  - path: Library\Artifacts\bf\bfda6b5c4ee7a5325a5b0e80400a7f0d
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\bf\bfda6b5c4ee7a5325a5b0e80400a7f0d
-    projectPath: Library\Artifacts\bf\bfda6b5c4ee7a5325a5b0e80400a7f0d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c1\c148f92e2bb2067940d669b47d858955
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\c1\c148f92e2bb2067940d669b47d858955
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\c1\c148f92e2bb2067940d669b47d858955
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ca\ca865dc87275c808796384b897f89b1d
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\ca\ca865dc87275c808796384b897f89b1d
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\ca\ca865dc87275c808796384b897f89b1d
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\ca\ca865dc87275c808796384b897f89b1d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ca\ca9b9e7dbf7264d7d4a4deaca4a70c72
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\ca\ca9b9e7dbf7264d7d4a4deaca4a70c72
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\ca\ca9b9e7dbf7264d7d4a4deaca4a70c72
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\ca\ca9b9e7dbf7264d7d4a4deaca4a70c72
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\cb\cb243a4dd0222c8d7b923a6b75464002
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\cb\cb243a4dd0222c8d7b923a6b75464002
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\cb\cb243a4dd0222c8d7b923a6b75464002
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\cb\cb243a4dd0222c8d7b923a6b75464002
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\cb\cb7b373aeb8406fab8077067902ad5d5
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\cb\cb7b373aeb8406fab8077067902ad5d5
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\cb\cb7b373aeb8406fab8077067902ad5d5
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\cb\cb7b373aeb8406fab8077067902ad5d5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\cc\cc56a4601e822090a3b72445cba3aaa3
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\cc\cc56a4601e822090a3b72445cba3aaa3
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\cc\cc56a4601e822090a3b72445cba3aaa3
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\cc\cc56a4601e822090a3b72445cba3aaa3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\cc\ccb9ec377fefa83e541b92ee9cb31db0
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\cc\ccb9ec377fefa83e541b92ee9cb31db0
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\cc\ccb9ec377fefa83e541b92ee9cb31db0
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\cc\ccb9ec377fefa83e541b92ee9cb31db0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d0\d0a594154a7bd9897a2b6ef555ae4682
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\d0\d0a594154a7bd9897a2b6ef555ae4682
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\d0\d0a594154a7bd9897a2b6ef555ae4682
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\d0\d0a594154a7bd9897a2b6ef555ae4682
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d1\d14cbfc3ad3a14a630f32aee0a80fc04
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\d1\d14cbfc3ad3a14a630f32aee0a80fc04
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\d1\d14cbfc3ad3a14a630f32aee0a80fc04
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\d1\d14cbfc3ad3a14a630f32aee0a80fc04
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d2\d2e314188460c2a10e5e3099334e568e
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\d2\d2e314188460c2a10e5e3099334e568e
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\d2\d2e314188460c2a10e5e3099334e568e
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\d2\d2e314188460c2a10e5e3099334e568e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d4\d4a684104e912bcd46aafd817a65cf51
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\d4\d4a684104e912bcd46aafd817a65cf51
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\d4\d4a684104e912bcd46aafd817a65cf51
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\d4\d4a684104e912bcd46aafd817a65cf51
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d9\d9dc9653a8f5cc179d96ff83fa485a7e
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\d9\d9dc9653a8f5cc179d96ff83fa485a7e
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\d9\d9dc9653a8f5cc179d96ff83fa485a7e
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\d9\d9dc9653a8f5cc179d96ff83fa485a7e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\de\debc07c02d4e213b67bf6a14d9234ceb
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\de\debc07c02d4e213b67bf6a14d9234ceb
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\de\debc07c02d4e213b67bf6a14d9234ceb
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\de\debc07c02d4e213b67bf6a14d9234ceb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\df\df296458510a45a1a4221b92a18efeab
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\df\df296458510a45a1a4221b92a18efeab
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\df\df296458510a45a1a4221b92a18efeab
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\df\df296458510a45a1a4221b92a18efeab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e3\e3de917d4e0a54b2336228999e974e46
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\e3\e3de917d4e0a54b2336228999e974e46
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\e3\e3de917d4e0a54b2336228999e974e46
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\e3\e3de917d4e0a54b2336228999e974e46
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e4\e4acf58202e3cf84844c5c4a3a565a51
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\e4\e4acf58202e3cf84844c5c4a3a565a51
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\e4\e4acf58202e3cf84844c5c4a3a565a51
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\e4\e4acf58202e3cf84844c5c4a3a565a51
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\eb\eb34f11f0bc0813b0bda1641b247a4eb
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\eb\eb34f11f0bc0813b0bda1641b247a4eb
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\eb\eb34f11f0bc0813b0bda1641b247a4eb
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\eb\eb34f11f0bc0813b0bda1641b247a4eb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f2\f2a2ef48b5cc46884af1026d3602d623
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\f2\f2a2ef48b5cc46884af1026d3602d623
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\f2\f2a2ef48b5cc46884af1026d3602d623
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\f2\f2a2ef48b5cc46884af1026d3602d623
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f3\f34eefbf984fe0ee4f60740886def51e
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\f3\f34eefbf984fe0ee4f60740886def51e
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\f3\f34eefbf984fe0ee4f60740886def51e
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\f3\f34eefbf984fe0ee4f60740886def51e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f9\f93cdbeb2a7e2454ff0c2b0b3e75dbd6
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\f9\f93cdbeb2a7e2454ff0c2b0b3e75dbd6
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\f9\f93cdbeb2a7e2454ff0c2b0b3e75dbd6
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\f9\f93cdbeb2a7e2454ff0c2b0b3e75dbd6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\fa\fa2597e0ab2a8463fdc5e6cf4fe84d88
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\fa\fa2597e0ab2a8463fdc5e6cf4fe84d88
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\fa\fa2597e0ab2a8463fdc5e6cf4fe84d88
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\fa\fa2597e0ab2a8463fdc5e6cf4fe84d88
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\fc\fc98edc4966dbbdd76fc7aedbe648622
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\fc\fc98edc4966dbbdd76fc7aedbe648622
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\fc\fc98edc4966dbbdd76fc7aedbe648622
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\fc\fc98edc4966dbbdd76fc7aedbe648622
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\fd\fd89ba72ee085858024fc4d5d3ac76c3
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\fd\fd89ba72ee085858024fc4d5d3ac76c3
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\fd\fd89ba72ee085858024fc4d5d3ac76c3
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\fd\fd89ba72ee085858024fc4d5d3ac76c3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
-<<<<<<< HEAD
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
-    projectPath: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-<<<<<<< HEAD
+    workTreeStatus: 3
   - path: Library\CurrentMaximizeLayout.dwlt
     fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
-=======
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\EditorInstance.json
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\EditorInstance.json
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 0
@@ -1339,7 +212,7 @@ MonoBehaviour:
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
@@ -1351,137 +224,101 @@ MonoBehaviour:
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-<<<<<<< HEAD
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\LastSceneManagerSetup.txt
     fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\LastSceneManagerSetup.txt
     projectPath: Library\LastSceneManagerSetup.txt
-=======
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\PackageManager\ProjectCache
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\PackageManager\ProjectCache
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\PackageManager\ProjectCache
     projectPath: Library\PackageManager\ProjectCache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\PackageManager\ProjectCache.md5
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\PackageManager\ProjectCache.md5
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\PackageManager\ProjectCache.md5
     projectPath: Library\PackageManager\ProjectCache.md5
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-<<<<<<< HEAD
   - path: Library\ShaderCache\EditorEncounteredVariants
     fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-=======
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
   - path: Library\SourceAssetDB
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\SourceAssetDB
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
->>>>>>> Stashed changes
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\MainStageHierarchy\e7\e70f42d9eda96e042fbd39359d9dd2f4.json
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\StateCache\MainStageHierarchy\e7\e70f42d9eda96e042fbd39359d9dd2f4.json
-    projectPath: Library\StateCache\MainStageHierarchy\e7\e70f42d9eda96e042fbd39359d9dd2f4.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\fd\fd727dec905641d8260f27e149ee4fc7.json
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\StateCache\SceneView\fd\fd727dec905641d8260f27e149ee4fc7.json
-    projectPath: Library\StateCache\SceneView\fd\fd727dec905641d8260f27e149ee4fc7.json
+  - path: Library\Style.catalog
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Style.catalog
+    projectPath: Library\Style.catalog
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Logs\AssetImportWorker0.log
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0.log
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0.log
->>>>>>> Stashed changes
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Logs\AssetImportWorker0-prev.log
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0-prev.log
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0-prev.log
->>>>>>> Stashed changes
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-<<<<<<< Updated upstream
   - path: Logs\shadercompiler-AssetImportWorker0.log
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
-=======
-  - path: Logs\AssetImportWorker1-prev.log
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Logs\AssetImportWorker1-prev.log
-    projectPath: Logs\AssetImportWorker1-prev.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\AssetImportWorker2-prev.log
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Logs\AssetImportWorker2-prev.log
-    projectPath: Logs\AssetImportWorker2-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\AssetImportWorker3-prev.log
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Logs\AssetImportWorker3-prev.log
-    projectPath: Logs\AssetImportWorker3-prev.log
-    originalPath: 
-<<<<<<< HEAD
-    indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
@@ -1492,48 +329,29 @@ MonoBehaviour:
     fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe1.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
     fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe2.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProjectSettings\DynamicsManager.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\ProjectSettings\DynamicsManager.asset
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: spacethingy2.sln
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\spacethingy2.sln
+    projectPath: spacethingy2.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: UserSettings\EditorUserSettings.asset
     fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\UserSettings\EditorUserSettings.asset
     projectPath: UserSettings\EditorUserSettings.asset
-=======
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: spacethingy2.sln
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\spacethingy2.sln
-    projectPath: spacethingy2.sln
->>>>>>> Stashed changes
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: UserSettings\EditorUserSettings.asset
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\UserSettings\EditorUserSettings.asset
-    projectPath: UserSettings\EditorUserSettings.asset
-=======
-  - path: Library\StateCache\PrefabStageHierarchy\83\83a9c705da8bd65055cb9f1dfcd0bd28.json
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\StateCache\PrefabStageHierarchy\83\83a9c705da8bd65055cb9f1dfcd0bd28.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\83\83a9c705da8bd65055cb9f1dfcd0bd28.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\TagManager.asset
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
->>>>>>> Stashed changes
->>>>>>> 726ca7b95794591ea972f3cfa62c52d75d8c37b6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

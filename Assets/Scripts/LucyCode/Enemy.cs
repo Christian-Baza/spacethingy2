@@ -7,6 +7,7 @@ public class Enemy : MonoBehaviour
     //baskoden för fienderna -Lucy
     public CityCode cityCode;
     public Vector3 lineStart;
+    public GameObject deathEffect;
      public void Start()
      {
         cityCode = FindObjectOfType<CityCode>();// plockar City för CityCode -Lucy
@@ -29,6 +30,7 @@ public class Enemy : MonoBehaviour
     }
     public virtual void EnemyDamage()//För när spelaren skadar fienden -Lucy
     {
+        Instantiate(deathEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
     }
     public virtual IEnumerator Move()// tom move coroutine för senare specifikation -Lucy
@@ -44,7 +46,7 @@ public class Enemy : MonoBehaviour
     }
     private void OnTriggerEnter(Collider other)// här finns interaktioner med de olicka kanterna -Lucy
     {
-        if(other.tag == "Bullet") { Destroy(gameObject); }
+        if(other.tag == "Bullet") { EnemyDamage(); }
         if (other.tag == "Wall")
         {
             transform.position = new Vector3(0, -2, 0) + lineStart;
