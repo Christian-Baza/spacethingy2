@@ -13,8 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
+<<<<<<< Updated upstream
   lastUpdatedAtString: 2021-10-21T10:35:22.936+02:00
   initializedAtString: 2021-10-21T10:35:22.936+02:00
+=======
+  lastUpdatedAtString: 2021-10-21T13:06:17.161+02:00
+  initializedAtString: 2021-10-21T13:06:17.161+02:00
+>>>>>>> Stashed changes
   currentGitRemote:
     name: origin
     url: https://github.com/Christian-Baza/spacethingy2.git
