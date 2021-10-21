@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< Updated upstream
 - path: Assets/MilkShake/Demo/Scenes/MilkShake Demo.unity
+=======
+- path: Assets/Scenes/WincentScene1.unity
+>>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
   isSubScene: 0
