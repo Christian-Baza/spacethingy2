@@ -44,6 +44,7 @@ public class Enemy : MonoBehaviour
     }
     private void OnTriggerEnter(Collider other)// här finns interaktioner med de olicka kanterna -Lucy
     {
+        if(other.tag == "Bullet") { Destroy(gameObject); }
         if (other.tag == "Wall")
         {
             transform.position = new Vector3(0, -2, 0) + lineStart;

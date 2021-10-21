@@ -17,15 +17,21 @@ public class spaceShup : MonoBehaviour
     public float timer = 0;
     Shaker shaker;
     public ShakePreset shakePreset;
+    private float cooldown;
+    private bool canShoot;
     // Start is called before the first frame update
     void Start()
     {
         shaker.Shake(shakePreset);
+        cooldown = 2f;
     }
 
     // Update is called once per frame
     void Update()
     {
+        if(vapen == 0&&cooldown==0f) { canShoot = true; }
+        else if (vapen == 2 && cooldown == 0f) { canShoot = true; }
+        else { cooldown = cooldown - 1 * Time.deltaTime; }
         if (Input.GetKeyDown(KeyCode.E))
         {
             vapen++;
@@ -38,12 +44,12 @@ public class spaceShup : MonoBehaviour
         switch (typ)
         {
             case Typ.Skepp:
-                if (Input.GetKeyUp(KeyCode.Space) && vapen == 0)
+                if (Input.GetKeyUp(KeyCode.Space) && vapen == 0 && canShoot == true)
                 {
                     print("bang");
                     Instantiate(prefabs[0], transform.position, Quaternion.identity).GetComponent<Rigidbody>().AddForce(0, 500, 0);
                 }
-                if (Input.GetKeyUp(KeyCode.Space) && vapen == 2)
+                if (Input.GetKeyUp(KeyCode.Space) && vapen == 2&& canShoot == true)
                 {
                     print("bang");
                     Instantiate(prefabs[1], transform.position, Quaternion.identity).GetComponent<Rigidbody>().AddForce(0, 500, 0);
@@ -82,7 +88,7 @@ public class spaceShup : MonoBehaviour
                 if (timer > 3)
                 {
                     GetComponent<SphereCollider>().radius = 4;
-                    Destroy(gameObject, 1);
+                    Destroy(gameObject);
                 }
                 break;
             default:
@@ -102,11 +108,6 @@ public class spaceShup : MonoBehaviour
                 }
                 break;
             case Typ.Alien:
-                if (collision.transform.gameObject.layer == 7)
-                {
-                    score++;
-                    Destroy(gameObject);
-                }
                 break;
             case Typ.Skott:
                 break;

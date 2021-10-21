@@ -153,9 +153,20 @@ MonoBehaviour:
   m_GameObject: {fileID: 153757189}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e6cce7e418f72aa49a44c5b89d395dd6, type: 3}
+  m_Script: {fileID: 11500000, guid: f462172d8a9ef62448a6139dfb911b36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ScoreText: {fileID: 0}
+  typ: 0
+  prefabs:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  punkteer: []
+  vapen: 0
+  max: 40
+  timer: 0
+  shakePreset: {fileID: 0}
 --- !u!54 &153757191
 Rigidbody:
   m_ObjectHideFlags: 0
