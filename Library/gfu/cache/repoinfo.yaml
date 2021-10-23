@@ -14,12 +14,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cacheType: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2021-10-21T12:45:24.903+02:00
   initializedAtString: 2021-10-21T12:45:24.903+02:00
 =======
   lastUpdatedAtString: 2021-10-21T10:35:22.936+02:00
   initializedAtString: 2021-10-21T10:35:22.936+02:00
 >>>>>>> cb7e4ed7754945a6271c14190f171b54f1bf8676
+=======
+<<<<<<< Updated upstream
+  lastUpdatedAtString: 2021-10-21T10:35:22.936+02:00
+  initializedAtString: 2021-10-21T10:35:22.936+02:00
+=======
+  lastUpdatedAtString: 2021-10-21T13:06:17.161+02:00
+  initializedAtString: 2021-10-21T13:06:17.161+02:00
+>>>>>>> Stashed changes
+>>>>>>> c34ad906dc83bfa9c711ce28e6f7d20955f5e485
   currentGitRemote:
     name: origin
     url: https://github.com/Christian-Baza/spacethingy2.git
