@@ -1,13 +1,1 @@
-sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/ChrisTestScene.unity
-=======
-<<<<<<< Updated upstream
-- path: Assets/MilkShake/Demo/Scenes/MilkShake Demo.unity
-=======
-- path: Assets/Scenes/WincentScene1.unity
->>>>>>> Stashed changes
->>>>>>> cb7e4ed7754945a6271c14190f171b54f1bf8676
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
+sceneSetups: []
