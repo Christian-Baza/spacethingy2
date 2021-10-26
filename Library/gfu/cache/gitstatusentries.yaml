@@ -13,48 +13,432 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-10-25T14:02:47.270+02:00
-  initializedAtString: 2021-10-25T14:02:47.270+02:00
+  lastUpdatedAtString: 2021-10-26T16:17:00.948+02:00
+  initializedAtString: 2021-10-26T15:51:10.355+02:00
   entries:
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\Billet.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\Billet.prefab
+    projectPath: Assets\Prefabs\Billet.prefab
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Assets\Prefabs\christestprefabs\Particle System.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Particle
+      System.prefab
+    projectPath: Assets\Prefabs\christestprefabs\Particle System.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\ChrisTestScene.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scenes\ChrisTestScene.unity
+    projectPath: Assets\Scenes\ChrisTestScene.unity
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 3
+  - path: Assets\Scripts\LucyCode\Enemy.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\Enemy.cs
+    projectPath: Assets\Scripts\LucyCode\Enemy.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sounds.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds.meta
+    projectPath: Assets\Sounds.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Music.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Music.meta
+    projectPath: Assets\Sounds\Music.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Sound effects.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects.meta
+    projectPath: Assets\Sounds\Sound effects.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Sound effects\City_Explosion.wav
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\City_Explosion.wav
+    projectPath: Assets\Sounds\Sound effects\City_Explosion.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Sound effects\City_Explosion.wav.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\City_Explosion.wav.meta
+    projectPath: Assets\Sounds\Sound effects\City_Explosion.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Sound effects\Corrupt_Jingle.wav
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\Corrupt_Jingle.wav
+    projectPath: Assets\Sounds\Sound effects\Corrupt_Jingle.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Sound effects\Corrupt_Jingle.wav.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\Corrupt_Jingle.wav.meta
+    projectPath: Assets\Sounds\Sound effects\Corrupt_Jingle.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Sound effects\Enemy_Explosion.wav
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\Enemy_Explosion.wav
+    projectPath: Assets\Sounds\Sound effects\Enemy_Explosion.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Sound effects\Enemy_Explosion.wav.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\Enemy_Explosion.wav.meta
+    projectPath: Assets\Sounds\Sound effects\Enemy_Explosion.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Sound effects\Enemy_Hurt.wav
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\Enemy_Hurt.wav
+    projectPath: Assets\Sounds\Sound effects\Enemy_Hurt.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Sound effects\Enemy_Hurt.wav.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\Enemy_Hurt.wav.meta
+    projectPath: Assets\Sounds\Sound effects\Enemy_Hurt.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Sound effects\Enemy_Shoot.wav
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\Enemy_Shoot.wav
+    projectPath: Assets\Sounds\Sound effects\Enemy_Shoot.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Sound effects\Enemy_Shoot.wav.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\Enemy_Shoot.wav.meta
+    projectPath: Assets\Sounds\Sound effects\Enemy_Shoot.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Sound effects\Enemy_Spawn.wav
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\Enemy_Spawn.wav
+    projectPath: Assets\Sounds\Sound effects\Enemy_Spawn.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Sound effects\Enemy_Spawn.wav.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\Enemy_Spawn.wav.meta
+    projectPath: Assets\Sounds\Sound effects\Enemy_Spawn.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Sound effects\Player_Hurt.wav
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\Player_Hurt.wav
+    projectPath: Assets\Sounds\Sound effects\Player_Hurt.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Sound effects\Player_Hurt.wav.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\Player_Hurt.wav.meta
+    projectPath: Assets\Sounds\Sound effects\Player_Hurt.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Sound effects\Player_Shoot.wav
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\Player_Shoot.wav
+    projectPath: Assets\Sounds\Sound effects\Player_Shoot.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Sound effects\Player_Shoot.wav.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\Player_Shoot.wav.meta
+    projectPath: Assets\Sounds\Sound effects\Player_Shoot.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
-    fullPath: C:\Users\wincent.nyman\Documents\Githubb\spacethingy2\Library\ArtifactDB
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\EditorInstance.json
-    fullPath: C:\Users\wincent.nyman\Documents\Githubb\spacethingy2\Library\EditorInstance.json
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PackageManager\ProjectCache
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\PackageManager\ProjectCache
+    projectPath: Library\PackageManager\ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PackageManager\ProjectCache.md5
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\PackageManager\ProjectCache.md5
+    projectPath: Library\PackageManager\ProjectCache.md5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
-    fullPath: C:\Users\wincent.nyman\Documents\Githubb\spacethingy2\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SourceAssetDB
-    fullPath: C:\Users\wincent.nyman\Documents\Githubb\spacethingy2\Library\SourceAssetDB
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\AssetImportWorker0.log
-    fullPath: C:\Users\wincent.nyman\Documents\Githubb\spacethingy2\Logs\AssetImportWorker0.log
-    projectPath: Logs\AssetImportWorker0.log
+  - path: Library\Style.catalog
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\Style.catalog
+    projectPath: Library\Style.catalog
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\AssetImportWorker0-prev.log
-    fullPath: C:\Users\wincent.nyman\Documents\Githubb\spacethingy2\Logs\AssetImportWorker0-prev.log
-    projectPath: Logs\AssetImportWorker0-prev.log
+    workTreeStatus: 3
+  - path: Logs\AssetImportWorker0.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Logs\shadercompiler-AssetImportWorker0.log
-    fullPath: C:\Users\wincent.nyman\Documents\Githubb\spacethingy2\Logs\shadercompiler-AssetImportWorker0.log
-    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+  - path: Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: spacethingy2.sln
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\spacethingy2.sln
+    projectPath: spacethingy2.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UserSettings\EditorUserSettings.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3

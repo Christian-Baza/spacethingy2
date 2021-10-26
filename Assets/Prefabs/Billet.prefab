@@ -13,10 +13,10 @@ GameObject:
   - component: {fileID: 1445746316407545578}
   - component: {fileID: 3842320088625279859}
   - component: {fileID: -2829512708947206294}
-  - component: {fileID: 2304192135007617899}
+  - component: {fileID: -3434840377147058552}
   m_Layer: 7
   m_Name: Billet
-  m_TagString: Untagged
+  m_TagString: Bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -115,7 +115,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &2304192135007617899
+--- !u!114 &-3434840377147058552
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -124,22 +124,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1412935631395823060}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f462172d8a9ef62448a6139dfb911b36, type: 3}
+  m_Script: {fileID: 11500000, guid: f1e326824ec484c4ea4e96156db13fba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   cityCode: {fileID: 0}
   lineStart: {x: 0, y: 0, z: 0}
   deathEffect: {fileID: 0}
-=======
-  ScoreText: {fileID: 0}
-  typ: 1
-  prefabs: []
-  punkteer: []
-  vapen: 0
-  max: 0
-  timer: 0
->>>>>>> cb7e4ed7754945a6271c14190f171b54f1bf8676
 --- !u!1001 &6696870071953137758
 PrefabInstance:
   m_ObjectHideFlags: 0

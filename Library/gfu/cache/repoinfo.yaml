@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-10-25T14:02:47.251+02:00
-  initializedAtString: 2021-10-25T14:02:47.251+02:00
+  lastUpdatedAtString: 2021-10-26T15:51:08.983+02:00
+  initializedAtString: 2021-10-26T15:51:08.983+02:00
   currentGitRemote:
     name: origin
-    url: https://github.com/Christian-Baza/spacethingy2
+    url: https://github.com/Christian-Baza/spacethingy2.git
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: main
     remote:
       name: origin
-      url: https://github.com/Christian-Baza/spacethingy2
+      url: https://github.com/Christian-Baza/spacethingy2.git
     trackingBranch: main
   currentConfigRemote:
     name: origin
-    url: https://github.com/Christian-Baza/spacethingy2
+    url: https://github.com/Christian-Baza/spacethingy2.git
   currentHead: 
