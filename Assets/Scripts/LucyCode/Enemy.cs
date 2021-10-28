@@ -47,13 +47,6 @@ public class Enemy : MonoBehaviour
     private void OnTriggerEnter(Collider other)// här finns interaktioner med de olicka kanterna -Lucy
     {
         if(other.tag == "Bullet") { EnemyDamage(); }
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
         if (other.tag == "Wall")
         {
             transform.position = new Vector3(0, -2, 0) + lineStart;
