@@ -13,12 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-<<<<<<< Updated upstream
-  lastUpdatedAtString: 2021-10-28T09:07:01.525+02:00
-  initializedAtString: 2021-10-28T09:07:01.525+02:00
-=======
-  lastUpdatedAtString: 2021-10-28T09:14:25.299+02:00
-  initializedAtString: 2021-10-28T09:12:56.070+02:00
->>>>>>> Stashed changes
+  lastUpdatedAtString: 2021-10-28T12:46:30.810+02:00
+  initializedAtString: 2021-10-28T12:46:30.810+02:00
   ahead: 0
-  behind: 1
+  behind: 0

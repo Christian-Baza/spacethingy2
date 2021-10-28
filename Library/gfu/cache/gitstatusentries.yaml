@@ -13,200 +13,134 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-<<<<<<< Updated upstream
-  lastUpdatedAtString: 2021-10-28T09:07:01.506+02:00
-  initializedAtString: 2021-10-28T09:07:01.506+02:00
+  lastUpdatedAtString: 2021-10-28T12:53:44.054+02:00
+  initializedAtString: 2021-10-28T12:46:30.755+02:00
   entries:
   - path: .vs\spacethingy2\v16\.suo
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\.vs\spacethingy2\v16\.suo
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\.vs\spacethingy2\v16\.suo
     projectPath: .vs\spacethingy2\v16\.suo
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\LucyCode\Enemy.cs
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\Enemy.cs
-    projectPath: Assets\Scripts\LucyCode\Enemy.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ArtifactDB
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ArtifactDB
-    projectPath: Library\ArtifactDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Artifacts\67\6726ef86692cc34dbdefc4f86ef6bfc8
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\67\6726ef86692cc34dbdefc4f86ef6bfc8
-    projectPath: Library\Artifacts\67\6726ef86692cc34dbdefc4f86ef6bfc8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\69\696fd4043b5e85c36a9edb45ff205394
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\69\696fd4043b5e85c36a9edb45ff205394
-    projectPath: Library\Artifacts\69\696fd4043b5e85c36a9edb45ff205394
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\82\82333efe1e1679bfc6a8762632c4f273
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\82\82333efe1e1679bfc6a8762632c4f273
-    projectPath: Library\Artifacts\82\82333efe1e1679bfc6a8762632c4f273
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d9\d90915e28befc1bc8ab13bcfd3b90481
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\d9\d90915e28befc1bc8ab13bcfd3b90481
-    projectPath: Library\Artifacts\d9\d90915e28befc1bc8ab13bcfd3b90481
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\EditorInstance.json
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-=======
-  lastUpdatedAtString: 2021-10-28T09:14:57.684+02:00
-  initializedAtString: 2021-10-28T09:12:55.983+02:00
-  entries:
   - path: Assembly-CSharp.csproj
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scenes\LeosScene.unity
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Scenes\LeosScene.unity
-    projectPath: Assets\Scenes\LeosScene.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Sprites\10_health.png
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\10_health.png
-    projectPath: Assets\Sprites\10_health.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Sprites\10_health.png.meta
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\10_health.png.meta
-    projectPath: Assets\Sprites\10_health.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Sprites\10_health_layer_3.png
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\10_health_layer_3.png
-    projectPath: Assets\Sprites\10_health_layer_3.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Sprites\10_health_layer_3.png.meta
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\10_health_layer_3.png.meta
-    projectPath: Assets\Sprites\10_health_layer_3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Sprites\10_health_layer1.png
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\10_health_layer1.png
-    projectPath: Assets\Sprites\10_health_layer1.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Sprites\10_health_layer1.png.meta
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\10_health_layer1.png.meta
-    projectPath: Assets\Sprites\10_health_layer1.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Sprites\Stad 10 health\10_health.png
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
-      10 health\10_health.png
-    projectPath: Assets\Sprites\Stad 10 health\10_health.png
+  - path: Assets\Scenes\Credits.unity
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Scenes\Credits.unity
+    projectPath: Assets\Scenes\Credits.unity
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Sprites\Stad 10 health\10_health.png.meta
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
-      10 health\10_health.png.meta
-    projectPath: Assets\Sprites\Stad 10 health\10_health.png.meta
+  - path: Assets\Scenes\Credits.unity.meta
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Scenes\Credits.unity.meta
+    projectPath: Assets\Scenes\Credits.unity.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Sprites\Stad 10 health\10_health_layer_3.png
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
-      10 health\10_health_layer_3.png
-    projectPath: Assets\Sprites\Stad 10 health\10_health_layer_3.png
+  - path: Assets\Scenes\Main manu.unity
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Scenes\Main
+      manu.unity
+    projectPath: Assets\Scenes\Main manu.unity
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Sprites\Stad 10 health\10_health_layer_3.png.meta
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
-      10 health\10_health_layer_3.png.meta
-    projectPath: Assets\Sprites\Stad 10 health\10_health_layer_3.png.meta
+  - path: Assets\Scenes\Main manu.unity.meta
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Scenes\Main
+      manu.unity.meta
+    projectPath: Assets\Scenes\Main manu.unity.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Sprites\Stad 10 health\10_health_layer1.png
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
-      10 health\10_health_layer1.png
-    projectPath: Assets\Sprites\Stad 10 health\10_health_layer1.png
+  - path: Assets\Scripts\Main menu.meta
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Scripts\Main
+      menu.meta
+    projectPath: Assets\Scripts\Main menu.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Sprites\Stad 10 health\10_health_layer1.png.meta
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
-      10 health\10_health_layer1.png.meta
-    projectPath: Assets\Sprites\Stad 10 health\10_health_layer1.png.meta
+  - path: Assets\Scripts\Main menu\quit.cs
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Scripts\Main
+      menu\quit.cs
+    projectPath: Assets\Scripts\Main menu\quit.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Sprites\Stad 100 health\untilted_artwork.png.meta
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
-      100 health\untilted_artwork.png.meta
-    projectPath: Assets\Sprites\Stad 100 health\untilted_artwork.png.meta
+  - path: Assets\Scripts\Main menu\quit.cs.meta
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Scripts\Main
+      menu\quit.cs.meta
+    projectPath: Assets\Scripts\Main menu\quit.cs.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Sprites\Stad 100 health\Untitled_Artwork (2).png.meta
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
-      100 health\Untitled_Artwork (2).png.meta
-    projectPath: Assets\Sprites\Stad 100 health\Untitled_Artwork (2).png.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Main menu\sceneChanger.cs
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Scripts\Main
+      menu\sceneChanger.cs
+    projectPath: Assets\Scripts\Main menu\sceneChanger.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Sprites\Stad 100 health\Untitled_Artwork (3).png.meta
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
-      100 health\Untitled_Artwork (3).png.meta
-    projectPath: Assets\Sprites\Stad 100 health\Untitled_Artwork (3).png.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Main menu\sceneChanger.cs.meta
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Scripts\Main
+      menu\sceneChanger.cs.meta
+    projectPath: Assets\Scripts\Main menu\sceneChanger.cs.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\pressed start.png
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\pressed
+      start.png
+    projectPath: Assets\Sprites\pressed start.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\pressed start.png.meta
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\pressed
+      start.png.meta
+    projectPath: Assets\Sprites\pressed start.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\title.png
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\title.png
+    projectPath: Assets\Sprites\title.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\title.png.meta
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\title.png.meta
+    projectPath: Assets\Sprites\title.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\unpressed start.png
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\unpressed
+      start.png
+    projectPath: Assets\Sprites\unpressed start.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\unpressed start.png.meta
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\unpressed
+      start.png.meta
+    projectPath: Assets\Sprites\unpressed start.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Untitled_Artwork-2.png
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\Untitled_Artwork-2.png
+    projectPath: Assets\Sprites\Untitled_Artwork-2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Untitled_Artwork-2.png.meta
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Assets\Sprites\Untitled_Artwork-2.png.meta
+    projectPath: Assets\Sprites\Untitled_Artwork-2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ArtifactDB
     projectPath: Library\ArtifactDB
@@ -225,15 +159,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
+  - path: Library\EditorSnapSettings.asset
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\EditorSnapSettings.asset
+    projectPath: Library\EditorSnapSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -252,6 +180,12 @@ MonoBehaviour:
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -11409,369 +11343,222 @@ MonoBehaviour:
   - path: Library\PackageCache\com.unity.timeline@1.4.8\ValidationExceptions.json.meta
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.timeline@1.4.8\ValidationExceptions.json.meta
     projectPath: Library\PackageCache\com.unity.timeline@1.4.8\ValidationExceptions.json.meta
->>>>>>> Stashed changes
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\PackageManager\ProjectCache
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\PackageManager\ProjectCache
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\PackageManager\ProjectCache
->>>>>>> Stashed changes
     projectPath: Library\PackageManager\ProjectCache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\PackageManager\ProjectCache.md5
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\PackageManager\ProjectCache.md5
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\PackageManager\ProjectCache.md5
->>>>>>> Stashed changes
     projectPath: Library\PackageManager\ProjectCache.md5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\SceneVisibilityState.asset
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\SceneVisibilityState.asset
->>>>>>> Stashed changes
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Rider.Editor.dll
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.dll
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Timeline.dll
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Timeline.dll
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.pdb
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Timeline.pdb
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Timeline.pdb
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEditor.UI.dll
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEditor.UI.dll
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEngine.UI.dll
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEngine.UI.dll
->>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\SourceAssetDB
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\SourceAssetDB
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\SourceAssetDB
->>>>>>> Stashed changes
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
->>>>>>> Stashed changes
-    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+  - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Style.catalog
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Style.catalog
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Style.catalog
->>>>>>> Stashed changes
-    projectPath: Library\Style.catalog
+    workTreeStatus: 3
+  - path: Logs\ApiUpdaterCheck.txt
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Logs\ApiUpdaterCheck.txt
+    projectPath: Logs\ApiUpdaterCheck.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Logs\AssetImportWorker0.log
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0.log
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0.log
->>>>>>> Stashed changes
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Logs\AssetImportWorker0-prev.log
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0-prev.log
-=======
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0-prev.log
->>>>>>> Stashed changes
     projectPath: Logs\AssetImportWorker0-prev.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Logs\shadercompiler-AssetImportWorker0.log
-<<<<<<< Updated upstream
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Logs\shadercompiler-AssetImportWorker0.log
-    projectPath: Logs\shadercompiler-AssetImportWorker0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-=======
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Logs\shadercompiler-AssetImportWorker0.log
-    projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -11784,7 +11571,6 @@ MonoBehaviour:
   - path: UserSettings\EditorUserSettings.asset
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\UserSettings\EditorUserSettings.asset
     projectPath: UserSettings\EditorUserSettings.asset
->>>>>>> Stashed changes
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
