@@ -13,8 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
+<<<<<<< Updated upstream
   lastUpdatedAtString: 2021-10-28T09:14:24.613+02:00
   initializedAtString: 2021-10-28T09:14:24.597+02:00
+=======
+  lastUpdatedAtString: 2021-10-28T09:07:46.946+02:00
+  initializedAtString: 2021-10-28T09:07:46.899+02:00
+>>>>>>> Stashed changes
   localBranches:
   - name: main
     tracking: origin/main

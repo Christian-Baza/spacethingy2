@@ -14,8 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cacheType: 6
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   lastUpdatedAtString: 2021-10-28T09:07:01.506+02:00
   initializedAtString: 2021-10-28T09:07:01.506+02:00
+=======
+  lastUpdatedAtString: 2021-10-28T10:32:31.389+02:00
+  initializedAtString: 2021-10-28T10:30:19.201+02:00
+>>>>>>> Stashed changes
   entries:
   - path: .vs\spacethingy2\v16\.suo
     fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\.vs\spacethingy2\v16\.suo
@@ -23,71 +28,240 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+  - path: Assets\Anims.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims.meta
+    projectPath: Assets\Anims.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\alf 2.controller
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\alf
+      2.controller
+    projectPath: Assets\Anims\alf 2.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\alf 2.controller.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\alf
+      2.controller.meta
+    projectPath: Assets\Anims\alf 2.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\alf.anim
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\alf.anim
+    projectPath: Assets\Anims\alf.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\alf.anim.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\alf.anim.meta
+    projectPath: Assets\Anims\alf.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\asteroidspritesheet_0.controller
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\asteroidspritesheet_0.controller
+    projectPath: Assets\Anims\asteroidspritesheet_0.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\asteroidspritesheet_0.controller.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\asteroidspritesheet_0.controller.meta
+    projectPath: Assets\Anims\asteroidspritesheet_0.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\bom.anim
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\bom.anim
+    projectPath: Assets\Anims\bom.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\bom.anim.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\bom.anim.meta
+    projectPath: Assets\Anims\bom.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\City.controller
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\City.controller
+    projectPath: Assets\Anims\City.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\City.controller.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\City.controller.meta
+    projectPath: Assets\Anims\City.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\CityLayer3Anim.anim
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\CityLayer3Anim.anim
+    projectPath: Assets\Anims\CityLayer3Anim.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\CityLayer3Anim.anim.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\CityLayer3Anim.anim.meta
+    projectPath: Assets\Anims\CityLayer3Anim.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\CityLayer3Anim1.anim
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\CityLayer3Anim1.anim
+    projectPath: Assets\Anims\CityLayer3Anim1.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\CityLayer3Anim1.anim.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\CityLayer3Anim1.anim.meta
+    projectPath: Assets\Anims\CityLayer3Anim1.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\CityLayer3Anim2.anim
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\CityLayer3Anim2.anim
+    projectPath: Assets\Anims\CityLayer3Anim2.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\CityLayer3Anim2.anim.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\CityLayer3Anim2.anim.meta
+    projectPath: Assets\Anims\CityLayer3Anim2.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\CityLayer3Anim3.anim
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\CityLayer3Anim3.anim
+    projectPath: Assets\Anims\CityLayer3Anim3.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\CityLayer3Anim3.anim.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\CityLayer3Anim3.anim.meta
+    projectPath: Assets\Anims\CityLayer3Anim3.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\koment.anim
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\koment.anim
+    projectPath: Assets\Anims\koment.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\koment.anim.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\koment.anim.meta
+    projectPath: Assets\Anims\koment.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\New Piskel_0.controller
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\New
+      Piskel_0.controller
+    projectPath: Assets\Anims\New Piskel_0.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\New Piskel_0.controller.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\New
+      Piskel_0.controller.meta
+    projectPath: Assets\Anims\New Piskel_0.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\TNT_0.controller
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\TNT_0.controller
+    projectPath: Assets\Anims\TNT_0.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\TNT_0.controller.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\TNT_0.controller.meta
+    projectPath: Assets\Anims\TNT_0.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\viking.anim
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\viking.anim
+    projectPath: Assets\Anims\viking.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Anims\viking.anim.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Anims\viking.anim.meta
+    projectPath: Assets\Anims\viking.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\LeosScene.unity
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Scenes\LeosScene.unity
+    projectPath: Assets\Scenes\LeosScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\LucyCode\Enemy.cs
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\Enemy.cs
-    projectPath: Assets\Scripts\LucyCode\Enemy.cs
+  - path: Assets\Scripts\LucyCode\CityCode.cs
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\CityCode.cs
+    projectPath: Assets\Scripts\LucyCode\CityCode.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ArtifactDB
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ArtifactDB
-    projectPath: Library\ArtifactDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Artifacts\67\6726ef86692cc34dbdefc4f86ef6bfc8
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\67\6726ef86692cc34dbdefc4f86ef6bfc8
-    projectPath: Library\Artifacts\67\6726ef86692cc34dbdefc4f86ef6bfc8
+  - path: Assets\Sprites\10_health.png
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\10_health.png
+    projectPath: Assets\Sprites\10_health.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\69\696fd4043b5e85c36a9edb45ff205394
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\69\696fd4043b5e85c36a9edb45ff205394
-    projectPath: Library\Artifacts\69\696fd4043b5e85c36a9edb45ff205394
+  - path: Assets\Sprites\10_health.png.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\10_health.png.meta
+    projectPath: Assets\Sprites\10_health.png.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\82\82333efe1e1679bfc6a8762632c4f273
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\82\82333efe1e1679bfc6a8762632c4f273
-    projectPath: Library\Artifacts\82\82333efe1e1679bfc6a8762632c4f273
+  - path: Assets\Sprites\10_health_layer_3.png
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\10_health_layer_3.png
+    projectPath: Assets\Sprites\10_health_layer_3.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\d9\d90915e28befc1bc8ab13bcfd3b90481
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\d9\d90915e28befc1bc8ab13bcfd3b90481
-    projectPath: Library\Artifacts\d9\d90915e28befc1bc8ab13bcfd3b90481
+  - path: Assets\Sprites\10_health_layer_3.png.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\10_health_layer_3.png.meta
+    projectPath: Assets\Sprites\10_health_layer_3.png.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
+  - path: Assets\Sprites\10_health_layer1.png
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\10_health_layer1.png
+    projectPath: Assets\Sprites\10_health_layer1.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\EditorInstance.json
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
+  - path: Assets\Sprites\10_health_layer1.png.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\10_health_layer1.png.meta
+    projectPath: Assets\Sprites\10_health_layer1.png.meta
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    workTreeStatus: 5
+  - path: Assets\Sprites\Anims.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Anims.meta
+    projectPath: Assets\Sprites\Anims.meta
     originalPath: 
     indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Anims\alf 2.controller
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Anims\alf
+      2.controller
+    projectPath: Assets\Sprites\Anims\alf 2.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Anims\alf 2.controller.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Anims\alf
+      2.controller.meta
+    projectPath: Assets\Sprites\Anims\alf 2.controller.meta
+    originalPath: 
+    indexStatus: 0
+<<<<<<< Updated upstream
     workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\gfu\cache\repoinfo.yaml
@@ -11700,6 +11874,324 @@ MonoBehaviour:
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEngine.UI.dll
 >>>>>>> Stashed changes
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+=======
+    workTreeStatus: 5
+  - path: Assets\Sprites\Anims\alf.anim
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Anims\alf.anim
+    projectPath: Assets\Sprites\Anims\alf.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Anims\alf.anim.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Anims\alf.anim.meta
+    projectPath: Assets\Sprites\Anims\alf.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Anims\asteroidspritesheet_0.controller
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Anims\asteroidspritesheet_0.controller
+    projectPath: Assets\Sprites\Anims\asteroidspritesheet_0.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Anims\asteroidspritesheet_0.controller.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Anims\asteroidspritesheet_0.controller.meta
+    projectPath: Assets\Sprites\Anims\asteroidspritesheet_0.controller.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Anims\bom.anim
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Anims\bom.anim
+    projectPath: Assets\Sprites\Anims\bom.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Anims\bom.anim.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Anims\bom.anim.meta
+    projectPath: Assets\Sprites\Anims\bom.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Anims\koment.anim
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Anims\koment.anim
+    projectPath: Assets\Sprites\Anims\koment.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Anims\koment.anim.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Anims\koment.anim.meta
+    projectPath: Assets\Sprites\Anims\koment.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Anims\New Piskel_0.controller
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Anims\New
+      Piskel_0.controller
+    projectPath: Assets\Sprites\Anims\New Piskel_0.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Anims\New Piskel_0.controller.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Anims\New
+      Piskel_0.controller.meta
+    projectPath: Assets\Sprites\Anims\New Piskel_0.controller.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Anims\TNT_0.controller
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Anims\TNT_0.controller
+    projectPath: Assets\Sprites\Anims\TNT_0.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Anims\TNT_0.controller.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Anims\TNT_0.controller.meta
+    projectPath: Assets\Sprites\Anims\TNT_0.controller.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Anims\viking.anim
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Anims\viking.anim
+    projectPath: Assets\Sprites\Anims\viking.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Anims\viking.anim.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Anims\viking.anim.meta
+    projectPath: Assets\Sprites\Anims\viking.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Stad 10 health\10_health.png
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      10 health\10_health.png
+    projectPath: Assets\Sprites\Stad 10 health\10_health.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Stad 10 health\10_health.png.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      10 health\10_health.png.meta
+    projectPath: Assets\Sprites\Stad 10 health\10_health.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Stad 10 health\10_health_layer_3.png
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      10 health\10_health_layer_3.png
+    projectPath: Assets\Sprites\Stad 10 health\10_health_layer_3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Stad 10 health\10_health_layer_3.png.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      10 health\10_health_layer_3.png.meta
+    projectPath: Assets\Sprites\Stad 10 health\10_health_layer_3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Stad 10 health\10_health_layer1.png
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      10 health\10_health_layer1.png
+    projectPath: Assets\Sprites\Stad 10 health\10_health_layer1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Stad 10 health\10_health_layer1.png.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      10 health\10_health_layer1.png.meta
+    projectPath: Assets\Sprites\Stad 10 health\10_health_layer1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Stad 100 health\100_health.png
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      100 health\100_health.png
+    projectPath: Assets\Sprites\Stad 100 health\100_health.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Stad 100 health\100_health.png.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      100 health\100_health.png.meta
+    projectPath: Assets\Sprites\Stad 100 health\100_health.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Stad 100 health\100_health_layer3.png
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      100 health\100_health_layer3.png
+    projectPath: Assets\Sprites\Stad 100 health\100_health_layer3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Stad 100 health\100_health_layer3.png.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      100 health\100_health_layer3.png.meta
+    projectPath: Assets\Sprites\Stad 100 health\100_health_layer3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Stad 100 health\100_heatlh_layer1.png
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      100 health\100_heatlh_layer1.png
+    projectPath: Assets\Sprites\Stad 100 health\100_heatlh_layer1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Stad 100 health\100_heatlh_layer1.png.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      100 health\100_heatlh_layer1.png.meta
+    projectPath: Assets\Sprites\Stad 100 health\100_heatlh_layer1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Stad 100 health\untilted_artwork.png
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      100 health\untilted_artwork.png
+    projectPath: Assets\Sprites\Stad 100 health\untilted_artwork.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Stad 100 health\untilted_artwork.png.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      100 health\untilted_artwork.png.meta
+    projectPath: Assets\Sprites\Stad 100 health\untilted_artwork.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Stad 100 health\Untitled_Artwork (2).png
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      100 health\Untitled_Artwork (2).png
+    projectPath: Assets\Sprites\Stad 100 health\Untitled_Artwork (2).png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Stad 100 health\Untitled_Artwork (2).png.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      100 health\Untitled_Artwork (2).png.meta
+    projectPath: Assets\Sprites\Stad 100 health\Untitled_Artwork (2).png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Stad 100 health\Untitled_Artwork (3).png
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      100 health\Untitled_Artwork (3).png
+    projectPath: Assets\Sprites\Stad 100 health\Untitled_Artwork (3).png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Stad 100 health\Untitled_Artwork (3).png.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Stad
+      100 health\Untitled_Artwork (3).png.meta
+    projectPath: Assets\Sprites\Stad 100 health\Untitled_Artwork (3).png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Untitled_Artwork 1 (1).png
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Untitled_Artwork
+      1 (1).png
+    projectPath: Assets\Sprites\Untitled_Artwork 1 (1).png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Untitled_Artwork 1 (1).png.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Untitled_Artwork
+      1 (1).png.meta
+    projectPath: Assets\Sprites\Untitled_Artwork 1 (1).png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Untitled_Artwork 2.png
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Untitled_Artwork
+      2.png
+    projectPath: Assets\Sprites\Untitled_Artwork 2.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sprites\Untitled_Artwork 2.png.meta
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Assets\Sprites\Untitled_Artwork
+      2.png.meta
+    projectPath: Assets\Sprites\Untitled_Artwork 2.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\46\46027cf2dd64a75780cfcb414f5bbc87
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\Artifacts\46\46027cf2dd64a75780cfcb414f5bbc87
+    projectPath: Library\Artifacts\46\46027cf2dd64a75780cfcb414f5bbc87
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\expandedItems
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+>>>>>>> Stashed changes
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -11713,6 +12205,7 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< Updated upstream
   - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
 <<<<<<< Updated upstream
     fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
@@ -11730,6 +12223,11 @@ MonoBehaviour:
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\Style.catalog
 >>>>>>> Stashed changes
     projectPath: Library\Style.catalog
+=======
+  - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+>>>>>>> Stashed changes
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -11742,7 +12240,7 @@ MonoBehaviour:
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Logs\AssetImportWorker0-prev.log
 <<<<<<< Updated upstream
     fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0-prev.log
@@ -11751,8 +12249,8 @@ MonoBehaviour:
 >>>>>>> Stashed changes
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\shadercompiler-AssetImportWorker0.log
 <<<<<<< Updated upstream
     fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Logs\shadercompiler-AssetImportWorker0.log
@@ -11785,6 +12283,12 @@ MonoBehaviour:
     fullPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\UserSettings\EditorUserSettings.asset
     projectPath: UserSettings\EditorUserSettings.asset
 >>>>>>> Stashed changes
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UserSettings\EditorUserSettings.asset
+    fullPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
