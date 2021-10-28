@@ -7,17 +7,26 @@ public class CityCode : MonoBehaviour
     public int cityHealth;
     static int citySpriteHealth;
     public Animator city;
+    public Animator city1;
+    public Animator city2;
     private void Start()
     {
         cityHealth = 100;
+        citySpriteHealth = cityHealth;
+        city.SetInteger("animHealth", citySpriteHealth);
+        city1.SetInteger("animHealth", citySpriteHealth);
+        city2.SetInteger("animHealth", citySpriteHealth);
     }
     private void FixedUpdate()
     {
         if( cityHealth == 0)
         {
             print("Game Over");
-            citySpriteHealth = cityHealth;
-            city.SetInteger("animHealth",citySpriteHealth);
+
         }
+        citySpriteHealth = cityHealth;
+        city.SetInteger("animHealth",citySpriteHealth);
+        city1.SetInteger("animHealth",citySpriteHealth);
+        city2.SetInteger("animHealth",citySpriteHealth);
     }
 }
