@@ -63,7 +63,9 @@
     <Compile Include="Assets\MilkShake\Demo\Scripts\CustomShake.cs" />
     <Compile Include="Assets\Scripts\LucyCode\Enemy.cs" />
     <Compile Include="Assets\MilkShake\Scripts\ShakeResult.cs" />
+    <Compile Include="Assets\Scripts\LucyCode\Bullet.cs" />
     <Compile Include="Assets\MilkShake\Scripts\ShakeState.cs" />
+    <Compile Include="Assets\Scripts\spaceShup.cs" />
     <Compile Include="Assets\Scripts\LucyCode\EnemyTwo.cs" />
     <Compile Include="Assets\MilkShake\Scripts\ShakeParameters.cs" />
     <Compile Include="Assets\MilkShake\Demo\Scripts\CameraSwitcher.cs" />
