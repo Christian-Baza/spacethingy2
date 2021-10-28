@@ -1346,3 +1346,4 @@ Received Import Request.
 Start importing Assets/Sprites/Enemy 1/Untitled_Artwork-8.png using Guid(05595acfd5f7da34a8143cf03dd4a25e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96b8d4effdda6c28f205f2f91d4980a4') in 0.031565 seconds
   Import took 0.036289 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
