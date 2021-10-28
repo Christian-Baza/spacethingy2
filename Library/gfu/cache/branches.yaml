@@ -13,13 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-<<<<<<< Updated upstream
-  lastUpdatedAtString: 2021-10-21T12:20:51.246+02:00
-  initializedAtString: 2021-10-21T12:20:51.223+02:00
-=======
-  lastUpdatedAtString: 2021-10-21T12:55:49.249+02:00
-  initializedAtString: 2021-10-21T12:55:49.243+02:00
->>>>>>> Stashed changes
+  lastUpdatedAtString: 2021-10-28T08:53:02.367+02:00
+  initializedAtString: 2021-10-28T08:53:02.219+02:00
   localBranches:
   - name: main
     tracking: origin/main
@@ -30,7 +25,7 @@ MonoBehaviour:
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/Christian-Baza/spacethingy2.git
+    url: https://github.com/Christian-Baza/spacethingy2
     login: 
     user: 
     host: 
@@ -43,7 +38,7 @@ MonoBehaviour:
     - name: main
       remote:
         name: origin
-        url: https://github.com/Christian-Baza/spacethingy2.git
+        url: https://github.com/Christian-Baza/spacethingy2
       trackingBranch: main
   remoteConfigBranches:
     keys:
@@ -57,16 +52,16 @@ MonoBehaviour:
       - name: HEAD
         remote:
           name: origin
-          url: https://github.com/Christian-Baza/spacethingy2.git
+          url: https://github.com/Christian-Baza/spacethingy2
         trackingBranch: 
       - name: main
         remote:
           name: origin
-          url: https://github.com/Christian-Baza/spacethingy2.git
+          url: https://github.com/Christian-Baza/spacethingy2
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/Christian-Baza/spacethingy2.git
+      url: https://github.com/Christian-Baza/spacethingy2
