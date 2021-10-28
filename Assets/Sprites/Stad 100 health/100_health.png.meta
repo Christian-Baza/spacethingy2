@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7b7b2d3d7af88f343875a1c693d5242c
+guid: 80a8825903108fe46a5fb9619d7947c2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -87,6 +87,21 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< Updated upstream:Assets/Sprites/Stad 100 health/untilted_artwork.png.meta
+=======
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+>>>>>>> Stashed changes:Assets/Sprites/Stad 100 health/100_health.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites: []

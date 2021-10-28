@@ -13,6 +13,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 7
+<<<<<<< HEAD
   lastUpdatedAtString: 2021-10-28T10:33:34.157+02:00
   initializedAtString: 2021-10-28T09:03:16.060+02:00
+=======
+<<<<<<< Updated upstream
+  lastUpdatedAtString: 2021-10-28T09:14:16.130+02:00
+  initializedAtString: 2021-10-28T09:12:54.918+02:00
+=======
+  lastUpdatedAtString: 2021-10-28T10:31:48.727+02:00
+  initializedAtString: 2021-10-28T10:31:48.727+02:00
+>>>>>>> Stashed changes
+>>>>>>> 6867f3ee8aac1a635b2e6a3be67f0ccb7b715755
   gitLocks: []
