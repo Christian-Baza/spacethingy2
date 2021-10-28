@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Main manu.unity
+=======
+- path: Assets/Scenes/LeosScene.unity
+>>>>>>> 64b0e3c9b993dce5267886e2b9f099e3a5006f12
   isLoaded: 1
   isActive: 1
   isSubScene: 0
