@@ -48,7 +48,10 @@ public class Enemy : MonoBehaviour
     {
         if(other.tag == "Bullet") { EnemyDamage(); }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         if (other.tag == "Wall")
