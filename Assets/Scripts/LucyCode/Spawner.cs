@@ -8,15 +8,13 @@ public class Spawner : MonoBehaviour
     private GameObject enemy1;
     [SerializeField]
     private GameObject enemy2;
-    [SerializeField]
-    private GameObject enemy3;
     private void Start()
     {
         StartCoroutine(Spawn());
     }
     IEnumerator Spawn()// väljer nått att göra varje sekund -Lucy
     {
-        float random =  Random.Range(0,5);// väljer fiende att spawna eller ingen alls -Lucy
+        float random =  Random.Range(0,4);// väljer fiende att spawna eller ingen alls -Lucy
         yield return new WaitForSeconds(1);
         if(random == 0 || random == 1)
         {
@@ -28,12 +26,7 @@ public class Spawner : MonoBehaviour
             Instantiate(enemy2, transform.position, Quaternion.identity);
             print("enemy2");
         }
-        else if (random == 3)
-        {
-            Instantiate(enemy3, transform.position, Quaternion.identity);
-            print("enemy3");
-        }
-        if (random == 4 || random == 5)
+        if (random == 3 || random == 4)
         {
             print("empty");
         }

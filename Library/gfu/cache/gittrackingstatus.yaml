@@ -13,7 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
+<<<<<<< HEAD
   lastUpdatedAtString: 2021-10-28T12:22:58.698+02:00
   initializedAtString: 2021-10-28T12:22:58.698+02:00
+=======
+  lastUpdatedAtString: 2021-10-28T12:30:55.182+02:00
+  initializedAtString: 2021-10-28T12:30:55.182+02:00
+>>>>>>> 6431ccc2f992d313b9c1b961302c3ca7d5200d3f
   ahead: 0
   behind: 0
