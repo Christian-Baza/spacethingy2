@@ -1,9 +1,19 @@
 sceneSetups:
 <<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+- path: Assets/Scenes/MainMenuScene.unity
+=======
+<<<<<<< HEAD
+>>>>>>> Stashed changes
 - path: Assets/Scenes/Main manu.unity
 =======
 - path: Assets/Scenes/LeosScene.unity
 >>>>>>> 64b0e3c9b993dce5267886e2b9f099e3a5006f12
+<<<<<<< Updated upstream
+=======
+>>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
+>>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
   isSubScene: 0
