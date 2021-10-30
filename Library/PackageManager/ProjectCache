@@ -1,81 +1,20 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-    m_FilePath: C:/Users/wincent.nyman/Documents/Githubb/spacethingy2/Packages/manifest.json
-=======
-<<<<<<< HEAD
->>>>>>> Stashed changes
-    m_FilePath: C:/Users/christian.baza/Documents/GitHub/spacethingy2/Packages/manifest.json
-=======
-<<<<<<< Updated upstream
-    m_FilePath: C:/Users/leo.gasslander/Documents/GitHub/spacethingy2/Packages/manifest.json
-=======
-    m_FilePath: C:/Users/lukas.feldt/Documents/GitHub/spacethingy2/Packages/manifest.json
->>>>>>> Stashed changes
->>>>>>> 6431ccc2f992d313b9c1b961302c3ca7d5200d3f
-<<<<<<< Updated upstream
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
+    m_FilePath: C:/Users/chris/Documents/GitHub/spacethingy2/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-      ticks: 637710033853679143
-    m_Hash: 2403376977
+      ticks: 637712124568296506
+    m_Hash: 1811258393
   m_LockFileStatus:
-    m_FilePath: C:/Users/wincent.nyman/Documents/Githubb/spacethingy2/Packages/packages-lock.json
-=======
-<<<<<<< HEAD
->>>>>>> Stashed changes
-      ticks: 637703953868978936
-    m_Hash: 2640579569
-  m_LockFileStatus:
-    m_FilePath: C:/Users/christian.baza/Documents/GitHub/spacethingy2/Packages/packages-lock.json
-=======
-<<<<<<< Updated upstream
-      ticks: 637710017491520903
-    m_Hash: 2640579569
-  m_LockFileStatus:
-    m_FilePath: C:/Users/leo.gasslander/Documents/GitHub/spacethingy2/Packages/packages-lock.json
-=======
-      ticks: 637703956676263126
-    m_Hash: 2640579569
-  m_LockFileStatus:
-    m_FilePath: C:/Users/lukas.feldt/Documents/GitHub/spacethingy2/Packages/packages-lock.json
->>>>>>> Stashed changes
->>>>>>> 6431ccc2f992d313b9c1b961302c3ca7d5200d3f
-<<<<<<< Updated upstream
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
+    m_FilePath: C:/Users/chris/Documents/GitHub/spacethingy2/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-      ticks: 637710033867769542
-    m_Hash: 4232445147
-=======
-<<<<<<< HEAD
->>>>>>> Stashed changes
-      ticks: 637703953868988897
-=======
-<<<<<<< Updated upstream
-      ticks: 637710017491526949
-=======
-      ticks: 637703956676263126
->>>>>>> Stashed changes
->>>>>>> 6431ccc2f992d313b9c1b961302c3ca7d5200d3f
-    m_Hash: 1038764059
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
+      ticks: 637712124568306475
+    m_Hash: 2052317948
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -137,25 +76,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.5.7
       source: 1
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-      resolvedPath: C:\Users\wincent.nyman\Documents\Githubb\spacethingy2\Library\PackageCache\com.unity.collab-proxy@1.5.7
-=======
-<<<<<<< HEAD
->>>>>>> Stashed changes
-      resolvedPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.collab-proxy@1.5.7
-=======
-<<<<<<< Updated upstream
-      resolvedPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.collab-proxy@1.5.7
-=======
-      resolvedPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.collab-proxy@1.5.7
->>>>>>> Stashed changes
->>>>>>> 6431ccc2f992d313b9c1b961302c3ca7d5200d3f
-<<<<<<< Updated upstream
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
+      resolvedPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.collab-proxy@1.5.7
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -200,14 +121,6 @@ m_PackageAssets:
         - 1.11.2
         - 1.12.5
         - 1.13.5
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-        - 1.14.1
-        - 1.15.1
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -224,13 +137,6 @@ m_PackageAssets:
         - 1.8.0
         - 1.10.2
         - 1.12.5
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-        - 1.14.1
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -284,25 +190,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-      resolvedPath: C:\Users\wincent.nyman\Documents\Githubb\spacethingy2\Library\PackageCache\com.unity.ide.rider@2.0.7
-=======
-<<<<<<< HEAD
->>>>>>> Stashed changes
-      resolvedPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.ide.rider@2.0.7
-=======
-<<<<<<< Updated upstream
-      resolvedPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.ide.rider@2.0.7
-=======
-      resolvedPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.ide.rider@2.0.7
->>>>>>> Stashed changes
->>>>>>> 6431ccc2f992d313b9c1b961302c3ca7d5200d3f
-<<<<<<< Updated upstream
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
+      resolvedPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -409,25 +297,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.8
       source: 1
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-      resolvedPath: C:\Users\wincent.nyman\Documents\Githubb\spacethingy2\Library\PackageCache\com.unity.ide.visualstudio@2.0.8
-=======
-<<<<<<< HEAD
->>>>>>> Stashed changes
-      resolvedPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.ide.visualstudio@2.0.8
-=======
-<<<<<<< Updated upstream
-      resolvedPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.ide.visualstudio@2.0.8
-=======
-      resolvedPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.ide.visualstudio@2.0.8
->>>>>>> Stashed changes
->>>>>>> 6431ccc2f992d313b9c1b961302c3ca7d5200d3f
-<<<<<<< Updated upstream
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
+      resolvedPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.ide.visualstudio@2.0.8
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -514,25 +384,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-      resolvedPath: C:\Users\wincent.nyman\Documents\Githubb\spacethingy2\Library\PackageCache\com.unity.ide.vscode@1.2.3
-=======
-<<<<<<< HEAD
->>>>>>> Stashed changes
-      resolvedPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.ide.vscode@1.2.3
-=======
-<<<<<<< Updated upstream
-      resolvedPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.ide.vscode@1.2.3
-=======
-      resolvedPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.ide.vscode@1.2.3
->>>>>>> Stashed changes
->>>>>>> 6431ccc2f992d313b9c1b961302c3ca7d5200d3f
-<<<<<<< Updated upstream
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
+      resolvedPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -603,25 +455,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.24
       source: 1
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-      resolvedPath: C:\Users\wincent.nyman\Documents\Githubb\spacethingy2\Library\PackageCache\com.unity.test-framework@1.1.24
-=======
-<<<<<<< HEAD
->>>>>>> Stashed changes
-      resolvedPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.test-framework@1.1.24
-=======
-<<<<<<< Updated upstream
-      resolvedPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.test-framework@1.1.24
-=======
-      resolvedPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.test-framework@1.1.24
->>>>>>> Stashed changes
->>>>>>> 6431ccc2f992d313b9c1b961302c3ca7d5200d3f
-<<<<<<< Updated upstream
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
+      resolvedPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.test-framework@1.1.24
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -667,28 +501,12 @@ m_PackageAssets:
         - 1.1.26
         - 1.1.27
         - 1.1.29
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-        - 1.1.30
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
         compatible:
         - 1.1.24
         - 1.1.26
         - 1.1.27
         - 1.1.29
-<<<<<<< Updated upstream
         verified: 1.1.29
-=======
-<<<<<<< HEAD
-        - 1.1.30
-        verified: 1.1.30
-=======
-        verified: 1.1.29
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
       dependencies:
       - name: com.unity.ext.nunit
         version: 1.0.6
@@ -731,25 +549,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.6
       source: 1
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-      resolvedPath: C:\Users\wincent.nyman\Documents\Githubb\spacethingy2\Library\PackageCache\com.unity.textmeshpro@3.0.6
-=======
-<<<<<<< HEAD
->>>>>>> Stashed changes
-      resolvedPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.textmeshpro@3.0.6
-=======
-<<<<<<< Updated upstream
-      resolvedPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.textmeshpro@3.0.6
-=======
-      resolvedPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.textmeshpro@3.0.6
->>>>>>> Stashed changes
->>>>>>> 6431ccc2f992d313b9c1b961302c3ca7d5200d3f
-<<<<<<< Updated upstream
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
+      resolvedPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.textmeshpro@3.0.6
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -908,25 +708,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-      resolvedPath: C:\Users\wincent.nyman\Documents\Githubb\spacethingy2\Library\PackageCache\com.unity.timeline@1.4.8
-=======
-<<<<<<< HEAD
->>>>>>> Stashed changes
-      resolvedPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.timeline@1.4.8
-=======
-<<<<<<< Updated upstream
-      resolvedPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.timeline@1.4.8
-=======
-      resolvedPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.timeline@1.4.8
->>>>>>> Stashed changes
->>>>>>> 6431ccc2f992d313b9c1b961302c3ca7d5200d3f
-<<<<<<< Updated upstream
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
+      resolvedPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.timeline@1.4.8
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1001,26 +783,12 @@ m_PackageAssets:
         - 1.5.4
         - 1.5.5
         - 1.5.6
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-        - 1.5.7
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
         - 1.6.0-pre.1
         - 1.6.0-pre.3
         - 1.6.0-pre.4
         - 1.6.0-pre.5
         - 1.6.1
         - 1.6.2
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-        - 1.6.3
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
         compatible:
         - 1.4.8
         - 1.5.0-pre.2
@@ -1036,26 +804,12 @@ m_PackageAssets:
         - 1.5.4
         - 1.5.5
         - 1.5.6
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-        - 1.5.7
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
         - 1.6.0-pre.1
         - 1.6.0-pre.3
         - 1.6.0-pre.4
         - 1.6.0-pre.5
         - 1.6.1
         - 1.6.2
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-        - 1.6.3
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
         verified: 1.4.8
       dependencies:
       - name: com.unity.modules.director
@@ -2911,25 +2665,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-      resolvedPath: C:\Users\wincent.nyman\Documents\Githubb\spacethingy2\Library\PackageCache\com.unity.ext.nunit@1.0.6
-=======
-<<<<<<< HEAD
->>>>>>> Stashed changes
-      resolvedPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.ext.nunit@1.0.6
-=======
-<<<<<<< Updated upstream
-      resolvedPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.ext.nunit@1.0.6
-=======
-      resolvedPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.ext.nunit@1.0.6
->>>>>>> Stashed changes
->>>>>>> 6431ccc2f992d313b9c1b961302c3ca7d5200d3f
-<<<<<<< Updated upstream
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
+      resolvedPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -2990,25 +2726,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 2.0.0
       source: 1
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-      resolvedPath: C:\Users\wincent.nyman\Documents\Githubb\spacethingy2\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
-=======
-<<<<<<< HEAD
->>>>>>> Stashed changes
-      resolvedPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
-=======
-<<<<<<< Updated upstream
-      resolvedPath: C:\Users\leo.gasslander\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
-=======
-      resolvedPath: C:\Users\lukas.feldt\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
->>>>>>> Stashed changes
->>>>>>> 6431ccc2f992d313b9c1b961302c3ca7d5200d3f
-<<<<<<< Updated upstream
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
+      resolvedPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
       assetPath: Packages/com.unity.nuget.newtonsoft-json
       name: com.unity.nuget.newtonsoft-json
       displayName: Newtonsoft Json
@@ -3081,23 +2799,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-m_ProjectPath: C:/Users/wincent.nyman/Documents/Githubb/spacethingy2/Packages
-=======
-<<<<<<< HEAD
->>>>>>> Stashed changes
-m_ProjectPath: C:/Users/christian.baza/Documents/GitHub/spacethingy2/Packages
-=======
-<<<<<<< Updated upstream
-m_ProjectPath: C:/Users/leo.gasslander/Documents/GitHub/spacethingy2/Packages
-=======
-m_ProjectPath: C:/Users/lukas.feldt/Documents/GitHub/spacethingy2/Packages
->>>>>>> Stashed changes
->>>>>>> 6431ccc2f992d313b9c1b961302c3ca7d5200d3f
-<<<<<<< Updated upstream
-=======
->>>>>>> f6a9c8e312e59ab147f845a80170ffebc06a01ad
->>>>>>> Stashed changes
+m_ProjectPath: C:/Users/chris/Documents/GitHub/spacethingy2/Packages
 m_EditorVersion: 2020.3.10f1 (297d780c91bc)

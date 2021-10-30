@@ -22,9 +22,9 @@ public class hpScriptPT : MonoBehaviour
     }
 
 
-    private void OnCollisionEnter(Collission collission)
+    private void OnCollisionEnter(Collision collision)
     {
-        if (collission.Gameobject.tag == "gongi")
+        if (collision.gameObject.tag == "gongi")
         {
             currentHealth -= 20; //detta betyder att när vår player´kolliderar med en enemy med tagen "gongi" så tar den skada.
         }
