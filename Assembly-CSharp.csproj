@@ -53,7 +53,7 @@
     <UnityVersion>2020.3.10f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\MilkShake\Scripts\ShakePreset.cs" />
@@ -64,8 +64,10 @@
     <Compile Include="Assets\MilkShake\Demo\Scripts\CustomShake.cs" />
     <Compile Include="Assets\Scripts\LucyCode\Enemy.cs" />
     <Compile Include="Assets\MilkShake\Scripts\ShakeResult.cs" />
+    <Compile Include="Assets\Scripts\LucyCode\Bullet.cs" />
     <Compile Include="Assets\MilkShake\Scripts\ShakeState.cs" />
-    <Compile Include="Assets\Scripts\hpScriptPT.cs" />
+    <Compile Include="Assets\Scripts\ChrisCode\playerMovement.cs" />
+    <Compile Include="Assets\Scripts\spaceShup.cs" />
     <Compile Include="Assets\Scripts\LucyCode\EnemyTwo.cs" />
     <Compile Include="Assets\MilkShake\Scripts\ShakeParameters.cs" />
     <Compile Include="Assets\MilkShake\Demo\Scripts\CameraSwitcher.cs" />
@@ -80,7 +82,8 @@
     <Compile Include="Assets\MilkShake\Scripts\ShakeInstance.cs" />
     <Compile Include="Assets\Scripts\LucyCode\EnemyThree.cs" />
     <Compile Include="Assets\MilkShake\Scripts\Shaker.cs" />
-    <Compile Include="Assets\Scripts\hpScript.cs" />
+    <Compile Include="Assets\Scripts\ChrisCode\GameManager.cs" />
+    <Compile Include="Assets\Scripts\ChrisCode\bullet.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
