@@ -439,3 +439,24 @@ Start importing Assets/Scenes/Credits.unity using Guid(43f547c3d5ae13842beb13310
   Import took 0.021746 seconds .
 >>>>>>> 1ee0489a4e621a035faa9f8f2a2078e2bd6603de
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.026171 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.811 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1458 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.1 MB.
+System memory in use after: 142.2 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 1969.
+Total: 3.005700 ms (FindLiveObjects: 0.173400 ms CreateObjectMapping: 0.047600 ms MarkObjects: 2.726600 ms  DeleteObjects: 0.056700 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
