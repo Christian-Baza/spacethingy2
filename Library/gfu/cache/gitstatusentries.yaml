@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-11-08T00:11:40.371+01:00
+  lastUpdatedAtString: 2021-11-08T00:13:54.195+01:00
   initializedAtString: 2021-11-07T22:15:31.794+01:00
   entries:
   - path: .vs\spacethingy2\v16\.suo
