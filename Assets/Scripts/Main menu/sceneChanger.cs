@@ -4,11 +4,13 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class sceneChanger : MonoBehaviour
 {
-
-    public int SceneIndex = 2;
-    private void Update()
+    public void LoadScene(string sceneName)
     {
-        
-        SceneManager.LoadScene(SceneIndex);
+        SceneManager.LoadScene(sceneName);
+    }
+    public void QuitGame()
+    {
+        Debug.Log("exitgame");
+        Application.Quit();
     }
 }
