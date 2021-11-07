@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-11-07T18:50:03.450+01:00
+  lastUpdatedAtString: 2021-11-07T22:02:15.659+01:00
   initializedAtString: 2021-11-07T18:24:24.826+01:00
   entries:
   - path: .vs\spacethingy2\v16\.suo
@@ -22,12 +22,60 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+  - path: Assets\Prefabs\christestprefabs\Enemy1.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Enemy1.prefab
+    projectPath: Assets\Prefabs\christestprefabs\Enemy1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\christestprefabs\Enemy1.prefab.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Enemy1.prefab.meta
+    projectPath: Assets\Prefabs\christestprefabs\Enemy1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\christestprefabs\Enemy2.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Enemy2.prefab
+    projectPath: Assets\Prefabs\christestprefabs\Enemy2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\christestprefabs\Enemy2.prefab.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Enemy2.prefab.meta
+    projectPath: Assets\Prefabs\christestprefabs\Enemy2.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\christestprefabs\PlayerShip.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\PlayerShip.prefab
+    projectPath: Assets\Prefabs\christestprefabs\PlayerShip.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scenes\ChrisTestScene.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scenes\ChrisTestScene.unity
+    projectPath: Assets\Scenes\ChrisTestScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Credits.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scenes\Credits.unity
+    projectPath: Assets\Scenes\Credits.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\GameScene.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scenes\GameScene.unity
+    projectPath: Assets\Scenes\GameScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\GameScene.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scenes\GameScene.unity.meta
+    projectPath: Assets\Scenes\GameScene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scenes\Main manu.unity
     fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scenes\Main
       manu.unity
@@ -35,24 +83,280 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\Main menu\quit.cs
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\Main
-      menu\quit.cs
-    projectPath: Assets\Scripts\Main menu\quit.cs
+  - path: Assets\Scripts\ChrisCode\playerMovement.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\ChrisCode\playerMovement.cs
+    projectPath: Assets\Scripts\ChrisCode\playerMovement.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sounds\Music\Spacethingy_main_menu (1).mp3
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Music\Spacethingy_main_menu
+      (1).mp3
+    projectPath: Assets\Sounds\Music\Spacethingy_main_menu (1).mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Music\Spacethingy_main_menu (1).mp3.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Music\Spacethingy_main_menu
+      (1).mp3.meta
+    projectPath: Assets\Sounds\Music\Spacethingy_main_menu (1).mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Music\Spacethingy_music (1).mp3
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Music\Spacethingy_music
+      (1).mp3
+    projectPath: Assets\Sounds\Music\Spacethingy_music (1).mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Music\Spacethingy_music (1).mp3.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Music\Spacethingy_music
+      (1).mp3.meta
+    projectPath: Assets\Sounds\Music\Spacethingy_music (1).mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Enemy 1\Enemy_1.controller
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Enemy
+      1\Enemy_1.controller
+    projectPath: Assets\Sprites\Enemy 1\Enemy_1.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\Main menu\New Animation.anim
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Main
+      menu\New Animation.anim
+    projectPath: Assets\Sprites\Main menu\New Animation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Main menu\New Animation.anim.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Main
+      menu\New Animation.anim.meta
+    projectPath: Assets\Sprites\Main menu\New Animation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Main menu\pressed credits.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Main
+      menu\pressed credits.png.meta
+    projectPath: Assets\Sprites\Main menu\pressed credits.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\Main menu\pressed quit.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Main
+      menu\pressed quit.png.meta
+    projectPath: Assets\Sprites\Main menu\pressed quit.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\Main menu\pressed start.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Main
+      menu\pressed start.png.meta
+    projectPath: Assets\Sprites\Main menu\pressed start.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\Main menu\Star Animation.controller
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Main
+      menu\Star Animation.controller
+    projectPath: Assets\Sprites\Main menu\Star Animation.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Main menu\Star Animation.controller.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Main
+      menu\Star Animation.controller.meta
+    projectPath: Assets\Sprites\Main menu\Star Animation.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Main menu\Unpressed credits.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Main
+      menu\Unpressed credits.png.meta
+    projectPath: Assets\Sprites\Main menu\Unpressed credits.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\Main menu\Unpressed quit.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Main
+      menu\Unpressed quit.png.meta
+    projectPath: Assets\Sprites\Main menu\Unpressed quit.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\Main menu\unpressed start.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Main
+      menu\unpressed start.png.meta
+    projectPath: Assets\Sprites\Main menu\unpressed start.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\Main menu\Untitled_Artwork-1.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Main
+      menu\Untitled_Artwork-1.png
+    projectPath: Assets\Sprites\Main menu\Untitled_Artwork-1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Main menu\Untitled_Artwork-1.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Main
+      menu\Untitled_Artwork-1.png.meta
+    projectPath: Assets\Sprites\Main menu\Untitled_Artwork-1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\ANimato-test-export-bella_0000_frame-6.controller
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\ANimato-test-export-bella_0000_frame-6.controller
+    projectPath: Assets\Sprites\Player\ANimato-test-export-bella_0000_frame-6.controller
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Assets\Scripts\Main menu\quit.cs.meta
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\Main
-      menu\quit.cs.meta
-    projectPath: Assets\Scripts\Main menu\quit.cs.meta
+  - path: Assets\Sprites\Player\ANimato-test-export-bella_0000_frame-6.controller.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\ANimato-test-export-bella_0000_frame-6.controller.meta
+    projectPath: Assets\Sprites\Player\ANimato-test-export-bella_0000_frame-6.controller.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Assets\Scripts\Main menu\sceneChanger.cs
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\Main
-      menu\sceneChanger.cs
-    projectPath: Assets\Scripts\Main menu\sceneChanger.cs
+  - path: Assets\Sprites\Player\boomguy-ani-test_0000_frame-8.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\boomguy-ani-test_0000_frame-8.png
+    projectPath: Assets\Sprites\Player\boomguy-ani-test_0000_frame-8.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\boomguy-ani-test_0000_frame-8.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\boomguy-ani-test_0000_frame-8.png.meta
+    projectPath: Assets\Sprites\Player\boomguy-ani-test_0000_frame-8.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\boomguy-ani-test_0001_frame-7.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\boomguy-ani-test_0001_frame-7.png
+    projectPath: Assets\Sprites\Player\boomguy-ani-test_0001_frame-7.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\boomguy-ani-test_0001_frame-7.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\boomguy-ani-test_0001_frame-7.png.meta
+    projectPath: Assets\Sprites\Player\boomguy-ani-test_0001_frame-7.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\boomguy-ani-test_0002_frame-6.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\boomguy-ani-test_0002_frame-6.png
+    projectPath: Assets\Sprites\Player\boomguy-ani-test_0002_frame-6.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\boomguy-ani-test_0002_frame-6.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\boomguy-ani-test_0002_frame-6.png.meta
+    projectPath: Assets\Sprites\Player\boomguy-ani-test_0002_frame-6.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\boomguy-ani-test_0003_frame-5.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\boomguy-ani-test_0003_frame-5.png
+    projectPath: Assets\Sprites\Player\boomguy-ani-test_0003_frame-5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\boomguy-ani-test_0003_frame-5.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\boomguy-ani-test_0003_frame-5.png.meta
+    projectPath: Assets\Sprites\Player\boomguy-ani-test_0003_frame-5.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\boomguy-ani-test_0004_fram-n4.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\boomguy-ani-test_0004_fram-n4.png
+    projectPath: Assets\Sprites\Player\boomguy-ani-test_0004_fram-n4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\boomguy-ani-test_0004_fram-n4.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\boomguy-ani-test_0004_fram-n4.png.meta
+    projectPath: Assets\Sprites\Player\boomguy-ani-test_0004_fram-n4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\boomguy-ani-test_0005_frame-3.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\boomguy-ani-test_0005_frame-3.png
+    projectPath: Assets\Sprites\Player\boomguy-ani-test_0005_frame-3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\boomguy-ani-test_0005_frame-3.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\boomguy-ani-test_0005_frame-3.png.meta
+    projectPath: Assets\Sprites\Player\boomguy-ani-test_0005_frame-3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\boomguy-ani-test_0006_fram-2.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\boomguy-ani-test_0006_fram-2.png
+    projectPath: Assets\Sprites\Player\boomguy-ani-test_0006_fram-2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\boomguy-ani-test_0006_fram-2.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\boomguy-ani-test_0006_fram-2.png.meta
+    projectPath: Assets\Sprites\Player\boomguy-ani-test_0006_fram-2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\boomguy-ani-test_0007_frame-1.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\boomguy-ani-test_0007_frame-1.png
+    projectPath: Assets\Sprites\Player\boomguy-ani-test_0007_frame-1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\boomguy-ani-test_0007_frame-1.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\boomguy-ani-test_0007_frame-1.png.meta
+    projectPath: Assets\Sprites\Player\boomguy-ani-test_0007_frame-1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\player_controller.controller
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\player_controller.controller
+    projectPath: Assets\Sprites\Player\player_controller.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\Player\player_left.anim
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\player_left.anim
+    projectPath: Assets\Sprites\Player\player_left.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\player_left.anim.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\player_left.anim.meta
+    projectPath: Assets\Sprites\Player\player_left.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\player_right.anim
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\player_right.anim
+    projectPath: Assets\Sprites\Player\player_right.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\player_right.anim.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\player_right.anim.meta
+    projectPath: Assets\Sprites\Player\player_right.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Fallback.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\AnnotationManager
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\AnnotationManager
+    projectPath: Library\AnnotationManager
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -62,15 +366,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -86,27 +402,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageManager\ProjectCache
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\PackageManager\ProjectCache
-    projectPath: Library\PackageManager\ProjectCache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageManager\ProjectCache.md5
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\PackageManager\ProjectCache.md5
-    projectPath: Library\PackageManager\ProjectCache.md5
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -122,15 +432,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\AssetImportWorker0-prev.log
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0-prev.log
-    projectPath: Logs\AssetImportWorker0-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-AssetImportWorker0.log
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-AssetImportWorker0.log
-    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -138,14 +442,56 @@ MonoBehaviour:
     fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe1.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
     fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe2.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: UserSettings\EditorUserSettings.asset
     fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\UserSettings\EditorUserSettings.asset
     projectPath: UserSettings\EditorUserSettings.asset

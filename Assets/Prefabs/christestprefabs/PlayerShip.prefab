@@ -24,7 +24,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6586974531807858544}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.3738012, y: 0.847, z: 0}
+  m_LocalPosition: {x: 0, y: 0.847, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 8683265008530745455}
@@ -56,7 +56,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8683265006661279744}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.3738012, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 8683265008530745455}
@@ -143,6 +143,7 @@ GameObject:
   - component: {fileID: 8683265008530745455}
   - component: {fileID: 8683265008530745452}
   - component: {fileID: 8683265008530745453}
+  - component: {fileID: 828287959}
   m_Layer: 0
   m_Name: PlayerShip
   m_TagString: Untagged
@@ -179,8 +180,8 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
+  m_LinearDrag: 3
+  m_AngularDrag: 3
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -202,4 +203,40 @@ MonoBehaviour:
   speed: 750
   BulletPrefab: {fileID: 6517315064336777247, guid: 729c0d1f11ecf5348ab6885bb2fbabdc, type: 3}
   GunPoint: {fileID: 7487960874443297333}
-  GunCooldown: 0.2
+  GunCooldown: 0.5
+--- !u!60 &828287959
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8683265008530745450}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.18882626, y: 0.638777}
+      - {x: -0.36528188, y: 0.7311101}
+      - {x: -0.52469224, y: 0.5795069}
+      - {x: -0.55935824, y: 0.42808557}
+      - {x: -0.55149347, y: 0.12664917}
+      - {x: -0.48922235, y: -0.13995337}
+      - {x: -0.5743792, y: -0.47877407}
+      - {x: -0.6726303, y: -0.5969044}
+      - {x: -0.44626397, y: -0.8037143}
+      - {x: 0.03132108, y: -0.8718903}
+      - {x: 0.10790849, y: -0.7780605}

@@ -7,6 +7,7 @@ using UnityEngine;
 public class playerMovement : MonoBehaviour
 {
     Rigidbody2D rb2d;
+    Animator animator;
     public int speed = 750;
     public Transform BulletPrefab;
     public Transform GunPoint;
@@ -15,9 +16,11 @@ public class playerMovement : MonoBehaviour
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>(); // Hämtar komponenten -Chris
+        animator = GetComponentInChildren<Animator>();
     }
     void Update()
     {
+        animator.SetFloat("Horizontal", Input.GetAxisRaw("Horizontal")); // Ger inputen till animatören. -Chris
         // Rör sig vänster och höger med hjälp av AddForce. -Chris
         if (Input.GetAxisRaw("Horizontal") >= 1)
         {
