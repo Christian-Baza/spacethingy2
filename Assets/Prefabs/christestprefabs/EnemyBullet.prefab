@@ -117,7 +117,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MoveSpeed: -2.5
-  BulletLifetime: 1
+  BulletLifetime: 20
   IsEnemyBullet: 1
 --- !u!82 &7019853877973963889
 AudioSource:

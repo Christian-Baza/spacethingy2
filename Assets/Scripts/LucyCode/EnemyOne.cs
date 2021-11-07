@@ -5,7 +5,9 @@ using UnityEngine;
 public class EnemyOne : Enemy
 {
     [SerializeField]
-    private GameObject billet;
+    private Transform BulletPrefab;
+    [SerializeField]
+    private Transform GunPoint;
     public override void CityDamage()
     {
         cityCode.cityHealth = cityCode.cityHealth - 5;
@@ -13,11 +15,13 @@ public class EnemyOne : Enemy
     public override IEnumerator Move()// flytar enemy1 ett steg åt häger -Lucy
     {
         yield return new WaitForSeconds(1);
-        transform.position = transform.position + new Vector3(2, 0, 0);
+        transform.position = transform.position + new Vector3(0.5f, 0, 0);
         StartCoroutine(Move());// starta om Move -Lucy
     }
     public override void EnemyAtack()// specificerar hur fienden atakerar -Lucy
     {
-        Instantiate(billet, transform.position,Quaternion.identity);
+        Transform Bullet = Instantiate(BulletPrefab, GunPoint.position, Quaternion.identity); // Skapar fiende skottet. -Chris
+        Vector3 ShootDirection = Vector3.up; // Sätter riktningen av skottet. -Chris
+        Bullet.GetComponent<bullet>().BulletSetup(ShootDirection);
     }
 }

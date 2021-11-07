@@ -8,7 +8,7 @@ public class Enemy : MonoBehaviour
     public CityCode cityCode;
     public Vector3 lineStart;
     public GameObject deathEffect;
-     public void Start()
+    public void Start()
      {
         cityCode = FindObjectOfType<CityCode>();// plockar City för CityCode -Lucy
         lineStart = transform.position;
@@ -39,15 +39,18 @@ public class Enemy : MonoBehaviour
     }
     public virtual IEnumerator EnemyAtackTimer()// en timer som bestämer när fienden ska atakera -Lucy
     {
-        int r = Random.Range(1, 4);
+        int r = Random.Range(1, 2);
         yield return new WaitForSeconds(r);
         EnemyAtack();
-        StartCoroutine(EnemyAtackTimer());
+        StartCoroutine(this.EnemyAtackTimer());
     }
-    private void OnTriggerEnter(Collider other)// här finns interaktioner med de olicka kanterna -Lucy
+    private void OnTriggerEnter2D(Collider2D other)// här finns interaktioner med de olicka kanterna -Lucy
     {
-        if(other.tag == "Bullet") { EnemyDamage(); }
-        if (other.tag == "Wall")
+        if (other.tag == "Bullet")
+        {
+            EnemyDamage();
+        }
+        if (other.tag != "Wall")
         {
             transform.position = new Vector3(0, -2, 0) + lineStart;
             lineStart = transform.position;// Här så flyttas objectet ner en rad -Lucy

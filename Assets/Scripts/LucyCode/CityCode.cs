@@ -9,6 +9,8 @@ public class CityCode : MonoBehaviour
     public Animator city;
     public Animator city1;
     public Animator city2;
+
+    public GameObject gameOverOverlay;
     private void Start()
     {
         cityHealth = 100;
@@ -17,12 +19,13 @@ public class CityCode : MonoBehaviour
         city1.SetInteger("animHealth", citySpriteHealth);
         city2.SetInteger("animHealth", citySpriteHealth);
     }
-    private void FixedUpdate()
+    private void Update()
     {
-        if( cityHealth == 0)
+        if(cityHealth <= 0 && Time.timeScale > 0) //När staden har mindre än 0 hp stannas allt och Game Over Overlayen visas. -Chris
         {
             print("Game Over");
-
+            Time.timeScale = 0;
+            gameOverOverlay.SetActive(true);
         }
         citySpriteHealth = cityHealth;
         city.SetInteger("animHealth",citySpriteHealth);
