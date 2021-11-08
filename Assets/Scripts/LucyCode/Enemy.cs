@@ -5,12 +5,12 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
     //baskoden för fienderna -Lucy
-    public CityCode cityCode;
+    public GameManager gameManager;
     public Vector3 lineStart;
     public GameObject deathEffect;
     public void Start()
      {
-        cityCode = FindObjectOfType<CityCode>();// plockar City för CityCode -Lucy
+        gameManager = FindObjectOfType<GameManager>();// plockar City för CityCode -Lucy
         lineStart = transform.position;
         StartCoroutine(Move());// startar Move coroutinen - Lucy
         StartCoroutine(EnemyAtackTimer());

@@ -6,7 +6,7 @@ public class Bullet : Enemy
 {
     public override void CityDamage()
     {
-        cityCode.cityHealth--;
+        gameManager.cityHealth--;
     }
     public override IEnumerator Move()
     {

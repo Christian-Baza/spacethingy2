@@ -10,7 +10,7 @@ public class EnemyOne : Enemy
     private Transform GunPoint;
     public override void CityDamage()
     {
-        cityCode.cityHealth = cityCode.cityHealth - 5;
+        gameManager.cityHealth = gameManager.cityHealth - 5;
     }
     public override IEnumerator Move()// flytar enemy1 ett steg åt häger -Lucy
     {

@@ -9,7 +9,7 @@ public class EnemyTwo : Enemy
 
     public override void CityDamage()
     {
-        cityCode.cityHealth = cityCode.cityHealth - 5;// tar bort hp från staden;
+        gameManager.cityHealth = gameManager.cityHealth - 5;// tar bort hp från staden;
     }
     public override IEnumerator Move()//kåden för att bestäma hur enemy 2 ska röra sig -Lucy
     {
