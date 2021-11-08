@@ -13,192 +13,419 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-11-08T14:45:08.218+01:00
-  initializedAtString: 2021-11-08T13:22:21.945+01:00
+  lastUpdatedAtString: 2021-11-08T19:10:22.754+01:00
+  initializedAtString: 2021-11-08T19:10:21.843+01:00
   entries:
-  - path: Assets\Prefabs\christestprefabs\Enemy1.prefab
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Enemy1.prefab
-    projectPath: Assets\Prefabs\christestprefabs\Enemy1.prefab
+  - path: .vs\spacethingy2\v16\.suo
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\.vs\spacethingy2\v16\.suo
+    projectPath: .vs\spacethingy2\v16\.suo
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Prefabs\christestprefabs\Enemy2.prefab
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Enemy2.prefab
-    projectPath: Assets\Prefabs\christestprefabs\Enemy2.prefab
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Anims\CityLayer3\City.controller
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Anims\CityLayer3\City.controller
+    projectPath: Assets\Anims\CityLayer3\City.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\MilkShake\Demo\Presets\Electrocute.asset
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\MilkShake\Demo\Presets\Electrocute.asset
+    projectPath: Assets\MilkShake\Demo\Presets\Electrocute.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\christestprefabs\Electrocute 1.asset
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Electrocute
+      1.asset
+    projectPath: Assets\Prefabs\christestprefabs\Electrocute 1.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\christestprefabs\Electrocute 1.asset.meta
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Electrocute
+      1.asset.meta
+    projectPath: Assets\Prefabs\christestprefabs\Electrocute 1.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\christestprefabs\EnemyBullet.prefab
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\EnemyBullet.prefab
+    projectPath: Assets\Prefabs\christestprefabs\EnemyBullet.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\christestprefabs\FriendlyBullet.prefab
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\FriendlyBullet.prefab
+    projectPath: Assets\Prefabs\christestprefabs\FriendlyBullet.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\christestprefabs\PlayerShip.prefab
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\PlayerShip.prefab
+    projectPath: Assets\Prefabs\christestprefabs\PlayerShip.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\christestprefabs\shipShot.asset
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\shipShot.asset
+    projectPath: Assets\Prefabs\christestprefabs\shipShot.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Assets\Scenes\GameScene.unity
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scenes\GameScene.unity
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Scenes\GameScene.unity
     projectPath: Assets\Scenes\GameScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scripts\ChrisCode\bullet.cs
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Scripts\ChrisCode\bullet.cs
+    projectPath: Assets\Scripts\ChrisCode\bullet.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\ChrisCode\GameManager.cs
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Scripts\ChrisCode\GameManager.cs
+    projectPath: Assets\Scripts\ChrisCode\GameManager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\ChrisCode\playerMovement.cs
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Scripts\ChrisCode\playerMovement.cs
+    projectPath: Assets\Scripts\ChrisCode\playerMovement.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\hpScript.cs
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Scripts\hpScript.cs
+    projectPath: Assets\Scripts\hpScript.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\hpScriptPT.cs
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Scripts\hpScriptPT.cs
+    projectPath: Assets\Scripts\hpScriptPT.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\LucyCode\Bullet.cs
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\Bullet.cs
+    projectPath: Assets\Scripts\LucyCode\Bullet.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\LucyCode\Bullet.cs.meta
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\Bullet.cs.meta
+    projectPath: Assets\Scripts\LucyCode\Bullet.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\LucyCode\Enemy.cs
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\Enemy.cs
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\Enemy.cs
     projectPath: Assets\Scripts\LucyCode\Enemy.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Assets\Scripts\LucyCode\EnemyOne.cs
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\EnemyOne.cs
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\EnemyOne.cs
     projectPath: Assets\Scripts\LucyCode\EnemyOne.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Assets\Scripts\LucyCode\EnemyTwo.cs
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\EnemyTwo.cs
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\EnemyTwo.cs
     projectPath: Assets\Scripts\LucyCode\EnemyTwo.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Assets\Scripts\LucyCode\Spawner.cs
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\Spawner.cs
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\Spawner.cs
     projectPath: Assets\Scripts\LucyCode\Spawner.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\AnnotationManager
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\AnnotationManager
-    projectPath: Library\AnnotationManager
+  - path: Assets\Sprites\healthbarfilled.png
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\healthbarfilled.png
+    projectPath: Assets\Sprites\healthbarfilled.png
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\healthbarfilled.png.meta
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\healthbarfilled.png.meta
+    projectPath: Assets\Sprites\healthbarfilled.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\simple smoke.meta
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\simple
+      smoke.meta
+    projectPath: Assets\Sprites\simple smoke.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\simple smoke\Smoke.anim
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\simple
+      smoke\Smoke.anim
+    projectPath: Assets\Sprites\simple smoke\Smoke.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\simple smoke\Smoke.anim.meta
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\simple
+      smoke\Smoke.anim.meta
+    projectPath: Assets\Sprites\simple smoke\Smoke.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\simple smoke\SmokeController.controller
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\simple
+      smoke\SmokeController.controller
+    projectPath: Assets\Sprites\simple smoke\SmokeController.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\simple smoke\SmokeController.controller.meta
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\simple
+      smoke\SmokeController.controller.meta
+    projectPath: Assets\Sprites\simple smoke\SmokeController.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\simple smoke\Untitled_Artwork-1.png
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\simple
+      smoke\Untitled_Artwork-1.png
+    projectPath: Assets\Sprites\simple smoke\Untitled_Artwork-1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\simple smoke\Untitled_Artwork-1.png.meta
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\simple
+      smoke\Untitled_Artwork-1.png.meta
+    projectPath: Assets\Sprites\simple smoke\Untitled_Artwork-1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\simple smoke\Untitled_Artwork-2.png
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\simple
+      smoke\Untitled_Artwork-2.png
+    projectPath: Assets\Sprites\simple smoke\Untitled_Artwork-2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\simple smoke\Untitled_Artwork-2.png.meta
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\simple
+      smoke\Untitled_Artwork-2.png.meta
+    projectPath: Assets\Sprites\simple smoke\Untitled_Artwork-2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\simple smoke\Untitled_Artwork-3.png
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\simple
+      smoke\Untitled_Artwork-3.png
+    projectPath: Assets\Sprites\simple smoke\Untitled_Artwork-3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\simple smoke\Untitled_Artwork-3.png.meta
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\simple
+      smoke\Untitled_Artwork-3.png.meta
+    projectPath: Assets\Sprites\simple smoke\Untitled_Artwork-3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\simple smoke\Untitled_Artwork-4.png
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\simple
+      smoke\Untitled_Artwork-4.png
+    projectPath: Assets\Sprites\simple smoke\Untitled_Artwork-4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\simple smoke\Untitled_Artwork-4.png.meta
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\simple
+      smoke\Untitled_Artwork-4.png.meta
+    projectPath: Assets\Sprites\simple smoke\Untitled_Artwork-4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\simple smoke\Untitled_Artwork-5.png
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\simple
+      smoke\Untitled_Artwork-5.png
+    projectPath: Assets\Sprites\simple smoke\Untitled_Artwork-5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\simple smoke\Untitled_Artwork-5.png.meta
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\simple
+      smoke\Untitled_Artwork-5.png.meta
+    projectPath: Assets\Sprites\simple smoke\Untitled_Artwork-5.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ArtifactDB
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\EditorUserBuildSettings.asset
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\EditorUserBuildSettings.asset
-    projectPath: Library\EditorUserBuildSettings.asset
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PackageManager\ProjectCache
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\PackageManager\ProjectCache
+    projectPath: Library\PackageManager\ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PackageManager\ProjectCache.md5
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\PackageManager\ProjectCache.md5
+    projectPath: Library\PackageManager\ProjectCache.md5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SourceAssetDB
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\SourceAssetDB
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Logs\ApiUpdaterCheck.txt
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\ApiUpdaterCheck.txt
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Logs\ApiUpdaterCheck.txt
     projectPath: Logs\ApiUpdaterCheck.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Logs\AssetImportWorker0.log
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0.log
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Logs\AssetImportWorker0-prev.log
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Logs\shadercompiler-AssetImportWorker0.log
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe1.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe2.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe3.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe4.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe5.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe6.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe7.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\EditorBuildSettings.asset
-    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

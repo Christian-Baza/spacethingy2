@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 1976627209695753382}
   - component: {fileID: -8616551379197624973}
   - component: {fileID: 7019853877973963889}
+  - component: {fileID: -8929922550078243352}
   m_Layer: 0
   m_Name: EnemyBullet
   m_TagString: Untagged
@@ -215,3 +216,19 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!70 &-8929922550078243352
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1976627209695753381}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.035452902, y: -0.019499093}
+  m_Size: {x: 0.3008076, y: 0.33271545}
+  m_Direction: 0

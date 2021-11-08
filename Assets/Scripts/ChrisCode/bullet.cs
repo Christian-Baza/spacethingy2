@@ -19,10 +19,17 @@ public class bullet : MonoBehaviour
     void Update()
     {
         transform.position += ShootDirection * MoveSpeed * Time.deltaTime; //Rör skottet åt det hållet den kollar. -Chris
-    }
+    }   
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        if (collision.GetComponent<playerMovement>() != null && IsEnemyBullet == true)
+        {
+            playerMovement player;
+            player = collision.GetComponent<playerMovement>();
+            player.StartCoroutine(player.Stun(0.25f));
+            Destroy(gameObject);
+        }
         /*if (collision.GetComponent<Orb>() != null)
         {
             collision.GetComponent<Orb>().Hit();

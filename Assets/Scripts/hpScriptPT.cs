@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class hpScriptPT : MonoBehaviour
+public class hpScriptPT : MonoBehaviour //Wincent
 {
 
 

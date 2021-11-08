@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Education; OS build 18363.1854; Version 1909; 64bit' Language: 'sv' Physical Memory: 16221 MB
+OS: 'Windows 10 Home; OS build 19042.1288; Version 2009; 64bit' Language: 'sv' Physical Memory: 16289 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,167 +11,114 @@ C:\Program Files\Unity\Hub\Editor\2020.3.10f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/christian.baza/Documents/GitHub/spacethingy2
+C:/Users/chris/Documents/GitHub/spacethingy2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51739
-Successfully changed project path to: C:/Users/christian.baza/Documents/GitHub/spacethingy2
-C:/Users/christian.baza/Documents/GitHub/spacethingy2
+58750
+Successfully changed project path to: C:/Users/chris/Documents/GitHub/spacethingy2
+C:/Users/chris/Documents/GitHub/spacethingy2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 107.70 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 33.99 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.10f1 (297d780c91bc)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/christian.baza/Documents/GitHub/spacethingy2/Assets
+[Subsystems] Discovering subsystems at path C:/Users/chris/Documents/GitHub/spacethingy2/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) UHD Graphics (ID=0x9b41)
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
     Vendor:   
-    VRAM:     8110 MB
-    Driver:   27.20.100.8853
+    VRAM:     5991 MB
+    Driver:   30.0.14.7155
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56320
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56264
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004787 seconds.
+Registered in 0.002448 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 162.76 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 29.82 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.057 seconds
+- Completed reload, in  1.160 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.028275 seconds.
+Registered in 0.012505 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-00000173E4D84170 doesn't match image C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.53 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 0.39 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.997 seconds
+- Completed reload, in  1.044 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 1.39 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 0.45 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1466 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 139.2 MB.
-System memory in use after: 139.2 MB.
+Unloading 1480 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.7 MB.
+System memory in use after: 160.2 MB.
 
-Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 1931.
-Total: 3.921700 ms (FindLiveObjects: 0.266200 ms CreateObjectMapping: 0.115900 ms MarkObjects: 3.417000 ms  DeleteObjects: 0.120700 ms)
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 1953.
+Total: 2.318500 ms (FindLiveObjects: 0.141300 ms CreateObjectMapping: 0.044800 ms MarkObjects: 1.833800 ms  DeleteObjects: 0.297100 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/GameScene.unity
-  artifactKey: Guid(aecb19a70689d364b883154d88b58441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/GameScene.unity using Guid(aecb19a70689d364b883154d88b58441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa99e0a86711e6f7c779813c39ac8009') in 0.031189 seconds
-  Import took 0.035562 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.018558 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-00000175A2333830 doesn't match image C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.97 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in 10.204 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 5.09 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1460 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 139.0 MB.
-System memory in use after: 139.1 MB.
-
-Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 1934.
-Total: 12.176600 ms (FindLiveObjects: 0.909800 ms CreateObjectMapping: 0.446100 ms MarkObjects: 10.708900 ms  DeleteObjects: 0.104300 ms)
+  path: Assets/Prefabs/christestprefabs/PlayerShip.prefab
+  artifactKey: Guid(3022574016e1ff64b833b3e3a5a21c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/christestprefabs/PlayerShip.prefab using Guid(3022574016e1ff64b833b3e3a5a21c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ebd0971b76565387b8690b707d90612') in 0.102188 seconds
+  Import took 0.104759 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 218.817207 seconds.
-  path: Assets/Sprites/Player/player_controller.controller
-  artifactKey: Guid(17c5df7e0bf2e814392c16ea6e13e699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Player/player_controller.controller using Guid(17c5df7e0bf2e814392c16ea6e13e699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec0ef85f8c9152da76dfea00dce9ba96') in 0.083713 seconds
-  Import took 0.090175 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.033129 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-00000175A2333CC0 doesn't match image C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.45 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.397 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.61 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1460 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 139.1 MB.
-System memory in use after: 139.2 MB.
-
-Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 1937.
-Total: 3.944400 ms (FindLiveObjects: 0.417600 ms CreateObjectMapping: 0.109600 ms MarkObjects: 3.380900 ms  DeleteObjects: 0.035100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.019853 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-00000173E4D88A70 doesn't match image C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.91 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.230 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.43 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1460 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 139.1 MB.
-System memory in use after: 139.2 MB.
-
-Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 1940.
-Total: 4.484200 ms (FindLiveObjects: 0.370900 ms CreateObjectMapping: 0.137100 ms MarkObjects: 3.898200 ms  DeleteObjects: 0.075200 ms)
+  Time since last request: 40.094150 seconds.
+  path: Assets/Prefabs/christestprefabs/FriendlyBullet.prefab
+  artifactKey: Guid(729c0d1f11ecf5348ab6885bb2fbabdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/christestprefabs/FriendlyBullet.prefab using Guid(729c0d1f11ecf5348ab6885bb2fbabdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05da0e1da8de51d61a5785f624c2f055') in 0.014690 seconds
+  Import took 0.017289 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4646.393720 seconds.
-  path: Assets/Scripts/LucyCode/Enemy.cs
-  artifactKey: Guid(7ff8ebf60b9bc4941b61cbe15067617f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/LucyCode/Enemy.cs using Guid(7ff8ebf60b9bc4941b61cbe15067617f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a630cf52685dac7ac07ac8b6e0e8c5e') in 0.247301 seconds
-  Import took 0.253473 seconds .
+  Time since last request: 7.445824 seconds.
+  path: Assets/Sprites/simple smoke
+  artifactKey: Guid(cd7bf420d41b28047abff38d34c3ee4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/simple smoke using Guid(cd7bf420d41b28047abff38d34c3ee4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a1d0625785d9d8fdf59cbc23346959e') in 0.002898 seconds
+  Import took 0.005175 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000489 seconds.
-  path: Assets/Scripts/LucyCode/EnemyOne.cs
-  artifactKey: Guid(9626817739e5cf44499ce82010f49e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/LucyCode/EnemyOne.cs using Guid(9626817739e5cf44499ce82010f49e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80aa017e1f1ce712da8a8f40db2e25b5') in 0.037041 seconds
-  Import took 0.044578 seconds .
+  Time since last request: 49.643570 seconds.
+  path: Assets/Sprites/simple smoke/Untitled_Artwork-1.controller
+  artifactKey: Guid(1784ab7d170e71d4f9a09e8b2f25dded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/simple smoke/Untitled_Artwork-1.controller using Guid(1784ab7d170e71d4f9a09e8b2f25dded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a204077673c647de7f9f25f824d4966') in 0.005180 seconds
+  Import took 0.007458 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000495 seconds.
-  path: Assets/Scripts/ChrisCode/GameManager.cs
-  artifactKey: Guid(eed11c1ecf0d4b54aa9125285f645927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/ChrisCode/GameManager.cs using Guid(eed11c1ecf0d4b54aa9125285f645927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c6839ed363c8d21a5a6b22170f27c0') in 0.044641 seconds
-  Import took 0.053468 seconds .
+  Time since last request: 7.032829 seconds.
+  path: Assets/Sprites/simple smoke/SmokeController.controller
+  artifactKey: Guid(1784ab7d170e71d4f9a09e8b2f25dded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/simple smoke/SmokeController.controller using Guid(1784ab7d170e71d4f9a09e8b2f25dded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '244eab11ce67fcf00fac63df30f72190') in 0.004638 seconds
+  Import took 0.006904 seconds .
 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+========================================================================
+Received Import Request.
+  Time since last request: 1.238267 seconds.
+  path: Assets/Sprites/simple smoke/Smoke.anim
+  artifactKey: Guid(1385e57cdc2d5fa448e897b5bd95f1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/simple smoke/Smoke.anim using Guid(1385e57cdc2d5fa448e897b5bd95f1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1223eab75d5b006a10d4a108029d54d2') in 0.004410 seconds
+  Import took 0.006596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003793 seconds.
+  path: Assets/Sprites/simple smoke/Smoke.anim
+  artifactKey: Guid(1385e57cdc2d5fa448e897b5bd95f1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/simple smoke/Smoke.anim using Guid(1385e57cdc2d5fa448e897b5bd95f1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1223eab75d5b006a10d4a108029d54d2') in 0.002960 seconds
+  Import took 0.005546 seconds .
+

@@ -11,7 +11,7 @@ public class EnemyOne : Enemy
     public override void Start()
     {
         base.Start();
-        StartCoroutine(EnemyAtackTimer(3));
+        StartCoroutine(EnemyAtackTimer(5));
     }
     public override void CityDamage()
     {

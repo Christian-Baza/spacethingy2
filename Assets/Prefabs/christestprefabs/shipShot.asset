@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: shipShot
   m_EditorClassIdentifier: 
   shakeType: 0
-  strength: 0
-  roughness: 0
-  fadeIn: 0
-  fadeOut: 0
-  positionInfluence: {x: 0, y: 0, z: 0}
-  rotationInfluence: {x: 0, y: 0, z: 0}
+  strength: 0.1
+  roughness: 15
+  fadeIn: 0.05
+  fadeOut: 0.5
+  positionInfluence: {x: 2, y: 2, z: 0}
+  rotationInfluence: {x: 0, y: 0, z: 10}

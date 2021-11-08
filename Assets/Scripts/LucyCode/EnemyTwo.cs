@@ -10,7 +10,7 @@ public class EnemyTwo : Enemy
     public override void Start()
     {
         base.Start();
-        StartCoroutine(EnemyAtackTimer(6));
+        StartCoroutine(EnemyAtackTimer(10));
     }
     public override void CityDamage()
     {
@@ -30,7 +30,7 @@ public class EnemyTwo : Enemy
     {
         fall = true;
     }
-    private void Update()
+    public override void Update()
     {
         base.Update();
         if (fall == true)

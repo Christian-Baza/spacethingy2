@@ -14,21 +14,19 @@ public class Spawner : MonoBehaviour
     }
     IEnumerator Spawn()// väljer nått att göra varje sekund -Lucy
     {
-        float random = 1;// Random.Range(0,4);// väljer fiende att spawna eller ingen alls -Lucy
+        float random = Random.Range(0,4);// väljer fiende att spawna eller ingen alls -Lucy
         yield return new WaitForSeconds(3);
         if(random == 0 || random == 1)
         {
             Instantiate(enemy1, transform.position, Quaternion.identity);
-            print("Enemy1");
         }
         else if(random == 2)
         {
             Instantiate(enemy2, transform.position, Quaternion.identity);
-            print("enemy2");
+            
         }
         if (random == 3 || random == 4)
         {
-            print("empty");
         }
         StartCoroutine(Spawn());
     }

@@ -53,7 +53,7 @@ public class Enemy : MonoBehaviour
         }
         else if (other.gameObject.tag == "City") { CityHit(); }// här så triggas CityHit metoden -Lucy
     }
-    public void Update()
+    public virtual void Update()
     {
         if (transform.position.x > 2.96)
         {
