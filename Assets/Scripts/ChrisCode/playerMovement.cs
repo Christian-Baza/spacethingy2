@@ -18,6 +18,7 @@ public class playerMovement : MonoBehaviour
 
     [SerializeField] bool stunned = false;
     [SerializeField] Material flashMat;
+    [SerializeField] GameObject smokeEffect;
     Material oldMat;
     void Start()
     {
@@ -59,6 +60,7 @@ public class playerMovement : MonoBehaviour
     }
     public IEnumerator Stun(float stunTime)// Coroutine för när spelaren tar skada. -Chris
     {
+        Instantiate(smokeEffect, transform.position, Quaternion.identity);
         spriteRenderer.material = flashMat; // Ändrar materialet av spelaren så att den blir hel vit. -Chris
         rb2d.constraints = RigidbodyConstraints2D.FreezeAll;
         yield return new WaitForSeconds(stunTime);
