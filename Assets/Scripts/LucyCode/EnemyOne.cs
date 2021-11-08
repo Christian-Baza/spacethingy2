@@ -8,9 +8,14 @@ public class EnemyOne : Enemy
     private Transform BulletPrefab;
     [SerializeField]
     private Transform GunPoint;
+    public override void Start()
+    {
+        base.Start();
+        StartCoroutine(EnemyAtackTimer(3));
+    }
     public override void CityDamage()
     {
-        gameManager.cityHealth = gameManager.cityHealth - 5;
+        gameManager.cityHealth -= 5;
     }
     public override IEnumerator Move()// flytar enemy1 ett steg åt häger -Lucy
     {

@@ -5,24 +5,38 @@ using UnityEngine;
 public class EnemyTwo : Enemy
 {
     [SerializeField]
-    private Rigidbody rb;
-
+    private float MoveSpeed = -1f;
+    private bool fall;
+    public override void Start()
+    {
+        base.Start();
+        StartCoroutine(EnemyAtackTimer(6));
+    }
     public override void CityDamage()
     {
-        gameManager.cityHealth = gameManager.cityHealth - 5;// tar bort hp från staden;
+        gameManager.cityHealth -= 5;// tar bort hp från staden;
     }
+    
     public override IEnumerator Move()//kåden för att bestäma hur enemy 2 ska röra sig -Lucy
     {
-        int i = 0;
-        int rCompare = Random.Range(1, 6);// en random sifra mellan 1 & 6 sätt spm timer inann fiunde två droppar och faller ner på staden -Lucy
-        yield return new WaitForSeconds(1);// denna moddade variation av Move fungerar också som atack kåd för Fiende två -Lucy
-        i++;
-        if (i>= rCompare)//här jämförs i och rCompare för att som enemy ska droppa -Lucy
+        if (fall != true)
         {
-            rb.useGravity = true;
+            yield return new WaitForSeconds(1);// denna moddade variation av Move fungerar också som atack kåd för Fiende två -Lucys
+            transform.position = transform.position + new Vector3(0.5f, 0, 0);// om enemy2 inta ska droppa så rör den sig ett steg åt höger -Lucy
+            StartCoroutine(Move());//startar om move -Lucy
         }
-        transform.position = transform.position + new Vector3(2, 0, 0);// om enemy2 inta ska droppa så rör den sig ett steg åt höger -Lucy
-        StartCoroutine(Move());//startar om move -Lucy
+    }
+    public override void EnemyAtack()
+    {
+        fall = true;
+    }
+    private void Update()
+    {
+        base.Update();
+        if (fall == true)
+        {
+            transform.position += Vector3.up * MoveSpeed * Time.deltaTime; //Rör skottet åt det hållet den kollar. -Chris
+        }
     }
 }
 

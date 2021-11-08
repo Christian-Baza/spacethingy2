@@ -14,8 +14,8 @@ public class Spawner : MonoBehaviour
     }
     IEnumerator Spawn()// väljer nått att göra varje sekund -Lucy
     {
-        float random =  Random.Range(0,4);// väljer fiende att spawna eller ingen alls -Lucy
-        yield return new WaitForSeconds(1);
+        float random = 1;// Random.Range(0,4);// väljer fiende att spawna eller ingen alls -Lucy
+        yield return new WaitForSeconds(3);
         if(random == 0 || random == 1)
         {
             Instantiate(enemy1, transform.position, Quaternion.identity);
