@@ -8,9 +8,17 @@ public class Enemy : MonoBehaviour
     public GameManager gameManager;
     public Vector3 lineStart;
     public GameObject deathEffect;
+    public GameObject smokeEffect;
+    public GameObject cityDamagefx;
+    SpriteRenderer spriteRenderer;
+    public Material flashMat;
+    Material oldMat;
+    public int health = 4;
     public virtual void Start()
      {
         gameManager = FindObjectOfType<GameManager>();// plockar City för CityCode -Lucy
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        oldMat = spriteRenderer.material;
         lineStart = transform.position;
         StartCoroutine(Move());// startar Move coroutinen - Lucy
     }
@@ -25,12 +33,24 @@ public class Enemy : MonoBehaviour
     }
     public virtual void CityDamage()// tom metod för att sätta in mängden skad i -Lucy
     {
-
+        gameManager.cityHealth -= 5;
+        Instantiate(cityDamagefx, transform.position, Quaternion.identity);
+        EnemyDeath();
     }
     public virtual void EnemyDamage()//För när spelaren skadar fienden -Lucy
     {
+        health--;
+        StartCoroutine(damageFlash());
+        if (health <= 0)
+        {
+            EnemyDeath();
+        }
+    }
+    public virtual void EnemyDeath() //För när spelaren dödar fienden -Chris
+    {
         Instantiate(deathEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
+        gameManager.score++;
     }
     public virtual IEnumerator Move()// tom move coroutine för senare specifikation -Lucy
     {
@@ -47,11 +67,19 @@ public class Enemy : MonoBehaviour
     {
         print(other);
         print(other.gameObject.tag);
-        if (other.gameObject.tag == "Bullet")
+        if (other.gameObject.tag == "City") 
         {
-            EnemyDamage();
+            CityHit();
+        }// här så triggas CityHit metoden -Lucy
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.GetComponent<playerMovement>() != null) //Ifall att en fiende går in i spelaren blir spelaren stunned. -Chris
+        {
+            playerMovement player;
+            player = collision.gameObject.GetComponent<playerMovement>();
+            player.StartCoroutine(player.Stun(0.25f));
         }
-        else if (other.gameObject.tag == "City") { CityHit(); }// här så triggas CityHit metoden -Lucy
     }
     public virtual void Update()
     {
@@ -61,5 +89,11 @@ public class Enemy : MonoBehaviour
             lineStart = transform.position;// Här så flyttas objectet ner en rad -Lucy
         }
     }
-
+    public IEnumerator damageFlash()// Coroutine för när Fiendne tar skada. -Chris
+    {
+        Instantiate(smokeEffect, transform.position, Quaternion.identity);
+        spriteRenderer.material = flashMat; // Ändrar materialet av fienden så att den blir hel röd. -Chris
+        yield return new WaitForSeconds(.25f);
+        spriteRenderer.material = oldMat;
+    }
 }

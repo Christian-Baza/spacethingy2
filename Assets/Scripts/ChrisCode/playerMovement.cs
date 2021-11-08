@@ -50,7 +50,7 @@ public class playerMovement : MonoBehaviour
             rb2d.AddForce(new Vector2(0, -speed / 2 * Time.deltaTime));
         }
         
-        if (Input.GetButtonDown("Jump") && Time.time > NextShot) // Spelaren kan bara skjuta om det har gått en viss tid. -Chris
+        if (Input.GetButton("Jump") && Time.time > NextShot) // Spelaren kan bara skjuta om det har gått en viss tid. -Chris
         {
             NextShot = Time.time + GunCooldown; // Återställer timern för GunCooldown. -Chris
             Transform Bullet = Instantiate(BulletPrefab, GunPoint.position, Quaternion.identity);
@@ -60,7 +60,7 @@ public class playerMovement : MonoBehaviour
     }
     public IEnumerator Stun(float stunTime)// Coroutine för när spelaren tar skada. -Chris
     {
-        Instantiate(smokeEffect, transform.position, Quaternion.identity);
+        Instantiate(smokeEffect, spriteRenderer.gameObject.transform.position, Quaternion.identity); // Skapar rök effekten där spelarens sprite är. -Chris
         spriteRenderer.material = flashMat; // Ändrar materialet av spelaren så att den blir hel vit. -Chris
         rb2d.constraints = RigidbodyConstraints2D.FreezeAll;
         yield return new WaitForSeconds(stunTime);

@@ -15,11 +15,11 @@ C:/Users/chris/Documents/GitHub/spacethingy2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61518
+54687
 Successfully changed project path to: C:/Users/chris/Documents/GitHub/spacethingy2
 C:/Users/chris/Documents/GitHub/spacethingy2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 44.12 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 34.89 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.10f1 (297d780c91bc)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
@@ -35,25 +35,25 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56108
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56084
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002860 seconds.
+Registered in 0.002471 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 31.10 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 30.60 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.265 seconds
+- Completed reload, in  1.177 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.013487 seconds.
+Registered in 0.012608 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 0.40 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.082 seconds
+- Completed reload, in  1.067 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
@@ -61,40 +61,36 @@ Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 second
 Refreshing native plugins compatible for Editor in 0.39 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1480 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 160.7 MB.
+System memory in use before: 160.8 MB.
 System memory in use after: 160.2 MB.
 
 Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 1953.
-Total: 1.956300 ms (FindLiveObjects: 0.143800 ms CreateObjectMapping: 0.048600 ms MarkObjects: 1.487500 ms  DeleteObjects: 0.273300 ms)
+Total: 2.640600 ms (FindLiveObjects: 0.363900 ms CreateObjectMapping: 0.122700 ms MarkObjects: 1.843400 ms  DeleteObjects: 0.309300 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Sprites/simple smoke/Smoke.anim
-  artifactKey: Guid(1385e57cdc2d5fa448e897b5bd95f1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/simple smoke/Smoke.anim using Guid(1385e57cdc2d5fa448e897b5bd95f1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034bda4752917bcfe62e5cada5c082f0') in 0.039318 seconds
-  Import took 0.041501 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.252774 seconds.
-  path: Assets/Prefabs/christestprefabs/Untitled_Artwork-1.prefab
-  artifactKey: Guid(2c6b1dfff2fc5144484c9335b0464649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/christestprefabs/Untitled_Artwork-1.prefab using Guid(2c6b1dfff2fc5144484c9335b0464649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c9051fbc86ebf86444b35ea65075e52') in 0.082986 seconds
-  Import took 0.085729 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 114.779397 seconds.
   path: Assets/Prefabs/christestprefabs/Smok.prefab
   artifactKey: Guid(2c6b1dfff2fc5144484c9335b0464649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/christestprefabs/Smok.prefab using Guid(2c6b1dfff2fc5144484c9335b0464649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7f99f6d310a8cf5f8ac8e0fa88040f5') in 0.013905 seconds
-  Import took 0.016855 seconds .
+Start importing Assets/Prefabs/christestprefabs/Smok.prefab using Guid(2c6b1dfff2fc5144484c9335b0464649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f129bfe86ec0daae6c53fbfaec53ea3d') in 0.123643 seconds
+  Import took 0.126219 seconds .
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.447770 seconds.
-  path: Assets/Prefabs/christestprefabs/shipShot.asset
-  artifactKey: Guid(32bc0dae2c464034d8c8a0f7c462f723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/christestprefabs/shipShot.asset using Guid(32bc0dae2c464034d8c8a0f7c462f723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eee7cc427e12381dcb7ff322f3be93d4') in 0.006330 seconds
-  Import took 0.008946 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012533 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.113 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1473 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 163.7 MB.
+System memory in use after: 163.1 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 1963.
+Total: 1.916700 ms (FindLiveObjects: 0.144100 ms CreateObjectMapping: 0.046400 ms MarkObjects: 1.455000 ms  DeleteObjects: 0.270200 ms)
 

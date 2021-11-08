@@ -13,139 +13,2654 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-11-08T20:59:32.273+01:00
-  initializedAtString: 2021-11-08T20:46:39.615+01:00
+  lastUpdatedAtString: 2021-11-08T23:16:57.628+01:00
+  initializedAtString: 2021-11-08T21:09:17.315+01:00
   entries:
+  - path: .vs\spacethingy2\v16\.suo
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\.vs\spacethingy2\v16\.suo
+    projectPath: .vs\spacethingy2\v16\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\christestprefabs\CityDamFX.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\CityDamFX.prefab
+    projectPath: Assets\Prefabs\christestprefabs\CityDamFX.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\christestprefabs\CityDamFX.prefab.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\CityDamFX.prefab.meta
+    projectPath: Assets\Prefabs\christestprefabs\CityDamFX.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\christestprefabs\Enemy1 death.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Enemy1
+      death.prefab
+    projectPath: Assets\Prefabs\christestprefabs\Enemy1 death.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\christestprefabs\Enemy1 death.prefab.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Enemy1
+      death.prefab.meta
+    projectPath: Assets\Prefabs\christestprefabs\Enemy1 death.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\christestprefabs\Enemy1.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Enemy1.prefab
+    projectPath: Assets\Prefabs\christestprefabs\Enemy1.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\christestprefabs\Enemy2 death.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Enemy2
+      death.prefab
+    projectPath: Assets\Prefabs\christestprefabs\Enemy2 death.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\christestprefabs\Enemy2 death.prefab.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Enemy2
+      death.prefab.meta
+    projectPath: Assets\Prefabs\christestprefabs\Enemy2 death.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\christestprefabs\Enemy2.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Enemy2.prefab
+    projectPath: Assets\Prefabs\christestprefabs\Enemy2.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\christestprefabs\EnemyBullet.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\EnemyBullet.prefab
+    projectPath: Assets\Prefabs\christestprefabs\EnemyBullet.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\christestprefabs\FriendlyBullet.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\FriendlyBullet.prefab
+    projectPath: Assets\Prefabs\christestprefabs\FriendlyBullet.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\christestprefabs\Particle System.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Particle
+      System.prefab
+    projectPath: Assets\Prefabs\christestprefabs\Particle System.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\christestprefabs\Particle System.prefab.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Particle
+      System.prefab.meta
+    projectPath: Assets\Prefabs\christestprefabs\Particle System.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\christestprefabs\PlayerShip.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\PlayerShip.prefab
+    projectPath: Assets\Prefabs\christestprefabs\PlayerShip.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Prefabs\christestprefabs\Smok.prefab
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Smok.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Smok.prefab
     projectPath: Assets\Prefabs\christestprefabs\Smok.prefab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Prefabs\christestprefabs\Smok.prefab.meta
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Smok.prefab.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Smok.prefab.meta
     projectPath: Assets\Prefabs\christestprefabs\Smok.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\christestprefabs\Smoke.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Smoke.prefab
+    projectPath: Assets\Prefabs\christestprefabs\Smoke.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Assets\Prefabs\christestprefabs\Smoke.prefab.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Prefabs\christestprefabs\Smoke.prefab.meta
+    projectPath: Assets\Prefabs\christestprefabs\Smoke.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\ChrisTestScene.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scenes\ChrisTestScene.unity
+    projectPath: Assets\Scenes\ChrisTestScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\GameScene.unity
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Scenes\GameScene.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scenes\GameScene.unity
     projectPath: Assets\Scenes\GameScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scripts\ChrisCode\bullet.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\ChrisCode\bullet.cs
+    projectPath: Assets\Scripts\ChrisCode\bullet.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\ChrisCode\GameManager.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\ChrisCode\GameManager.cs
+    projectPath: Assets\Scripts\ChrisCode\GameManager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\ChrisCode\playerMovement.cs
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Scripts\ChrisCode\playerMovement.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\ChrisCode\playerMovement.cs
     projectPath: Assets\Scripts\ChrisCode\playerMovement.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Sprites\simple smoke\Smoke.anim
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\simple
-      smoke\Smoke.anim
-    projectPath: Assets\Sprites\simple smoke\Smoke.anim
+  - path: Assets\Scripts\LucyCode\CityCode.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\CityCode.cs
+    projectPath: Assets\Scripts\LucyCode\CityCode.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Sprites\simple smoke\SmokeController.controller
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Assets\Sprites\simple
-      smoke\SmokeController.controller
-    projectPath: Assets\Sprites\simple smoke\SmokeController.controller
+  - path: Assets\Scripts\LucyCode\Enemy.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\Enemy.cs
+    projectPath: Assets\Scripts\LucyCode\Enemy.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scripts\LucyCode\EnemyOne.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\EnemyOne.cs
+    projectPath: Assets\Scripts\LucyCode\EnemyOne.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\LucyCode\EnemyTwo.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\EnemyTwo.cs
+    projectPath: Assets\Scripts\LucyCode\EnemyTwo.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\LucyCode\Spawner.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Scripts\LucyCode\Spawner.cs
+    projectPath: Assets\Scripts\LucyCode\Spawner.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sounds\Sound effects\Enemy_Shoot.wav
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\Enemy_Shoot.wav
+    projectPath: Assets\Sounds\Sound effects\Enemy_Shoot.wav
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sounds\Sound effects\Player_Shoot.wav
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sounds\Sound
+      effects\Player_Shoot.wav
+    projectPath: Assets\Sounds\Sound effects\Player_Shoot.wav
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\Enemy 1\FlashMaterial 1.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Enemy
+      1\FlashMaterial 1.mat
+    projectPath: Assets\Sprites\Enemy 1\FlashMaterial 1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Enemy 1\FlashMaterial 1.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Enemy
+      1\FlashMaterial 1.mat.meta
+    projectPath: Assets\Sprites\Enemy 1\FlashMaterial 1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion.meta
+    projectPath: Assets\Sprites\explosion.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\CityDamFX.controller
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\CityDamFX.controller
+    projectPath: Assets\Sprites\explosion\CityDamFX.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\CityDamFX.controller.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\CityDamFX.controller.meta
+    projectPath: Assets\Sprites\explosion\CityDamFX.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\explosion.anim
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\explosion.anim
+    projectPath: Assets\Sprites\explosion\explosion.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\explosion.anim.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\explosion.anim.meta
+    projectPath: Assets\Sprites\explosion\explosion.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-1.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-1.png
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-1.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-1.png.meta
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-10.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-10.png
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-10.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-10.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-10.png.meta
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-10.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-11.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-11.png
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-11.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-11.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-11.png.meta
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-11.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-2.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-2.png
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-2.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-2.png.meta
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-3.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-3.png
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-3.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-3.png.meta
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-4.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-4.png
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-4.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-4.png.meta
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-5.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-5.png
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-5.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-5.png.meta
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-5.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-6.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-6.png
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-6.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-6.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-6.png.meta
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-6.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-7.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-7.png
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-7.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-7.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-7.png.meta
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-7.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-8.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-8.png
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-8.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-8.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-8.png.meta
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-8.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-9.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-9.png
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-9.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\explosion\Untitled_Artwork-9.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\explosion\Untitled_Artwork-9.png.meta
+    projectPath: Assets\Sprites\explosion\Untitled_Artwork-9.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\New Piskel 1.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\New
+      Piskel 1.png.meta
+    projectPath: Assets\Sprites\New Piskel 1.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\Player\FlashMaterial.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\FlashMaterial.mat
+    projectPath: Assets\Sprites\Player\FlashMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Player\FlashMaterial.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\Sprites\Player\FlashMaterial.mat.meta
+    projectPath: Assets\Sprites\Player\FlashMaterial.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Fonts.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton OFL.txt
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Fonts\Anton OFL.txt
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton OFL.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton OFL.txt.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Fonts\Anton OFL.txt.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton OFL.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Fonts\Anton.ttf
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Fonts\Anton.ttf.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers - OFL.txt
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Fonts\Bangers - OFL.txt
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers - OFL.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers - OFL.txt.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Fonts\Bangers - OFL.txt.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers - OFL.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Fonts\Bangers.ttf
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Fonts\Bangers.ttf.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic Highway Sign.TTF
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Fonts\Electronic Highway Sign.TTF
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic Highway Sign.TTF
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic Highway Sign.TTF.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Fonts\Electronic Highway Sign.TTF.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic Highway Sign.TTF.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Fonts\Oswald-Bold.ttf
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Fonts\Oswald-Bold.ttf.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Fonts\Roboto-Bold.ttf
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Fonts\Roboto-Bold.ttf.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Materials.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials\Crate - Surface Shader
+      Scene.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Materials\Crate - Surface Shader Scene.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Crate - Surface
+      Shader Scene.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials\Crate - Surface Shader
+      Scene.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Materials\Crate - Surface Shader Scene.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Crate - Surface
+      Shader Scene.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Logo Scene.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Materials\Ground - Logo Scene.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Logo Scene.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Logo Scene.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Materials\Ground - Logo Scene.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Logo Scene.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Surface Shader
+      Scene.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Materials\Ground - Surface Shader Scene.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Surface
+      Shader Scene.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Surface Shader
+      Scene.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Materials\Ground - Surface Shader Scene.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Surface
+      Shader Scene.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials\Small Crate_diffuse.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Materials\Small Crate_diffuse.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Small Crate_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials\Small Crate_diffuse.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Materials\Small Crate_diffuse.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Small Crate_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Prefabs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Prefabs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Prefabs\Text Popup.prefab
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Prefabs\Text Popup.prefab.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 1.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 1.prefab
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab
+      1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 1.prefab.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 1.prefab.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab
+      1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 2.prefab
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 2.prefab
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab
+      2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 2.prefab.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 2.prefab.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab
+      2.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Color Gradient Presets.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Blue
+      to Purple - Vertical.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Color Gradient Presets\Blue to Purple - Vertical.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Blue
+      to Purple - Vertical.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Blue
+      to Purple - Vertical.asset.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Color Gradient Presets\Blue to Purple - Vertical.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Blue
+      to Purple - Vertical.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Dark
+      to Light Green - Vertical.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Color Gradient Presets\Dark to Light Green
+      - Vertical.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Dark
+      to Light Green - Vertical.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Dark
+      to Light Green - Vertical.asset.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Color Gradient Presets\Dark to Light Green
+      - Vertical.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Dark
+      to Light Green - Vertical.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Light
+      to Dark Green - Vertical.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Color Gradient Presets\Light to Dark Green
+      - Vertical.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Light
+      to Dark Green - Vertical.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Light
+      to Dark Green - Vertical.asset.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Color Gradient Presets\Light to Dark Green
+      - Vertical.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Light
+      to Dark Green - Vertical.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Yellow
+      to Orange - Vertical.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Color Gradient Presets\Yellow to Orange - Vertical.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Yellow
+      to Orange - Vertical.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Yellow
+      to Orange - Vertical.asset.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Color Gradient Presets\Yellow to Orange - Vertical.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Yellow
+      to Orange - Vertical.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Drop Shadow.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Drop Shadow.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Drop Shadow.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Drop Shadow.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Drop Shadow.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Drop Shadow.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Outline.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Outline.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Outline.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Outline.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Outline.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Outline.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Sunny Days.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Sunny Days.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Sunny Days.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Sunny Days.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Sunny Days.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Sunny Days.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF.asset.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF - Drop Shadow.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF - Drop Shadow.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF - Drop Shadow.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF - Drop Shadow.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF - Drop Shadow.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF - Drop Shadow.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF - Outline.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF - Outline.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF - Outline.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF - Outline.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF - Outline.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF - Outline.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF Glow.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF Glow.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF Glow.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF Glow.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF Glow.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF Glow.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF Logo.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF Logo.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF Logo.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF Logo.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF Logo.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF Logo.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF.asset.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
+      Highway Sign SDF.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Electronic Highway Sign SDF.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
+      Highway Sign SDF.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
+      Highway Sign SDF.asset.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Electronic Highway Sign SDF.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
+      Highway Sign SDF.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Metalic Green.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Metalic
+      Green.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Metalic Green.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Metalic Green.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Metalic
+      Green.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Metalic Green.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Overlay.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Overlay.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Overlay.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Overlay.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Overlay.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Overlay.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Soft Mask.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Soft
+      Mask.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Soft Mask.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Soft Mask.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Soft
+      Mask.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Soft Mask.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
+      Bold SDF.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Oswald Bold SDF.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
+      Bold SDF.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
+      Bold SDF.asset.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Oswald Bold SDF.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
+      Bold SDF.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF - Drop Shadow.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF - Drop Shadow.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF - Drop Shadow.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF - Drop Shadow.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF - Drop Shadow.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF - Drop Shadow.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF - Surface.mat
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF - Surface.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF - Surface.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF - Surface.mat.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF - Surface.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF - Surface.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF.asset.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Sprite Assets.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\Default Sprite
+      Asset.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Sprite Assets\Default Sprite Asset.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\Default
+      Sprite Asset.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\Default Sprite
+      Asset.asset.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Sprite Assets\Default Sprite Asset.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\Default
+      Sprite Asset.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\DropCap Numbers.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Sprite Assets\DropCap Numbers.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\DropCap
+      Numbers.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\DropCap Numbers.asset.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Resources\Sprite Assets\DropCap Numbers.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\DropCap
+      Numbers.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single Line TextMesh
+      Pro.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\01-  Single Line TextMesh Pro.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single Line TextMesh
+      Pro.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single Line TextMesh
+      Pro.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\01-  Single Line TextMesh Pro.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single Line TextMesh
+      Pro.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh Pro.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh Pro.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh
+      Pro.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh Pro.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh Pro.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh
+      Pro.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\03 - Line Justification.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\03 - Line Justification.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\03 - Line Justification.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\03 - Line Justification.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\03 - Line Justification.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\03 - Line Justification.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\05 - Style Tags.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\05 - Style Tags.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\05 - Style Tags.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\05 - Style Tags.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\05 - Style Tags.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\05 - Style Tags.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\06 - Extra Rich Text Examples.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\06 - Extra Rich Text Examples.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\06 - Extra Rich Text
+      Examples.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\06 - Extra Rich Text Examples.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\06 - Extra Rich Text Examples.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\06 - Extra Rich Text
+      Examples.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\07 - Superscript & Subscript
+      Example.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\07 - Superscript & Subscript Example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\07 - Superscript &
+      Subscript Example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\07 - Superscript & Subscript
+      Example.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\07 - Superscript & Subscript Example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\07 - Superscript &
+      Subscript Example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\08 - Improved Text Alignment.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\08 - Improved Text Alignment.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\08 - Improved Text
+      Alignment.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\08 - Improved Text Alignment.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\08 - Improved Text Alignment.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\08 - Improved Text
+      Alignment.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\10 - Bullets & Numbered List
+      Example.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\10 - Bullets & Numbered List Example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\10 - Bullets & Numbered
+      List Example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\10 - Bullets & Numbered List
+      Example.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\10 - Bullets & Numbered List Example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\10 - Bullets & Numbered
+      List Example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\11 - The Style Tag.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\11 - The Style Tag.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\11 - The Style Tag.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\11 - The Style Tag.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\11 - The Style Tag.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\11 - The Style Tag.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\12 - Link Example.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\12 - Link Example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\12 - Link Example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\12 - Link Example.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\12 - Link Example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\12 - Link Example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\12a - Text Interactions.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\12a - Text Interactions.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\12a - Text Interactions.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\12a - Text Interactions.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\12a - Text Interactions.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\12a - Text Interactions.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\14 - Multi Font & Sprites.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\14 - Multi Font & Sprites.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\14 - Multi Font & Sprites.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\14 - Multi Font & Sprites.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\14 - Multi Font & Sprites.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\14 - Multi Font & Sprites.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\15 - Inline Graphics & Sprites.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\15 - Inline Graphics & Sprites.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\15 - Inline Graphics
+      & Sprites.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\15 - Inline Graphics & Sprites.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\15 - Inline Graphics & Sprites.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\15 - Inline Graphics
+      & Sprites.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\16 - Linked text overflow
+      mode example.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\16 - Linked text overflow mode example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\16 - Linked text overflow
+      mode example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\16 - Linked text overflow
+      mode example.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\16 - Linked text overflow mode example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\16 - Linked text overflow
+      mode example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\17 - Old Computer Terminal.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\17 - Old Computer Terminal.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\17 - Old Computer Terminal.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\17 - Old Computer Terminal.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\17 - Old Computer Terminal.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\17 - Old Computer Terminal.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\18 - ScrollRect & Masking
+      & Layout.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\18 - ScrollRect & Masking & Layout.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\18 - ScrollRect & Masking
+      & Layout.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\18 - ScrollRect & Masking
+      & Layout.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\18 - ScrollRect & Masking & Layout.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\18 - ScrollRect & Masking
+      & Layout.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\19 - Masking Texture & Soft
+      Mask.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\19 - Masking Texture & Soft Mask.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\19 - Masking Texture
+      & Soft Mask.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\19 - Masking Texture & Soft
+      Mask.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\19 - Masking Texture & Soft Mask.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\19 - Masking Texture
+      & Soft Mask.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\20 - Input Field with Scrollbar.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\20 - Input Field with Scrollbar.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\20 - Input Field with
+      Scrollbar.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\20 - Input Field with Scrollbar.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\20 - Input Field with Scrollbar.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\20 - Input Field with
+      Scrollbar.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\21 - Script Example.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\21 - Script Example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\21 - Script Example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\21 - Script Example.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\21 - Script Example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\21 - Script Example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\22 - Basic Scripting Example.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\22 - Basic Scripting Example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\22 - Basic Scripting
+      Example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\22 - Basic Scripting Example.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\22 - Basic Scripting Example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\22 - Basic Scripting
+      Example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\23 - Animating Vertex Attributes.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\23 - Animating Vertex Attributes.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\23 - Animating Vertex
+      Attributes.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\23 - Animating Vertex Attributes.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\23 - Animating Vertex Attributes.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\23 - Animating Vertex
+      Attributes.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\24 - Surface Shader Example.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\24 - Surface Shader Example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\24 - Surface Shader
+      Example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\24 - Surface Shader Example.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\24 - Surface Shader Example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\24 - Surface Shader
+      Example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\26 - Dropdown Placeholder
+      Example.unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\26 - Dropdown Placeholder Example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\26 - Dropdown Placeholder
+      Example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\26 - Dropdown Placeholder
+      Example.unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\26 - Dropdown Placeholder Example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\26 - Dropdown Placeholder
+      Example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark (Floating Text).unity
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\Benchmark (Floating Text).unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark (Floating
+      Text).unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark (Floating Text).unity.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scenes\Benchmark (Floating Text).unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark (Floating
+      Text).unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\Benchmark01.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\Benchmark01.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\Benchmark02.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\Benchmark02.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\Benchmark03.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\Benchmark03.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\Benchmark04.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\Benchmark04.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\CameraController.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\CameraController.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\ChatController.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\ChatController.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\DropdownSample.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\DropdownSample.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\EnvMapAnimator.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\EnvMapAnimator.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\ObjectSpin.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\ObjectSpin.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\SimpleScript.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\SimpleScript.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\SkewTextExample.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\SkewTextExample.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TeleType.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TeleType.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TextMeshSpawner.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TextMeshSpawner.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\VertexColorCycler.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\VertexColorCycler.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\VertexJitter.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\VertexJitter.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\VertexShakeA.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\VertexShakeA.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\VertexShakeB.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\VertexShakeB.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\VertexZoom.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\VertexZoom.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\WarpTextExample.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Scripts\WarpTextExample.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Sprites.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Sprites.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Sprites.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Sprites\Default Sprites.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Sprites\Default Sprites.png
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Sprites\Default Sprites.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Sprites\Default Sprites.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Sprites\Default Sprites.png.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Sprites\Default Sprites.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap Numbers.psd
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Sprites\DropCap Numbers.psd
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap Numbers.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap Numbers.psd.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Sprites\DropCap Numbers.psd.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap Numbers.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Brushed Metal 3.jpg
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Brushed Metal 3.jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Brushed Metal 3.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Brushed Metal 3.jpg.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Brushed Metal 3.jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Brushed Metal 3.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Cement.jpg
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Floor Cement.jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Cement.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Cement.jpg.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Floor Cement.jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Cement.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Tiles 1 - diffuse.jpg
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Floor Tiles 1 - diffuse.jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Tiles 1 - diffuse.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Tiles 1 - diffuse.jpg.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Floor Tiles 1 - diffuse.jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Tiles 1 - diffuse.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Diagonal (Color).jpg
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Gradient Diagonal (Color).jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Diagonal
+      (Color).jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Diagonal (Color).jpg.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Gradient Diagonal (Color).jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Diagonal
+      (Color).jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Horizontal (Color).jpg
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Gradient Horizontal (Color).jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Horizontal
+      (Color).jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Horizontal (Color).jpg.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Gradient Horizontal (Color).jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Horizontal
+      (Color).jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Vertical (Color).jpg
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Gradient Vertical (Color).jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Vertical
+      (Color).jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Vertical (Color).jpg.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Gradient Vertical (Color).jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Vertical
+      (Color).jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_normal.jpg
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Small Crate_normal.jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_normal.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_normal.jpg.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Small Crate_normal.jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_normal.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked Text
+      Image 1.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Text Overflow - Linked Text Image 1.png
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked
+      Text Image 1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked Text
+      Image 1.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Text Overflow - Linked Text Image 1.png.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked
+      Text Image 1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked Text
+      UI Screenshot.png
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Text Overflow - Linked Text UI Screenshot.png
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked
+      Text UI Screenshot.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked Text
+      UI Screenshot.png.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Text Overflow - Linked Text UI Screenshot.png.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked
+      Text UI Screenshot.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Double.psd
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Wipe Pattern - Radial Double.psd
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial
+      Double.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Double.psd.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Wipe Pattern - Radial Double.psd.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial
+      Double.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Quad.psd
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Wipe Pattern - Radial Quad.psd
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial
+      Quad.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Quad.psd.meta
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Assets\TextMesh
+      Pro\Examples & Extras\Textures\Wipe Pattern - Radial Quad.psd.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial
+      Quad.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\ArtifactDB
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
+  - path: Library\PackageManager\ProjectCache
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\PackageManager\ProjectCache
+    projectPath: Library\PackageManager\ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PackageManager\ProjectCache.md5
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\PackageManager\ProjectCache.md5
+    projectPath: Library\PackageManager\ProjectCache.md5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\SourceAssetDB
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Library\SourceAssetDB
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\ApiUpdaterCheck.txt
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\ApiUpdaterCheck.txt
+    projectPath: Logs\ApiUpdaterCheck.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker0.log
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker0-prev.log
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Logs\shadercompiler-AssetImportWorker0.log
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ProjectSettings\TimelineSettings.asset
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\ProjectSettings\TimelineSettings.asset
-    projectPath: ProjectSettings\TimelineSettings.asset
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Packages\manifest.json
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Packages\manifest.json
+    projectPath: Packages\manifest.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Packages\packages-lock.json
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\Packages\packages-lock.json
+    projectPath: Packages\packages-lock.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TimelineSettings.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\ProjectSettings\TimelineSettings.asset
+    projectPath: ProjectSettings\TimelineSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: UserSettings\EditorUserSettings.asset
-    fullPath: C:\Users\chris\Documents\GitHub\spacethingy2\UserSettings\EditorUserSettings.asset
+    fullPath: C:\Users\christian.baza\Documents\GitHub\spacethingy2\UserSettings\EditorUserSettings.asset
     projectPath: UserSettings\EditorUserSettings.asset
     originalPath: 
     indexStatus: 0

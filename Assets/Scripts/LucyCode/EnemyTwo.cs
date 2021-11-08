@@ -12,10 +12,6 @@ public class EnemyTwo : Enemy
         base.Start();
         StartCoroutine(EnemyAtackTimer(10));
     }
-    public override void CityDamage()
-    {
-        gameManager.cityHealth -= 5;// tar bort hp från staden;
-    }
     
     public override IEnumerator Move()//kåden för att bestäma hur enemy 2 ska röra sig -Lucy
     {

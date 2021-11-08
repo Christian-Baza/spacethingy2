@@ -16,6 +16,8 @@ public class CityCode : MonoBehaviour
         city.SetInteger("animHealth", citySpriteHealth);
         city1.SetInteger("animHealth", citySpriteHealth);
         city2.SetInteger("animHealth", citySpriteHealth);
+
+        Time.timeScale = 1;
     }
     private void Update()
     {

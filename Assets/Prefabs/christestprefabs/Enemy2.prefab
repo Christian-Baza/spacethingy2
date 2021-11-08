@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8981075812375912935}
   - component: {fileID: 8981075812375912928}
   - component: {fileID: 1676540805}
+  - component: {fileID: -1219365236725392113}
   m_Layer: 0
   m_Name: Enemy2
   m_TagString: Player
@@ -117,5 +118,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameManager: {fileID: 0}
   lineStart: {x: 0, y: 0, z: 0}
-  deathEffect: {fileID: 704665330716297815, guid: 3d44b6f9c1c3bd644af3a91927bbe338, type: 3}
+  deathEffect: {fileID: 704665330716297815, guid: abf43d64e60251545b02c15cc38dec80, type: 3}
+  smokeEffect: {fileID: 8413432664433942239, guid: 2c6b1dfff2fc5144484c9335b0464649, type: 3}
+  cityDamagefx: {fileID: 8413432664433942239, guid: 370a7108d2ab9a547801c4a586aaa9f5, type: 3}
+  flashMat: {fileID: 2100000, guid: 5b50b2c5820e4d141a9aad662fc05914, type: 2}
+  health: 2
   MoveSpeed: -1
+--- !u!70 &-1219365236725392113
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8748930087006655856}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0007377863, y: -0.13768917}
+  m_Size: {x: 0.7222321, y: 1.6229643}
+  m_Direction: 0

@@ -23,11 +23,16 @@ public class bullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.GetComponent<playerMovement>() != null && IsEnemyBullet == true)
+        if (collision.GetComponent<playerMovement>() != null && IsEnemyBullet == true) //Ifall att ett fiende skott går in i spelaren blir spelaren stunned. -Chris
         {
             playerMovement player;
             player = collision.GetComponent<playerMovement>();
             player.StartCoroutine(player.Stun(0.25f));
+            Destroy(gameObject);
+        }
+        if (collision.GetComponent<Enemy>() != null && IsEnemyBullet == false)
+        {
+            collision.GetComponent<Enemy>().EnemyDamage();
             Destroy(gameObject);
         }
         /*if (collision.GetComponent<Orb>() != null)

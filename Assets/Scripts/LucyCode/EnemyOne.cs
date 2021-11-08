@@ -13,10 +13,6 @@ public class EnemyOne : Enemy
         base.Start();
         StartCoroutine(EnemyAtackTimer(5));
     }
-    public override void CityDamage()
-    {
-        gameManager.cityHealth -= 5;
-    }
     public override IEnumerator Move()// flytar enemy1 ett steg åt häger -Lucy
     {
         yield return new WaitForSeconds(1);
