@@ -153,7 +153,7 @@ MonoBehaviour:
   smokeEffect: {fileID: 8413432664433942239, guid: 2c6b1dfff2fc5144484c9335b0464649, type: 3}
   cityDamagefx: {fileID: 8413432664433942239, guid: 370a7108d2ab9a547801c4a586aaa9f5, type: 3}
   flashMat: {fileID: 2100000, guid: 5b50b2c5820e4d141a9aad662fc05914, type: 2}
-  health: 3
+  health: 5
   BulletPrefab: {fileID: 1976627209695753384, guid: 485749895c437114683dd8f7dba671f4, type: 3}
   GunPoint: {fileID: 99438340}
 --- !u!70 &7026407642064616003

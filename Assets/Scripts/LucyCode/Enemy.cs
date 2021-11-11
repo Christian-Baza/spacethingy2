@@ -25,7 +25,6 @@ public class Enemy : MonoBehaviour
     public virtual void CityHit()// metoden för när fienden träffar staden -Lucy
     {
         CityDamage();
-        Destroy(gameObject);
     }
     public virtual void EnemyAtack()// för när fienden släpper bomber -Lucy
     {
@@ -35,7 +34,8 @@ public class Enemy : MonoBehaviour
     {
         gameManager.cityHealth -= 5;
         Instantiate(cityDamagefx, transform.position, Quaternion.identity);
-        EnemyDeath();
+        gameManager.Shake(false);
+        Destroy(gameObject);
     }
     public virtual void EnemyDamage()//För när spelaren skadar fienden -Lucy
     {
@@ -49,8 +49,10 @@ public class Enemy : MonoBehaviour
     public virtual void EnemyDeath() //För när spelaren dödar fienden -Chris
     {
         Instantiate(deathEffect, transform.position, Quaternion.identity);
-        Destroy(gameObject);
         gameManager.score++;
+        gameManager.Shake(true);
+        Destroy(gameObject);
+        
     }
     public virtual IEnumerator Move()// tom move coroutine för senare specifikation -Lucy
     {

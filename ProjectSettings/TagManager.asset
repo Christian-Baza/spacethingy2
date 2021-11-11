@@ -6,11 +6,12 @@ TagManager:
   tags:
   - Wall
   - City
+  - Bullet
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - PostProssesing
   - Water
   - UI
   - Enemy

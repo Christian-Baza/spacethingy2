@@ -50,7 +50,7 @@ public class playerMovement : MonoBehaviour
             rb2d.AddForce(new Vector2(0, -speed / 2 * Time.deltaTime));
         }
         
-        if (Input.GetButton("Jump") && Time.time > NextShot) // Spelaren kan bara skjuta om det har gått en viss tid. -Chris
+        if (Input.GetButton("Jump") && Time.time > NextShot && stunned != true) // Spelaren kan bara skjuta om det har gått en viss tid. -Chris
         {
             NextShot = Time.time + GunCooldown; // Återställer timern för GunCooldown. -Chris
             Transform Bullet = Instantiate(BulletPrefab, GunPoint.position, Quaternion.identity);
