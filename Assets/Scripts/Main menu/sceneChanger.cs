@@ -4,6 +4,15 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class sceneChanger : MonoBehaviour
 {
+    [SerializeField] GameObject dontDestroy;
+    private void Start()
+    {
+        GameObject.DontDestroyOnLoad(dontDestroy);
+        if (SceneManager.GetActiveScene().buildIndex == 2)
+        {
+            dontDestroy.SetActive(true);
+        }
+    }
     public void LoadScene(string sceneName)
     {
         SceneManager.LoadScene(sceneName);

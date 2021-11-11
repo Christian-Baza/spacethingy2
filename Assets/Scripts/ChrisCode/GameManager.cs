@@ -13,17 +13,24 @@ public class GameManager : MonoBehaviour
     string scoreText;
     [SerializeField] ShakePreset lightShake;
     [SerializeField] ShakePreset heavyShake;
-
+    [SerializeField] GameObject Instruktions;
     private hpScript hpScript;
     void Start()
     {
         hpScript = GetComponent<hpScript>();
         scoreText = scoreDisplay.text; // Bestämmer vad som ska stå innan poängen. -Chris
+        Time.timeScale = 0;
+        Instruktions = GameObject.Find("Intrudoktion");
     }
     void Update()
     {
         hpScript.SetHealth(cityHealth);
         scoreDisplay.text = scoreText + score;
+        if (Input.anyKey)// Sätter igång spelet -Lucy
+        {
+            Instruktions.SetActive(false);
+            Time.timeScale = 1;
+        }
     }
 
     public void Shake(bool isLight) // Skakar skärmen när tillkallad, har 2 olika styrkor på skakningen.
